@@ -1,8 +1,21 @@
 # Table of contents
 # Learn more at https://jupyterbook.org/customize/toc.html
 
+
 format: jb-book
 root: intro
 chapters:
-- file: markdown
-- file: notebooks
+- file: options
+- file: consulting
+  sections:
+  - file: consulting1
+  - file: consulting2
+  - file: consulting3
+  - file: consulting4
+- file: training
+  sections:
+  - file: training1
+  - file: training2
+  - file: training3
+  - file: training4
+- file: benefits

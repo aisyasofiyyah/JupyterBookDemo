@@ -1,6 +1,6 @@
-# Welcome to your Jupyter Book
+# Welcome
 
-This is Aisya's tutorial book.
+*Welcome to Aisya's tutorial book.*
 
 :::{note}
 Here is a note!
