@@ -30,6 +30,7 @@
     <link rel="stylesheet" type="text/css" href="_static/sphinx-thebe.css" />
     <link rel="stylesheet" type="text/css" href="_static/panels-main.c949a650a448cc0ae9fd3441c0e17fb0.css" />
     <link rel="stylesheet" type="text/css" href="_static/panels-variables.06eb56fa6e07937060861dad626602ad.css" />
+    <link rel="stylesheet" type="text/css" href="_static/custom.css" />
     
   <link rel="preload" as="script" href="_static/js/index.1c5a1a01449ed65a7b51.js">
 
@@ -96,7 +97,7 @@
 <ul class="current nav bd-sidenav">
  <li class="toctree-l1">
   <a class="reference internal" href="options.html">
-   Analytics Training Programme Learning Options
+   Learning Options
   </a>
  </li>
  <li class="toctree-l1 current active has-children">
@@ -165,7 +166,7 @@
  </li>
  <li class="toctree-l1">
   <a class="reference internal" href="benefits.html">
-   Benefits of Joining Analytics Training Programme
+   Benefits
   </a>
  </li>
 </ul>
@@ -250,29 +251,6 @@
         <!-- Table of contents -->
         <div class="d-none d-md-block col-md-2 bd-toc show">
             
-            <div class="tocsection onthispage pt-5 pb-3">
-                <i class="fas fa-list"></i> Contents
-            </div>
-            <nav id="bd-toc-nav" aria-label="Page">
-                <ul class="visible nav section-nav flex-column">
- <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#ai-capabilities">
-   AI Capabilities
-  </a>
- </li>
- <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#architecture-diagram-for-hybrid-cloud-setup">
-   Architecture Diagram for Hybrid Cloud Setup
-  </a>
- </li>
- <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#flow-diagram">
-   Flow Diagram
-  </a>
- </li>
-</ul>
-
-            </nav>
         </div>
     </div>
 </div>
@@ -283,17 +261,41 @@
                 
   <div class="tex2jax_ignore mathjax_ignore section" id="discovery-workshop">
 <h1>Discovery Workshop<a class="headerlink" href="#discovery-workshop" title="Permalink to this headline">¶</a></h1>
-<div class="section" id="ai-capabilities">
-<h2>AI Capabilities<a class="headerlink" href="#ai-capabilities" title="Permalink to this headline">¶</a></h2>
-<a class="bg-primary mb-1 reference internal image-reference" href="capabilities.png"><img alt="capabilities" class="bg-primary mb-1 align-center" src="capabilities.png" style="width: 700px;" /></a>
+<div class="tabbed-set docutils">
+<input checked="checked" id="11329910-9cf6-41b4-8b83-b52449fb935d" name="a69e37ad-b850-4f27-89d7-b4cf8ff5dfc2" type="radio">
+</input><label class="tabbed-label" for="11329910-9cf6-41b4-8b83-b52449fb935d">
+AI Capabilities</label><div class="tabbed-content docutils">
+<a class="mb-1 reference internal image-reference" href="_images/capabilities.png"><img alt="_images/capabilities.png" class="mb-1 align-center" src="_images/capabilities.png" style="width: 700px;" /></a>
 </div>
-<div class="section" id="architecture-diagram-for-hybrid-cloud-setup">
-<h2>Architecture Diagram for Hybrid Cloud Setup<a class="headerlink" href="#architecture-diagram-for-hybrid-cloud-setup" title="Permalink to this headline">¶</a></h2>
-<a class="bg-primary mb-1 reference internal image-reference" href="bigdata1.png"><img alt="bigdata1" class="bg-primary mb-1 align-center" src="bigdata1.png" style="width: 700px;" /></a>
+<input id="abdc631c-e6d7-4048-8706-2ea03059bca5" name="a69e37ad-b850-4f27-89d7-b4cf8ff5dfc2" type="radio">
+</input><label class="tabbed-label" for="abdc631c-e6d7-4048-8706-2ea03059bca5">
+Architecture Diagram for Hybrid Cloud Setup</label><div class="tabbed-content docutils">
+<a class="mb-1 reference internal image-reference" href="_images/bigdata1.png"><img alt="_images/bigdata1.png" class="mb-1 align-center" src="_images/bigdata1.png" style="width: 700px;" /></a>
 </div>
-<div class="section" id="flow-diagram">
-<h2>Flow Diagram<a class="headerlink" href="#flow-diagram" title="Permalink to this headline">¶</a></h2>
-<a class="bg-primary mb-1 reference internal image-reference" href="bigdata2.png"><img alt="bigdata2" class="bg-primary mb-1 align-center" src="bigdata2.png" style="width: 700px;" /></a>
+<input id="ec573d27-7b0e-46ae-b77e-588da5dfb321" name="a69e37ad-b850-4f27-89d7-b4cf8ff5dfc2" type="radio">
+</input><label class="tabbed-label" for="ec573d27-7b0e-46ae-b77e-588da5dfb321">
+Flow Diagram</label><div class="tabbed-content docutils">
+<div class="text-justify sidebar">
+<p class="sidebar-title">Flow</p>
+<ol class="simple">
+<li><p>Batch data sources collected into data lake raw zone</p></li>
+<li><p>Raw data are processed with rich processing capabilities</p></li>
+<li><p>Clean data are stored in data lake clean/curated zone</p></li>
+<li><p>Curated data available in DWH via copy or virtual connection</p></li>
+<li><p>Transformed business dataset stored in OLAP database</p></li>
+<li><p>DWH data of interest made available to BI system</p></li>
+<li><p>OLAP data of interest made available to BI system</p></li>
+<li><p>Scheduled reporting jobs store results in report portal</p></li>
+<li><p>Controlled datasets made available to data scientists</p></li>
+<li><p>Data Scientists utilize data lab tool to explore datasets</p></li>
+<li><p>Dataset enhanced analytically are stored in App Data Store</p></li>
+<li><p>Applications access analytically enhanced data via API</p></li>
+<li><p>Event data collected with streaming data pipeline</p></li>
+<li><p>Streaming data stored in OLAP powers real-time dashboards</p></li>
+</ol>
+</div>
+<a class="p-4 reference internal image-reference" href="_images/bigdata2.png"><img alt="_images/bigdata2.png" class="p-4 align-center" src="_images/bigdata2.png" style="width: 510px;" /></a>
+</div>
 </div>
 </div>
 

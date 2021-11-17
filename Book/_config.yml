@@ -8,7 +8,7 @@ logo: logo.png
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
 execute:
-  execute_notebooks: cache
+  execute_notebooks: force
 
 # Define the name of the latex output file for PDF builds
 latex:
@@ -30,3 +30,17 @@ repository:
 html:
   use_issues_button: true
   use_repository_button: true
+
+# default extensions to enable in the myst parser. See https://myst-parser.readthedocs.io/en/latest/using/syntax-optional.html
+parse:
+  myst_enable_extensions: 
+    - colon_fence
+    - html_admonition
+    - html_image
+    - tasklist
+
+sphinx:
+  config:
+    html_css_files: custom.css
+
+       

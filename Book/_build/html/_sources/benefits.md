@@ -1,1 +1,1 @@
-# Benefits of Joining Analytics Training Programme 
+# Benefits  

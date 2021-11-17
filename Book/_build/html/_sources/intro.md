@@ -10,8 +10,10 @@ This guide is made to help you understand what kind of services we provide and w
 
 Here is a quick review of what content this guide has to make it easier to navigate.
 
-:::{note} 
-* Analytics Programme Learning Options
-* Services Provided
-* Benefits of Joining Analytics Training Programme 2022
+:::{admonition} Quick Review
+:class: note 
+* [**Analytics Programme Learning Options**](options.md)
+* [**Services Provided - Consultancy**](consulting.md)
+* [**Services Provided - Training**](training.md)
+* [**Benefits of Joining Analytics Training Programme 2022**](benefits.md)
 :::
