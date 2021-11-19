@@ -4,6 +4,6 @@ sphinx-book-theme
 myst-parser
 matplotlib
 numpy
-fontawesome-free==5.15.4
+fontawesome-free==5.13
 pyparsing==2.2.1
 docutils==0.15
