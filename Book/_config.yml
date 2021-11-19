@@ -30,7 +30,7 @@ repository:
 html:
   use_issues_button: true
   use_repository_button: true
-  favicon: _static\vendor\fontawesome\5.13.0\css\all.min.css
+  favicon: _static/all.min.css
 
 # default extensions to enable in the myst parser. See https://myst-parser.readthedocs.io/en/latest/using/syntax-optional.html
 parse:
@@ -44,7 +44,6 @@ sphinx:
   config:
     html_css_files: 
       - custom.css
-      - all.min.css
       
 
        
