@@ -42,9 +42,7 @@ parse:
 sphinx:
   config:
     html_css_files: 
-      - custom.css
-    html_extra_path: 
-      - all.min.css 
+      - custom.css 
       
 
        
