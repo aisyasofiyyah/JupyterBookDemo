@@ -17,7 +17,7 @@ p.sidebar-title {
 }
 
 div.admonition, div.topic, blockquote {
-    clear: left;
+    clear: none;
 }
 
 /* -- tables ---------------------------------------------------------------- */

@@ -21,7 +21,7 @@
 :::::{tabbed} Flow Diagram
 ::::{image} bigdata2.png
 :class: p-4
-:width: 510px
+:width: 500px
 :align: left
 ::::
 :::{sidebar} Flow
