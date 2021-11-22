@@ -5,7 +5,6 @@ The data governance component manages the data governance and stewardship workfl
 ## Analytics Lifecycle Roles
 
 ```{panels}
-:column: col-6 
 :card: border-2
 :body: text-left-justified
 :header: bg-warning text-center
