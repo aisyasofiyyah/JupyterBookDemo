@@ -1,24 +1,27 @@
 # Discovery Workshop 
 
-````{tabbed} AI Capabilities
-
-```{image} capabilities.png
-:class: mb-1
-:width: 700px
+::::{tabbed} AI Capabilities
+:::{image} capabilities.png
+:class: responsive
+:width: 100%
 :align: center
-```
-````
+:::
+::::
 
-````{tabbed} Architecture Diagram for Hybrid Cloud Setup
-
-```{image} bigdata1.png
-:class: mb-1
-:width: 700px
+::::{tabbed} Architecture Diagram for Hybrid Cloud Setup
+:::{image} bigdata1.png
+:class: responsive
+:width: 100%
 :align: center
-```
-````
-````{tabbed} Flow Diagram
+:::
+::::
 
+:::::{tabbed} Flow Diagram
+::::{image} bigdata2.png
+:class: responsive
+:width: 100%
+:align: center
+::::
 :::{sidebar} Flow
 :class: text-justify
 1) Batch data sources collected into data lake raw zone
@@ -36,10 +39,4 @@
 13) Event data collected with streaming data pipeline
 14) Streaming data stored in OLAP powers real-time dashboards
 :::
-
-```{image} bigdata2.png
-:class: p-4
-:width: 510px
-:align: center
-```
-````
+:::::

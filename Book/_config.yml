@@ -42,7 +42,9 @@ parse:
 sphinx:
   config:
     html_css_files: 
-      - custom.css
+      - customtoggle.css
+      - customcolor.css
+      - custombasic.css
       - all.min.css
       - style.css
        
