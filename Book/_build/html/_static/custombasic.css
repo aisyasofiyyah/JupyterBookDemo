@@ -8,8 +8,8 @@ aside.sidebar {
     /*background-color: white;*/
     width: 100%;
     float: right;
-    clear: both;
-    overflow-x: clip;
+    clear: right;
+    overflow-x: auto;
 }
 
 p.sidebar-title {
@@ -18,4 +18,23 @@ p.sidebar-title {
 
 div.admonition, div.topic, blockquote {
     clear: left;
+}
+
+/* On screens that are less than 767px wide, make the sidebar into a topbar */
+@media screen and (max-width: 767px) {
+    .sidebar {
+        width: 100%;
+        height: auto;
+        position: relative;
+    }
+   .sidebar a {float: top;}
+   div.content {margin-left: 0;}
+}
+  
+/* On screens that are less than 400px, display the bar vertically, instead of horizontally */
+@media screen and (max-width: 400px) {
+    .sidebar a {
+        text-align: center;
+        float: none;
+    }
 }

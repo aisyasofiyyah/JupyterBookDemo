@@ -19,7 +19,11 @@
 ::::
 
 :::::{tabbed} Flow Diagram
-
+::::{image} bigdata2.png
+:class: p-4
+:width: 510px
+:align: left
+::::
 :::{sidebar} Flow
 :class: text-justify
 1) Batch data sources collected into data lake raw zone
@@ -37,10 +41,4 @@
 13) Event data collected with streaming data pipeline
 14) Streaming data stored in OLAP powers real-time dashboards
 :::
-
-::::{image} bigdata2.png
-:class: p-4
-:width: 510px
-:align: center
-::::
 :::::
