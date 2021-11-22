@@ -117,7 +117,7 @@ button.toggle-button {
 }
 
 /* smartphones, iPhone, portrait 480x320 phones */
-@media (min-width:320px)  { 
+@media (min-width:320px) and (max-width:480px) { 
     button.toggle-button.toggle-button-hidden:before {
         content: "";
         position: absolute;
@@ -167,7 +167,7 @@ button.toggle-button {
     } 
 }
 /* hi-res laptops and desktops */ 
-@media (min-width:1281px) {
+@media (max-width:1281px) {
     button.toggle-button.toggle-button-hidden:before {
         content: "";
         position: absolute;
