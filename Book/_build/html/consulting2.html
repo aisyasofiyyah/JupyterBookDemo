@@ -286,8 +286,8 @@
 <div class="section" id="reference-architecture">
 <h2>Reference Architecture<a class="headerlink" href="#reference-architecture" title="Permalink to this headline">¶</a></h2>
 <div class="tabbed-set docutils">
-<input checked="checked" id="a63760cf-34d1-4d6d-93a2-abb0b213d723" name="175df322-b0fa-4419-bbd8-5cc6fc6e9f43" type="radio">
-</input><label class="tabbed-label" for="a63760cf-34d1-4d6d-93a2-abb0b213d723">
+<input checked="checked" id="87eb38dc-b386-4131-95dd-347c4088474a" name="b33e069e-24b9-406a-8ff9-724703d67a7a" type="radio">
+</input><label class="tabbed-label" for="87eb38dc-b386-4131-95dd-347c4088474a">
 Infrastructure and Data Minder</label><div class="tabbed-content docutils">
 <p><img alt="architecture1" src="_images/architecture1.png" /></p>
 <details class="sphinx-bs dropdown card mb-3 fade-in-slide-down">
@@ -315,8 +315,8 @@ Infrastructure and Data Minder</label><div class="tabbed-content docutils">
 <p class="card-text">Used to manage the integration and data of a platform. This component is where data is gathered and cleaned and where appropriate access to that data is controlled. Includes data lakes, databases, data files and data warehouses, with inputs both from information sources across the company and externally.</li><li><strong>Data Sources:</strong> The primary locations from which data is collected first-hand. These could include the organization’s CRM, system, ERP system, order management system, logs from the customer website or mobile app, IOT devices or sensors, still or video cameras, wearables, or any other sources. Some of the data and integration layer may even be externally focused. These can come in through a batch or streaming pipeline.<br><br></li><li><strong>Raw Data Store:</strong> Where all incoming data is stored without modification, whether the data is structured, which might mean it comes from a database table, including time series data, or unstructured, such as an image file from a drone or satellite, a video, or a Word document. The raw data store is meant to house data from the source system “as is, but validations are required to ensure it is consistent with data from the source system, including structure and format validation, record counts or profiling. Invalid data is flagged and stored for further analysis and correction.<br><br></li><li><strong>Data Labs:</strong> Where the AI scientists pull in their data to use throughout the experimentation and modeling process. They then make any necessary changes, including transformation, bias reduction, scaling, or other data preparation steps needed before or during modeling. Data labs can be thought of as the development environments for the modelers, and there is at least one person, or a small team of people, working in each lab.<br><br></li><li><strong>Data Governance:</strong> The data governance component manages the data governance and stewardship workflow and leverages the data quality component to understand the quality of the data and determine what actions are required to ensure that the uses of the data are consistent with corporate policies and applicable laws and regulations.<br><br></li><li><strong>Data Synthesizer:</strong> Used to do two things; firstly, synthesizes new data for model experimentation when actual information is not yet available. Synthetic data is data that is generated programmatically, as opposed to real-world data, which is collected and secondly, it synthesizes data where there are privacy concerns about existing data. Synthetic data is generated with precisely controlled statistical distributions that reflect real-world scenarios. AI models trained on the synthetic data can eventually be retrained on the real-world data after they are collected.</li><li><strong>Data Labeler:</strong> Used to label existing datasets to prepare them for supervised learning. The label is the target attribute that the machine learning algorithm tries to predict. This component manages a workflow for human labeling, but it may also have an automated labeling component. It serves the features to a suer who then enters a label. Can be done with structured data, audio, images and other data types.<br><br></li><li><strong>Knowledge Graph:</strong> A graph of entities, relationships, and other information gathered from unstructured text data such as Word documents or PDF files. It is used to more efficiently and precisely locate information that was in the documents. Often there is more than one knowledge graph, depending on the purpose for which it was build – for example, to find answers asked of a virtual assistant about the expertise of people in a company or about company policies.<br><br></li><li><strong>Data Marketplace:</strong> A comprehensive view of all the data and features available to AI scientists and other users. This information is easily browsable to enable users to understand what data is available and includes descriptions of the data, associated metadata, information on the relationships among the data elements, data lineage and so on. In many instances, available information also includes data profiles such as counts and distribution of the rows of data. AI scientists as well as business analysts, business users and business intelligence (BI) developers use the data marketplace to understand all the data that is available in the company.This data marketplace is key to enabling data literacy and culture of data driven decisions within a company.</p>
 </div>
 </details></div>
-<input id="f2d24756-f1a8-4070-a917-7bb35b0135c3" name="175df322-b0fa-4419-bbd8-5cc6fc6e9f43" type="radio">
-</input><label class="tabbed-label" for="f2d24756-f1a8-4070-a917-7bb35b0135c3">
+<input id="ed32343b-4c2b-4ea9-acfb-96856521a952" name="b33e069e-24b9-406a-8ff9-724703d67a7a" type="radio">
+</input><label class="tabbed-label" for="ed32343b-4c2b-4ea9-acfb-96856521a952">
 Model Maker, Inference Activator and Performance Manager </label><div class="tabbed-content docutils">
 <p><img alt="architecture2" src="_images/architecture2.png" /></p>
 <details class="sphinx-bs dropdown card mb-3 fade-in-slide-down">
@@ -352,8 +352,8 @@ Model Maker, Inference Activator and Performance Manager </label><div class="tab
 <div class="section" id="analytics-programme">
 <h2>Analytics Programme<a class="headerlink" href="#analytics-programme" title="Permalink to this headline">¶</a></h2>
 <div class="tabbed-set docutils">
-<input checked="checked" id="69aba219-d3f6-4e3e-8eb0-3ec07321423a" name="d3badfee-f327-4797-bc98-05fec9e52d22" type="radio">
-</input><label class="tabbed-label" for="69aba219-d3f6-4e3e-8eb0-3ec07321423a">
+<input checked="checked" id="0cb0c46b-38a6-4c7e-8c59-824fc921620d" name="03e2507d-4d7f-4ccb-b0ca-741a9849eb8e" type="radio">
+</input><label class="tabbed-label" for="0cb0c46b-38a6-4c7e-8c59-824fc921620d">
 Analytics Starter Programme</label><div class="tabbed-content docutils">
 <p><img alt="starter2" src="_images/starter2.png" /><br />
 <em>Composable Architecture for Starter Programme</em></p>
@@ -450,8 +450,8 @@ Analytics Starter Programme</label><div class="tabbed-content docutils">
 </table>
 </div>
 </details></div>
-<input id="38114d0c-b203-4ba7-9be1-3396a977b62a" name="d3badfee-f327-4797-bc98-05fec9e52d22" type="radio">
-</input><label class="tabbed-label" for="38114d0c-b203-4ba7-9be1-3396a977b62a">
+<input id="a9733e01-373b-4007-90ae-d88b1a5471ea" name="03e2507d-4d7f-4ccb-b0ca-741a9849eb8e" type="radio">
+</input><label class="tabbed-label" for="a9733e01-373b-4007-90ae-d88b1a5471ea">
 Analytics Growth Programme</label><div class="tabbed-content docutils">
 <p><img alt="growth2" src="_images/growth2.png" />
 <em>Composable Architecture for Analytics Growth Programme</em></p>
@@ -682,8 +682,8 @@ Analytics Growth Programme</label><div class="tabbed-content docutils">
 </table>
 </div>
 </details></div>
-<input id="cac9221e-c575-4f10-b603-4d258d84dacc" name="d3badfee-f327-4797-bc98-05fec9e52d22" type="radio">
-</input><label class="tabbed-label" for="cac9221e-c575-4f10-b603-4d258d84dacc">
+<input id="750f36ed-61c6-4a1a-9d1a-59229399322c" name="03e2507d-4d7f-4ccb-b0ca-741a9849eb8e" type="radio">
+</input><label class="tabbed-label" for="750f36ed-61c6-4a1a-9d1a-59229399322c">
 Analytics Advanced Programme</label><div class="tabbed-content docutils">
 <p><img alt="advanced2" src="_images/advanced2.png" />
 <em>Composable Architecture for Analytics Advanced Programme</em></p>
@@ -800,97 +800,97 @@ Analytics Advanced Programme</label><div class="tabbed-content docutils">
 <td><p class="card-text">Data Lake Visualization</p></td>
 <td><p class="card-text">Power BI</p></td>
 <td><p class="card-text">Cognos Dashboards</p></td>
-<td><p class="card-text"></p></td>
+<td><p class="card-text">Cloudera Data Visualization</p></td>
 </tr>
 <tr class="row-odd"><td><p class="card-text">Data Prep Libraries</p></td>
 <td><p class="card-text"><li>Python / SQL</p></td>
 <td><p class="card-text"><li>Data Factory</li><li>Python/SQL</p></td>
 <td><p class="card-text"><li>IBM DataStage</li><li>IBM Data Refinery</p></td>
-<td><p class="card-text"></p></td>
+<td><p class="card-text">Cloudera DataFlow</p></td>
 </tr>
 <tr class="row-even"><td><p class="card-text">Exploratory Data Analyzer</p></td>
 <td><p class="card-text"><li>Model Arts DevEnviron</p></td>
 <td><p class="card-text"><li>Azure Machine Learning</p></td>
 <td><p class="card-text"><li>Jupyter Notebook</li><li>RStudio Server</p></td>
-<td><p class="card-text"></p></td>
+<td><p class="card-text">Cloudera HUE</p></td>
 </tr>
 <tr class="row-odd"><td><p class="card-text">Signal Explorer</p></td>
 <td><p class="card-text">Model Arts Training Management</p></td>
 <td><p class="card-text">Azure Machine Learning</p></td>
 <td><p class="card-text">IBM Watson</p></td>
-<td><p class="card-text"></p></td>
+<td><p class="card-text">Cloudera Data Analytics Studio</p></td>
 </tr>
 <tr class="row-even"><td><p class="card-text">Feature Generator</p></td>
 <td><p class="card-text">Model Arts Training Management</p></td>
 <td><p class="card-text">Azure Machine Learning</p></td>
 <td><p class="card-text">IBM Watson</p></td>
-<td><p class="card-text"></p></td>
+<td><p class="card-text">Cloudera Data Analytics Studio</p></td>
 </tr>
 <tr class="row-odd"><td><p class="card-text">Model Training</p></td>
 <td><p class="card-text">Model Arts Training Management</p></td>
 <td><p class="card-text">Azure Machine Learning</p></td>
 <td><p class="card-text">IBM Watson</p></td>
-<td><p class="card-text"></p></td>
+<td><p class="card-text">Cloudera Data Analytics Studio</p></td>
 </tr>
 <tr class="row-even"><td><p class="card-text">Model Selector</p></td>
 <td><p class="card-text">Model Arts Training Management</p></td>
 <td><p class="card-text">Azure Machine Learning</p></td>
 <td><p class="card-text">IBM Watson</p></td>
-<td><p class="card-text"></p></td>
+<td><p class="card-text">Cloudera Data Analytics Studio</p></td>
 </tr>
 <tr class="row-odd"><td><p class="card-text">Model Optimizer</p></td>
 <td><p class="card-text">Model Arts Training Management</p></td>
 <td><p class="card-text">Azure Machine Learning</p></td>
 <td><p class="card-text">IBM Watson</p></td>
-<td><p class="card-text"></p></td>
+<td><p class="card-text">Cloudera Data Analytics Studio</p></td>
 </tr>
 <tr class="row-even"><td><p class="card-text">Bias Reqularizer</p></td>
 <td><p class="card-text">Model Arts Training Management</p></td>
 <td><p class="card-text">Azure Machine Learning</p></td>
 <td><p class="card-text">IBM Watson</p></td>
-<td><p class="card-text"></p></td>
+<td><p class="card-text">Cloudera Data Analytics Studio</p></td>
 </tr>
 <tr class="row-odd"><td><p class="card-text">Fairness</p></td>
 <td><p class="card-text">Model Arts Training Management</p></td>
 <td><p class="card-text">Azure Machine Learning</p></td>
 <td><p class="card-text">IBM Watson</p></td>
-<td><p class="card-text"></p></td>
+<td><p class="card-text">Cloudera Data Analytics Studio</p></td>
 </tr>
 <tr class="row-even"><td><p class="card-text">Boundary</p></td>
 <td><p class="card-text">Model Arts Training Management</p></td>
 <td><p class="card-text">Azure Machine Learning</p></td>
 <td><p class="card-text">IBM Watson</p></td>
-<td><p class="card-text"></p></td>
+<td><p class="card-text">Cloudera Data Analytics Studio</p></td>
 </tr>
 <tr class="row-odd"><td><p class="card-text">Sensitivity</p></td>
 <td><p class="card-text">Model Arts Training Management</p></td>
 <td><p class="card-text">Azure Machine Learning</p></td>
 <td><p class="card-text">IBM Watson</p></td>
-<td><p class="card-text"></p></td>
+<td><p class="card-text">Cloudera Data Analytics Studio</p></td>
 </tr>
 <tr class="row-even"><td><p class="card-text">Interpreter</p></td>
 <td><p class="card-text">Model Arts Training Management</p></td>
 <td><p class="card-text">Azure Machine Learning</p></td>
 <td><p class="card-text">IBM Watson</p></td>
-<td><p class="card-text"></p></td>
+<td><p class="card-text">Cloudera Data Analytics Studio</p></td>
 </tr>
 <tr class="row-odd"><td><p class="card-text">Model Source</p></td>
 <td><p class="card-text">Model Arts Model Management</p></td>
 <td><p class="card-text">Azure DevOps</p></td>
 <td><p class="card-text">IBM Watson ModelOps</p></td>
-<td><p class="card-text"></p></td>
+<td><p class="card-text">Cloudera Data Analytics Studio</p></td>
 </tr>
 <tr class="row-even"><td><p class="card-text">Model Pipeline</p></td>
 <td><p class="card-text">Model Arts Model Management</p></td>
 <td><p class="card-text">Azure DevOps</p></td>
 <td><p class="card-text">IBM Watson ModelOps</p></td>
-<td><p class="card-text"></p></td>
+<td><p class="card-text">Cloudera Data Analytics Studio</p></td>
 </tr>
 <tr class="row-odd"><td><p class="card-text">Model Management</p></td>
 <td><p class="card-text">Model Arts Model Management</p></td>
 <td><p class="card-text">Azure DevOps</p></td>
 <td><p class="card-text">IBM Watson ModelOps</p></td>
-<td><p class="card-text"></p></td>
+<td><p class="card-text">Cloudera Data Analytics Studio</p></td>
 </tr>
 </tbody>
 </table>
@@ -1032,8 +1032,24 @@ Analytics Advanced Programme</label><div class="tabbed-content docutils">
 <div class="summary-up docutils">
 <svg version="1.1" width="24" height="24" class="octicon octicon-chevron-up" viewBox="0 0 24 24" aria-hidden="true"><path fill-rule="evenodd" d="M18.78 15.28a.75.75 0 000-1.06l-6.25-6.25a.75.75 0 00-1.06 0l-6.25 6.25a.75.75 0 101.06 1.06L12 9.56l5.72 5.72a.75.75 0 001.06 0z"></path></svg></div>
 </summary><div class="summary-content card-body text-left docutils">
-<p class="card-text">| Function | Alpha Edge | Azure | IBM CP4D (Multi-Cloud) | Cloudera CDP
-|———-|————|——-|————————|———– |Business Intelligence Systems |<li>Metabase</li><li>Superset |<li>Metabase</li><li>Superset</li><li>Power BI | Cognos Analytics |</p>
+<table class="colwidths-auto table">
+<thead>
+<tr class="row-odd"><th class="head"><p class="card-text">Function</p></th>
+<th class="head"><p class="card-text">Alpha Edge</p></th>
+<th class="head"><p class="card-text">Azure</p></th>
+<th class="head"><p class="card-text">IBM CP4D (Multi-Cloud)</p></th>
+<th class="head"><p class="card-text">Cloudera CDP</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p class="card-text">Business Intelligence Systems</p></td>
+<td><p class="card-text"><li>Metabase</li><li>Superset</p></td>
+<td><p class="card-text"><li>Metabase</li><li>Superset</li><li>Power BI</p></td>
+<td><p class="card-text">Cognos Analytics</p></td>
+<td><p class="card-text"></p></td>
+</tr>
+</tbody>
+</table>
 </div>
 </details></div>
 </div>

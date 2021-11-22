@@ -192,22 +192,22 @@ The inference activator deploys models into production and powers AI during run-
 
 | Function | Alpha Edge | Azure | IBM CP4D<br>(Multi-Cloud) | Cloudera CDP
 |----------|------------|-------|------------------------|-----------
-| Data Viz | Data Lake Visualization | Power BI | Cognos Dashboards
-| Data Prep Libraries |<li>Python / SQL |<li>Data Factory</li><li>Python/SQL |<li>IBM DataStage</li><li>IBM Data Refinery
-| Exploratory Data Analyzer |<li>Model Arts DevEnviron |<li>Azure Machine Learning |<li>Jupyter Notebook</li><li>RStudio Server
-| Signal Explorer | Model Arts Training Management | Azure Machine Learning | IBM Watson
-| Feature Generator | Model Arts Training Management | Azure Machine Learning | IBM Watson
-| Model Training | Model Arts Training Management | Azure Machine Learning | IBM Watson
-| Model Selector | Model Arts Training Management | Azure Machine Learning | IBM Watson
-| Model Optimizer | Model Arts Training Management | Azure Machine Learning | IBM Watson
-| Bias Reqularizer | Model Arts Training Management | Azure Machine Learning | IBM Watson
-| Fairness | Model Arts Training Management | Azure Machine Learning | IBM Watson
-| Boundary | Model Arts Training Management | Azure Machine Learning | IBM Watson
-| Sensitivity | Model Arts Training Management | Azure Machine Learning | IBM Watson
-| Interpreter | Model Arts Training Management | Azure Machine Learning | IBM Watson
-| Model Source | Model Arts Model Management | Azure DevOps | IBM Watson ModelOps
-| Model Pipeline | Model Arts Model Management | Azure DevOps | IBM Watson ModelOps
-| Model Management | Model Arts Model Management | Azure DevOps | IBM Watson ModelOps 
+| Data Viz | Data Lake Visualization | Power BI | Cognos Dashboards | Cloudera Data Visualization
+| Data Prep Libraries |<li>Python / SQL |<li>Data Factory</li><li>Python/SQL |<li>IBM DataStage</li><li>IBM Data Refinery | Cloudera DataFlow
+| Exploratory Data Analyzer |<li>Model Arts DevEnviron |<li>Azure Machine Learning |<li>Jupyter Notebook</li><li>RStudio Server | Cloudera HUE
+| Signal Explorer | Model Arts Training Management | Azure Machine Learning | IBM Watson | Cloudera Data Analytics Studio
+| Feature Generator | Model Arts Training Management | Azure Machine Learning | IBM Watson | Cloudera Data Analytics Studio
+| Model Training | Model Arts Training Management | Azure Machine Learning | IBM Watson | Cloudera Data Analytics Studio
+| Model Selector | Model Arts Training Management | Azure Machine Learning | IBM Watson | Cloudera Data Analytics Studio
+| Model Optimizer | Model Arts Training Management | Azure Machine Learning | IBM Watson | Cloudera Data Analytics Studio
+| Bias Reqularizer | Model Arts Training Management | Azure Machine Learning | IBM Watson | Cloudera Data Analytics Studio
+| Fairness | Model Arts Training Management | Azure Machine Learning | IBM Watson | Cloudera Data Analytics Studio
+| Boundary | Model Arts Training Management | Azure Machine Learning | IBM Watson | Cloudera Data Analytics Studio
+| Sensitivity | Model Arts Training Management | Azure Machine Learning | IBM Watson | Cloudera Data Analytics Studio
+| Interpreter | Model Arts Training Management | Azure Machine Learning | IBM Watson | Cloudera Data Analytics Studio
+| Model Source | Model Arts Model Management | Azure DevOps | IBM Watson ModelOps | Cloudera Data Analytics Studio
+| Model Pipeline | Model Arts Model Management | Azure DevOps | IBM Watson ModelOps | Cloudera Data Analytics Studio
+| Model Management | Model Arts Model Management | Azure DevOps | IBM Watson ModelOps | Cloudera Data Analytics Studio
 :::
 
 :::{dropdown} **Inference Activator**
@@ -249,5 +249,6 @@ The inference activator deploys models into production and powers AI during run-
 :animate: fade-in-slide-down
 
 | Function | Alpha Edge | Azure | IBM CP4D (Multi-Cloud) | Cloudera CDP
-|----------|------------|-------|------------------------|----------- |Business Intelligence Systems |<li>Metabase</li><li>Superset |<li>Metabase</li><li>Superset</li><li>Power BI | Cognos Analytics | 
+|----------|------------|-------|------------------------|----------- 
+|Business Intelligence Systems |<li>Metabase</li><li>Superset |<li>Metabase</li><li>Superset</li><li>Power BI | Cognos Analytics | 
 :::
