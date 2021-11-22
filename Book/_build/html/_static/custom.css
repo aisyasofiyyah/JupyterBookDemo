@@ -1,7 +1,7 @@
 /*ADDITIONAL BACKGROUND COLOUR */
 
 .bg-jb-one {
-    background-color: #52d16f3b;
+    background-color: #0000003b;
 }
 .bg-jb-two {
     background-color: #f8ede3;
@@ -116,13 +116,32 @@ button.toggle-button {
     padding: 0px;
 }
 
+/* Plus / minus toggles */
+.toggle-button .bar {
+    background-color: white;
+    position: absolute;
+    left: 15%;
+    top: 43%;
+    width: 10px;
+    height: 2px;
+}
+
+.toggle-button .vertical {
+    transition: all 0.25s ease-in-out;
+    transform-origin: center;
+}
+
+.toggle-button-hidden .vertical {
+    transform: rotate(-90deg);
+}
+
 
 /* smartphones, iPhone, portrait 480x320 phones */
 @media (min-width:320px) and (max-width:480px) { 
     button.toggle-button.toggle-button-hidden:before {
         content: "";
         position: absolute;
-        font-size: .3em;
+        font-size: .8em;
         left: -6.5em;
         bottom: .4em;
     } 
@@ -176,24 +195,4 @@ button.toggle-button {
         left: -6.5em;
         bottom: .4em;
     } 
-}
-
-
-/* Plus / minus toggles */
-.toggle-button .bar {
-    background-color: white;
-    position: absolute;
-    left: 15%;
-    top: 43%;
-    width: 10px;
-    height: 2px;
-}
-
-.toggle-button .vertical {
-    transition: all 0.25s ease-in-out;
-    transform-origin: center;
-}
-
-.toggle-button-hidden .vertical {
-    transform: rotate(-90deg);
 }

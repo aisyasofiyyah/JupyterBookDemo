@@ -2,7 +2,7 @@
 
 :::{panels}
 :column: col-sm
-:card: border-2 shadow
+:card: border-6 shadow
 ---
 :header: bg-jb-one text-center
 :body: text-justify

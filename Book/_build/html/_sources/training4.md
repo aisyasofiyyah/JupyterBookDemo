@@ -1,8 +1,8 @@
 # Data Professional Development Programme
 
 :::{panels}
-:column: col-lg-4 px-2 py-2
-:card: border-2 shadow
+:column: col-sm
+:card: border-6 shadow
 ---
 :header: bg-jb-one text-center
 :body: text-justify
