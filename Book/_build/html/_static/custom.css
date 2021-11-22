@@ -116,66 +116,16 @@ button.toggle-button {
     padding: 0px;
 }
 
-/* smartphones, iPhone, portrait 480x320 phones */
-@media (min-width:320px) and (max-width:480px) { 
+@media (min-width: 768px) {
     button.toggle-button.toggle-button-hidden:before {
         content: "";
         position: absolute;
         font-size: .8em;
         left: -6.5em;
         bottom: .4em;
-    } 
+    }
 }
-/* portrait e-readers (Nook/Kindle), smaller tablets @ 600 or @ 640 wide. */
-@media (min-width:481px)  {  
-    button.toggle-button.toggle-button-hidden:before {
-    content: "";
-    position: absolute;
-    font-size: .8em;
-    left: -6.5em;
-    bottom: .4em;
-    } 
-}
-/* portrait tablets, portrait iPad, landscape e-readers, landscape 800x480 or 854x480 phones */
-@media (min-width:641px)  { 
-    button.toggle-button.toggle-button-hidden:before {
-        content: "";
-        position: absolute;
-        font-size: .8em;
-        left: -6.5em;
-        bottom: .4em;
-    } 
- }
-/* tablet, landscape iPad, lo-res laptops ands desktops */
-@media (min-width:961px)  {
-    button.toggle-button.toggle-button-hidden:before {
-        content: "";
-        position: absolute;
-        font-size: .8em;
-        left: -6.5em;
-        bottom: .4em;
-    } 
-}
-/* big landscape tablets, laptops, and desktops */
-@media (min-width:1025px) { 
-    button.toggle-button.toggle-button-hidden:before {
-        content: "";
-        position: absolute;
-        font-size: .8em;
-        left: -6.5em;
-        bottom: .4em;
-    } 
-}
-/* hi-res laptops and desktops */ 
-@media (max-width:1281px) {
-    button.toggle-button.toggle-button-hidden:before {
-        content: "";
-        position: absolute;
-        font-size: .8em;
-        left: -6.5em;
-        bottom: .4em;
-    } 
-}
+
 
 /* Plus / minus toggles */
 .toggle-button .bar {
