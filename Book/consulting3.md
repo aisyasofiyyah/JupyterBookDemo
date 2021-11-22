@@ -4,9 +4,9 @@ The data governance component manages the data governance and stewardship workfl
 
 ## Analytics Lifecycle Roles
 
-```{panels}
-:card: border-2
-:body: text-left-justified
+::::{panels}
+:card: border-2 shadow
+:body: text-justify
 :header: bg-warning text-center
 
 **Product Management**
@@ -139,15 +139,14 @@ The data governance component manages the data governance and stewardship workfl
 - **Skill Development:** Tableau Visualization, Data Collection, R/Python/SQL
 - **Understanding:** Profiling Data, Security/Privacy, Operational Workflow, Data Governance
 :::
-```
+::::
 
 ## Analytics Delivery Roles
 
-```{panels}
-:column: col-6
+::::{panels}
 :card: border-2 shadow
-:body: text-left
-:header: bg-jb-three text-center text-white
+:body: text-justify
+:header: bg-jb-three text-center 
 
 **Project Management**
 ^^^
@@ -213,7 +212,7 @@ The data governance component manages the data governance and stewardship workfl
 - **Skill Development:** Documentation, SDE
 - **Understanding:** OSI L1, OSI L2, OSI L3
 :::
-:::{admonition} Configuration Mgmt
+:::{admonition} Configuration Management
 :class: attention, dropdown
 - **Skill Integration:** Logging, Task Scheduler, Tool Agility
 - **Skill Development:** Agile Development, Documentation, SDE, Database, Version Control, Troubleshooting
@@ -254,4 +253,4 @@ The data governance component manages the data governance and stewardship workfl
 - **Skill Development:** Agile Development, Database, Version Control
 - **Understanding:** OSI L6, OSI L7
 :::
-```
+::::
