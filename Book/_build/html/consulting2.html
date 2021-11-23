@@ -286,12 +286,12 @@
 <div class="section" id="reference-architecture">
 <h2>Reference Architecture<a class="headerlink" href="#reference-architecture" title="Permalink to this headline">¶</a></h2>
 <div class="tabbed-set docutils">
-<input checked="checked" id="87eb38dc-b386-4131-95dd-347c4088474a" name="b33e069e-24b9-406a-8ff9-724703d67a7a" type="radio">
-</input><label class="tabbed-label" for="87eb38dc-b386-4131-95dd-347c4088474a">
+<input checked="checked" id="9e8d8c15-bf0b-4884-b782-825aa4bac0be" name="452d9f20-9f0a-4ec8-8183-ecd0eacd8968" type="radio">
+</input><label class="tabbed-label" for="9e8d8c15-bf0b-4884-b782-825aa4bac0be">
 Infrastructure and Data Minder</label><div class="tabbed-content docutils">
 <p><img alt="architecture1" src="_images/architecture1.png" /></p>
 <details class="sphinx-bs dropdown card mb-3 fade-in-slide-down">
-<summary class="summary-title card-header bg-jb-grey text-light">
+<summary class="summary-title card-header bg-jb-fernGreen text-light">
 <strong>Infrastructure</strong><div class="summary-down docutils">
 <svg version="1.1" width="24" height="24" class="octicon octicon-chevron-down" viewBox="0 0 24 24" aria-hidden="true"><path fill-rule="evenodd" d="M5.22 8.72a.75.75 0 000 1.06l6.25 6.25a.75.75 0 001.06 0l6.25-6.25a.75.75 0 00-1.06-1.06L12 14.44 6.28 8.72a.75.75 0 00-1.06 0z"></path></svg></div>
 <div class="summary-up docutils">
@@ -306,7 +306,7 @@ Infrastructure and Data Minder</label><div class="tabbed-content docutils">
 </ul>
 </div>
 </details><details class="sphinx-bs dropdown card mb-3 fade-in-slide-down">
-<summary class="summary-title card-header bg-jb-grey text-light">
+<summary class="summary-title card-header bg-jb-fernGreen text-light">
 <strong>Data Minder</strong><div class="summary-down docutils">
 <svg version="1.1" width="24" height="24" class="octicon octicon-chevron-down" viewBox="0 0 24 24" aria-hidden="true"><path fill-rule="evenodd" d="M5.22 8.72a.75.75 0 000 1.06l6.25 6.25a.75.75 0 001.06 0l6.25-6.25a.75.75 0 00-1.06-1.06L12 14.44 6.28 8.72a.75.75 0 00-1.06 0z"></path></svg></div>
 <div class="summary-up docutils">
@@ -315,12 +315,12 @@ Infrastructure and Data Minder</label><div class="tabbed-content docutils">
 <p class="card-text">Used to manage the integration and data of a platform. This component is where data is gathered and cleaned and where appropriate access to that data is controlled. Includes data lakes, databases, data files and data warehouses, with inputs both from information sources across the company and externally.</li><li><strong>Data Sources:</strong> The primary locations from which data is collected first-hand. These could include the organization’s CRM, system, ERP system, order management system, logs from the customer website or mobile app, IOT devices or sensors, still or video cameras, wearables, or any other sources. Some of the data and integration layer may even be externally focused. These can come in through a batch or streaming pipeline.<br><br></li><li><strong>Raw Data Store:</strong> Where all incoming data is stored without modification, whether the data is structured, which might mean it comes from a database table, including time series data, or unstructured, such as an image file from a drone or satellite, a video, or a Word document. The raw data store is meant to house data from the source system “as is, but validations are required to ensure it is consistent with data from the source system, including structure and format validation, record counts or profiling. Invalid data is flagged and stored for further analysis and correction.<br><br></li><li><strong>Data Labs:</strong> Where the AI scientists pull in their data to use throughout the experimentation and modeling process. They then make any necessary changes, including transformation, bias reduction, scaling, or other data preparation steps needed before or during modeling. Data labs can be thought of as the development environments for the modelers, and there is at least one person, or a small team of people, working in each lab.<br><br></li><li><strong>Data Governance:</strong> The data governance component manages the data governance and stewardship workflow and leverages the data quality component to understand the quality of the data and determine what actions are required to ensure that the uses of the data are consistent with corporate policies and applicable laws and regulations.<br><br></li><li><strong>Data Synthesizer:</strong> Used to do two things; firstly, synthesizes new data for model experimentation when actual information is not yet available. Synthetic data is data that is generated programmatically, as opposed to real-world data, which is collected and secondly, it synthesizes data where there are privacy concerns about existing data. Synthetic data is generated with precisely controlled statistical distributions that reflect real-world scenarios. AI models trained on the synthetic data can eventually be retrained on the real-world data after they are collected.</li><li><strong>Data Labeler:</strong> Used to label existing datasets to prepare them for supervised learning. The label is the target attribute that the machine learning algorithm tries to predict. This component manages a workflow for human labeling, but it may also have an automated labeling component. It serves the features to a suer who then enters a label. Can be done with structured data, audio, images and other data types.<br><br></li><li><strong>Knowledge Graph:</strong> A graph of entities, relationships, and other information gathered from unstructured text data such as Word documents or PDF files. It is used to more efficiently and precisely locate information that was in the documents. Often there is more than one knowledge graph, depending on the purpose for which it was build – for example, to find answers asked of a virtual assistant about the expertise of people in a company or about company policies.<br><br></li><li><strong>Data Marketplace:</strong> A comprehensive view of all the data and features available to AI scientists and other users. This information is easily browsable to enable users to understand what data is available and includes descriptions of the data, associated metadata, information on the relationships among the data elements, data lineage and so on. In many instances, available information also includes data profiles such as counts and distribution of the rows of data. AI scientists as well as business analysts, business users and business intelligence (BI) developers use the data marketplace to understand all the data that is available in the company.This data marketplace is key to enabling data literacy and culture of data driven decisions within a company.</p>
 </div>
 </details></div>
-<input id="ed32343b-4c2b-4ea9-acfb-96856521a952" name="b33e069e-24b9-406a-8ff9-724703d67a7a" type="radio">
-</input><label class="tabbed-label" for="ed32343b-4c2b-4ea9-acfb-96856521a952">
+<input id="a7d07215-210f-4fc7-ba2b-1a3805980cbe" name="452d9f20-9f0a-4ec8-8183-ecd0eacd8968" type="radio">
+</input><label class="tabbed-label" for="a7d07215-210f-4fc7-ba2b-1a3805980cbe">
 Model Maker, Inference Activator and Performance Manager </label><div class="tabbed-content docutils">
 <p><img alt="architecture2" src="_images/architecture2.png" /></p>
 <details class="sphinx-bs dropdown card mb-3 fade-in-slide-down">
-<summary class="summary-title card-header bg-jb-grey text-light">
+<summary class="summary-title card-header bg-jb-fernGreen text-light">
 <strong>Model Maker</strong><div class="summary-down docutils">
 <svg version="1.1" width="24" height="24" class="octicon octicon-chevron-down" viewBox="0 0 24 24" aria-hidden="true"><path fill-rule="evenodd" d="M5.22 8.72a.75.75 0 000 1.06l6.25 6.25a.75.75 0 001.06 0l6.25-6.25a.75.75 0 00-1.06-1.06L12 14.44 6.28 8.72a.75.75 0 00-1.06 0z"></path></svg></div>
 <div class="summary-up docutils">
@@ -329,7 +329,7 @@ Model Maker, Inference Activator and Performance Manager </label><div class="tab
 <p class="card-text">Also known as the experimentation layer, is where AI scientists develop, validate, and iterate their hypotheses. This layer needs to support them through training potentially hundreds of models before they arrive at the ideal one for a specific use case. Help through the model risk assessment for each model and in developing any necessary corrections. The model maker has three groups of components for AI scientists to use, for working with the data, for making the model and for model assurance.<br><br></li><li><strong>Data:</strong> The data components in this layer are for AI scientists to use so they can understand their datasets before they can move on to the modeling steps. The data visualization component is a set of libraries that allow the user to easily create visualizations. The data preparation component is a set of libraries that help with data imputation for missing data and convert data to the right format for modeling. The exploratory data analyzer helps discover patterns, find anomalies, look for bias in the data, and understand various statistical summaries of the data. The signal explorer finds correlations in a dataset when it is given a data lake and a target data column to predict. It looks for which other features are correlated and are likely predictors for this target column. Other than time, the advantage of an automatic approach over a manual one is the ability to find unexpected patterns more easily.<br><br></li><li><strong>Model:</strong> AI scientists use modeling components to develop their models. The algorithm frameworks include various types of algorithms that can be trained on the data to create models. Frameworks (scikit-learn, Tensorflow, PyTorch) are set up and managed here. These frameworks include algorithms that cover simulation and optimization, anomaly detection, pattern recognition, prediction, knowledge mining and potentially others.The feature generator creates and evaluates derived features generated by combining existing data features. It then determines whether this derived feature is predictive of the target or not. The feature generator is similar to the signal explorer, but it generates and evaluates derived features rather than just working on the base features. Model training includes different ways to configure the models and the different types of learning that can be leveraged. Modeling includes rules configuration for RPA, and inference engines,  batch training for machine learning and deep learning models, online training using reinforcement learning, distributed (or federated) learning for edge devices, or combinations of these. The bias regularizer is used in the modeling process during training to penalize models for high bias and low accuracy. This process ensures that bias Is managed and that the model does not simply optimize for redictive power irrespective of bias. It is part of the model risk governance. The model selector helps compare the performance of the different experiments to select the optimal one. The model optimizer helps tune the AI models’ hyperparameters for the best performance. It runs the model training and evaluation multiple times. It also tracks the metadata and uses optimization methods to find the optimal hyperparameter settings for model performance. Without this component, a great deal of time may be spent tuning hyperparameters manually, and this can make it challenging to find the best performing parameters.<br><br></li><li><strong>Assurance:</strong> Help track models and changes to them to document which model experiments have previously been conducted and how to reproduce the results of an experiment accurately. This component uses configuration management tools to track such things as what features were tested and discarded, what modifications were made to data pipelines, and what compute resources were made available to support sufficient training. Together with configuration information, model management accelerates the consistent deployment of AI services while helping to reduce redundant work. The model source is the repository for all model code. The model pipeline is the component where the configurations for the model pipeline, from data to modeling to deployment are managed.</p>
 </div>
 </details><details class="sphinx-bs dropdown card mb-3 fade-in-slide-down">
-<summary class="summary-title card-header bg-jb-grey text-light">
+<summary class="summary-title card-header bg-jb-fernGreen text-light">
 <strong>Performance Manager</strong><div class="summary-down docutils">
 <svg version="1.1" width="24" height="24" class="octicon octicon-chevron-down" viewBox="0 0 24 24" aria-hidden="true"><path fill-rule="evenodd" d="M5.22 8.72a.75.75 0 000 1.06l6.25 6.25a.75.75 0 001.06 0l6.25-6.25a.75.75 0 00-1.06-1.06L12 14.44 6.28 8.72a.75.75 0 00-1.06 0z"></path></svg></div>
 <div class="summary-up docutils">
@@ -338,7 +338,7 @@ Model Maker, Inference Activator and Performance Manager </label><div class="tab
 <p class="card-text">This performance manager monitors run-time AI models – models that are in active use. The feature drift component follows the data distribution of all the input data for each feature and compares it to the distribution known at the time of model training. If these distributions are sufficiently different (that is, they exceed some differential threshold), then the model may have to be retrained Drift is a leading indicator of any potential issues in model accuracy. The model performance component monitors whether a model’s output and predictions are still meeting a defined threshold. For example, is the model accuracy still at or above 90% Sometimes there is a time lag between when the model predicts something and when the predicted event occurs, so model performance is often a lagging indicator of a model’s fitness for use.</p>
 </div>
 </details><details class="sphinx-bs dropdown card mb-3 fade-in-slide-down">
-<summary class="summary-title card-header bg-jb-grey text-light">
+<summary class="summary-title card-header bg-jb-fernGreen text-light">
 <strong>Inference Activator</strong><div class="summary-down docutils">
 <svg version="1.1" width="24" height="24" class="octicon octicon-chevron-down" viewBox="0 0 24 24" aria-hidden="true"><path fill-rule="evenodd" d="M5.22 8.72a.75.75 0 000 1.06l6.25 6.25a.75.75 0 001.06 0l6.25-6.25a.75.75 0 00-1.06-1.06L12 14.44 6.28 8.72a.75.75 0 00-1.06 0z"></path></svg></div>
 <div class="summary-up docutils">
@@ -352,8 +352,8 @@ Model Maker, Inference Activator and Performance Manager </label><div class="tab
 <div class="section" id="analytics-programme">
 <h2>Analytics Programme<a class="headerlink" href="#analytics-programme" title="Permalink to this headline">¶</a></h2>
 <div class="tabbed-set docutils">
-<input checked="checked" id="0cb0c46b-38a6-4c7e-8c59-824fc921620d" name="03e2507d-4d7f-4ccb-b0ca-741a9849eb8e" type="radio">
-</input><label class="tabbed-label" for="0cb0c46b-38a6-4c7e-8c59-824fc921620d">
+<input checked="checked" id="f73bc0b5-fcac-4946-94af-13170ae7f3ff" name="944a00fd-8d11-42aa-a4c8-07f90d9605fa" type="radio">
+</input><label class="tabbed-label" for="f73bc0b5-fcac-4946-94af-13170ae7f3ff">
 Analytics Starter Programme</label><div class="tabbed-content docutils">
 <p><img alt="starter2" src="_images/starter2.png" /><br />
 <em>Composable Architecture for Starter Programme</em></p>
@@ -450,8 +450,8 @@ Analytics Starter Programme</label><div class="tabbed-content docutils">
 </table>
 </div>
 </details></div>
-<input id="a9733e01-373b-4007-90ae-d88b1a5471ea" name="03e2507d-4d7f-4ccb-b0ca-741a9849eb8e" type="radio">
-</input><label class="tabbed-label" for="a9733e01-373b-4007-90ae-d88b1a5471ea">
+<input id="d094ccc8-064c-4e54-8299-6a3efef420d8" name="944a00fd-8d11-42aa-a4c8-07f90d9605fa" type="radio">
+</input><label class="tabbed-label" for="d094ccc8-064c-4e54-8299-6a3efef420d8">
 Analytics Growth Programme</label><div class="tabbed-content docutils">
 <p><img alt="growth2" src="_images/growth2.png" />
 <em>Composable Architecture for Analytics Growth Programme</em></p>
@@ -682,8 +682,8 @@ Analytics Growth Programme</label><div class="tabbed-content docutils">
 </table>
 </div>
 </details></div>
-<input id="750f36ed-61c6-4a1a-9d1a-59229399322c" name="03e2507d-4d7f-4ccb-b0ca-741a9849eb8e" type="radio">
-</input><label class="tabbed-label" for="750f36ed-61c6-4a1a-9d1a-59229399322c">
+<input id="70ed28cc-2cc2-4f9d-bd7b-40e8fc0cb596" name="944a00fd-8d11-42aa-a4c8-07f90d9605fa" type="radio">
+</input><label class="tabbed-label" for="70ed28cc-2cc2-4f9d-bd7b-40e8fc0cb596">
 Analytics Advanced Programme</label><div class="tabbed-content docutils">
 <p><img alt="advanced2" src="_images/advanced2.png" />
 <em>Composable Architecture for Analytics Advanced Programme</em></p>

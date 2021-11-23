@@ -6,7 +6,7 @@
 ![architecture1](architecture1.png)
 
 :::{dropdown} **Infrastructure**
-:title: bg-jb-grey text-light
+:title: bg-jb-fernGreen text-light
 :body: text-justify
 :animate: fade-in-slide-down
 
@@ -19,7 +19,7 @@ High performance networking is typically required as large and fast data movemen
 :::
 
 :::{dropdown} **Data Minder**
-:title: bg-jb-grey text-light
+:title: bg-jb-fernGreen text-light
 :body: text-justify
 :animate: fade-in-slide-down
 
@@ -29,7 +29,7 @@ Used to manage the integration and data of a platform. This component is where d
 ```{tabbed} Model Maker, Inference Activator and Performance Manager 
 ![architecture2](architecture2.png) 
 :::{dropdown} **Model Maker**
-:title: bg-jb-grey text-light
+:title: bg-jb-fernGreen text-light
 :body: text-justify
 :animate: fade-in-slide-down
 
@@ -37,7 +37,7 @@ Also known as the experimentation layer, is where AI scientists develop, validat
 :::
 
 :::{dropdown} **Performance Manager**
-:title: bg-jb-grey text-light
+:title: bg-jb-fernGreen text-light
 :body: text-justify
 :animate: fade-in-slide-down
 
@@ -45,7 +45,7 @@ This performance manager monitors run-time AI models – models that are in acti
 :::
 
 :::{dropdown} **Inference Activator**
-:title: bg-jb-grey text-light
+:title: bg-jb-fernGreen text-light
 :body: text-justify
 :animate: fade-in-slide-down
 
