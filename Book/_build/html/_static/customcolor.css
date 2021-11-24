@@ -30,18 +30,27 @@
     --pst-font-family-monospace-system: "SFMono-Regular", Menlo, Consolas, Monaco,
     Liberation Mono, Lucida Console, monospace;
 
-    --pst-font-family-base: Menlo var(--pst-font-family-base-system);
-    --pst-font-family-heading: var(--pst-font-family-base);
+    --pst-font-family-base: Segoe UI Emoji;
+    --pst-font-family-heading: Cambria;
     --pst-font-family-monospace: var(--pst-font-family-monospace-system);
 }
 
-/* CUSTOM TABBED CONTENT */
 :root {
+    /*tabbed content */
     --tabs-color-label-active: #383E56;
     --tabs-color-label-inactive: #9DAB86;
     --tabs-color-overline: #ffffff;
     --tabs-color-underline: rgb(255, 255, 255);
     --tabs-size-label: 1rem;
+    
+    /* font awesome icons*/
+    --pst-icon-home:'\f015';
+
+    /*admonitions*/
+    --pst-color-admonition-attention: var(--pst-color-warning);    
+    --pst-icon-admonition-attention: var(--pst-icon-lightbulb);
+    --pst-color-admonition-welcome: var(--pst-color-light);
+    --pst-icon-admonition-welcome: var(--pst-icon-home);
 }
 
 /* CUSTOM TABLE STYLE */

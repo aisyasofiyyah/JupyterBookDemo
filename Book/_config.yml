@@ -30,6 +30,7 @@ repository:
 html:
   use_issues_button: true
   use_repository_button: true
+  favicon: images/favicon.ico
 
 # default extensions to enable in the myst parser. See https://myst-parser.readthedocs.io/en/latest/using/syntax-optional.html
 parse:
@@ -45,6 +46,4 @@ sphinx:
       - customtoggle.css
       - customcolor.css
       - custombasic.css
-      - all.min.css
-      - style.css
        

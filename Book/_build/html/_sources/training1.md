@@ -72,7 +72,7 @@ Planning, implementation, and control processes to manage decision support data 
 ^^^
 Planning, implementation, and control activities to enable access to high quality, integrated Metadata, including definitions, models, data flows, and other information critical to understanding data and the systems through which it is created, maintained, and accessed.
 ---
-:header: bg-jb-brown2 text-center
+:header: bg-jb-gold text-center
 
 **Chapter 12: Data Quality**
 ^^^

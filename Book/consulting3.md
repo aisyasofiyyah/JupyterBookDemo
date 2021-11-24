@@ -141,7 +141,7 @@ The data governance component manages the data governance and stewardship workfl
 :::
 ::::
 
-## Analytics Delivery Roles
+# Analytics Delivery Roles
 
 ::::{panels}
 :card: border-2 shadow
@@ -151,7 +151,7 @@ The data governance component manages the data governance and stewardship workfl
 **Project Management**
 ^^^
 :::{admonition} Project Manager
-:class: attention dropdown
+:class: attention, dropdown
 - **Skill Development:** Financial, FMP, Agile Development, Documentation
 - **Understanding:** WBS
 :::

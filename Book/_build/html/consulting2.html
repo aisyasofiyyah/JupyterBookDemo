@@ -33,8 +33,6 @@
     <link rel="stylesheet" type="text/css" href="_static/customtoggle.css" />
     <link rel="stylesheet" type="text/css" href="_static/customcolor.css" />
     <link rel="stylesheet" type="text/css" href="_static/custombasic.css" />
-    <link rel="stylesheet" type="text/css" href="_static/all.min.css" />
-    <link rel="stylesheet" type="text/css" href="_static/style.css" />
     
   <link rel="preload" as="script" href="_static/js/index.1c5a1a01449ed65a7b51.js">
 
@@ -54,6 +52,7 @@
         const thebe_selector_output = ".output"
     </script>
     <script async="async" src="_static/sphinx-thebe.js"></script>
+    <link rel="shortcut icon" href="_static/favicon.ico"/>
     <link rel="index" title="Index" href="genindex.html" />
     <link rel="search" title="Search" href="search.html" />
     <link rel="next" title="Data Governance" href="consulting3.html" />
@@ -286,8 +285,8 @@
 <div class="section" id="reference-architecture">
 <h2>Reference Architecture<a class="headerlink" href="#reference-architecture" title="Permalink to this headline">¶</a></h2>
 <div class="tabbed-set docutils">
-<input checked="checked" id="9e8d8c15-bf0b-4884-b782-825aa4bac0be" name="452d9f20-9f0a-4ec8-8183-ecd0eacd8968" type="radio">
-</input><label class="tabbed-label" for="9e8d8c15-bf0b-4884-b782-825aa4bac0be">
+<input checked="checked" id="87fda7fe-d952-4c6d-8a90-4ddc78081c64" name="17491e9c-4b5a-49d0-9dc8-73378433faa6" type="radio">
+</input><label class="tabbed-label" for="87fda7fe-d952-4c6d-8a90-4ddc78081c64">
 Infrastructure and Data Minder</label><div class="tabbed-content docutils">
 <p><img alt="architecture1" src="_images/architecture1.png" /></p>
 <details class="sphinx-bs dropdown card mb-3 fade-in-slide-down">
@@ -315,8 +314,8 @@ Infrastructure and Data Minder</label><div class="tabbed-content docutils">
 <p class="card-text">Used to manage the integration and data of a platform. This component is where data is gathered and cleaned and where appropriate access to that data is controlled. Includes data lakes, databases, data files and data warehouses, with inputs both from information sources across the company and externally.</li><li><strong>Data Sources:</strong> The primary locations from which data is collected first-hand. These could include the organization’s CRM, system, ERP system, order management system, logs from the customer website or mobile app, IOT devices or sensors, still or video cameras, wearables, or any other sources. Some of the data and integration layer may even be externally focused. These can come in through a batch or streaming pipeline.<br><br></li><li><strong>Raw Data Store:</strong> Where all incoming data is stored without modification, whether the data is structured, which might mean it comes from a database table, including time series data, or unstructured, such as an image file from a drone or satellite, a video, or a Word document. The raw data store is meant to house data from the source system “as is, but validations are required to ensure it is consistent with data from the source system, including structure and format validation, record counts or profiling. Invalid data is flagged and stored for further analysis and correction.<br><br></li><li><strong>Data Labs:</strong> Where the AI scientists pull in their data to use throughout the experimentation and modeling process. They then make any necessary changes, including transformation, bias reduction, scaling, or other data preparation steps needed before or during modeling. Data labs can be thought of as the development environments for the modelers, and there is at least one person, or a small team of people, working in each lab.<br><br></li><li><strong>Data Governance:</strong> The data governance component manages the data governance and stewardship workflow and leverages the data quality component to understand the quality of the data and determine what actions are required to ensure that the uses of the data are consistent with corporate policies and applicable laws and regulations.<br><br></li><li><strong>Data Synthesizer:</strong> Used to do two things; firstly, synthesizes new data for model experimentation when actual information is not yet available. Synthetic data is data that is generated programmatically, as opposed to real-world data, which is collected and secondly, it synthesizes data where there are privacy concerns about existing data. Synthetic data is generated with precisely controlled statistical distributions that reflect real-world scenarios. AI models trained on the synthetic data can eventually be retrained on the real-world data after they are collected.</li><li><strong>Data Labeler:</strong> Used to label existing datasets to prepare them for supervised learning. The label is the target attribute that the machine learning algorithm tries to predict. This component manages a workflow for human labeling, but it may also have an automated labeling component. It serves the features to a suer who then enters a label. Can be done with structured data, audio, images and other data types.<br><br></li><li><strong>Knowledge Graph:</strong> A graph of entities, relationships, and other information gathered from unstructured text data such as Word documents or PDF files. It is used to more efficiently and precisely locate information that was in the documents. Often there is more than one knowledge graph, depending on the purpose for which it was build – for example, to find answers asked of a virtual assistant about the expertise of people in a company or about company policies.<br><br></li><li><strong>Data Marketplace:</strong> A comprehensive view of all the data and features available to AI scientists and other users. This information is easily browsable to enable users to understand what data is available and includes descriptions of the data, associated metadata, information on the relationships among the data elements, data lineage and so on. In many instances, available information also includes data profiles such as counts and distribution of the rows of data. AI scientists as well as business analysts, business users and business intelligence (BI) developers use the data marketplace to understand all the data that is available in the company.This data marketplace is key to enabling data literacy and culture of data driven decisions within a company.</p>
 </div>
 </details></div>
-<input id="a7d07215-210f-4fc7-ba2b-1a3805980cbe" name="452d9f20-9f0a-4ec8-8183-ecd0eacd8968" type="radio">
-</input><label class="tabbed-label" for="a7d07215-210f-4fc7-ba2b-1a3805980cbe">
+<input id="daff6a39-15df-49bc-873a-0321addc649a" name="17491e9c-4b5a-49d0-9dc8-73378433faa6" type="radio">
+</input><label class="tabbed-label" for="daff6a39-15df-49bc-873a-0321addc649a">
 Model Maker, Inference Activator and Performance Manager </label><div class="tabbed-content docutils">
 <p><img alt="architecture2" src="_images/architecture2.png" /></p>
 <details class="sphinx-bs dropdown card mb-3 fade-in-slide-down">
@@ -352,8 +351,8 @@ Model Maker, Inference Activator and Performance Manager </label><div class="tab
 <div class="section" id="analytics-programme">
 <h2>Analytics Programme<a class="headerlink" href="#analytics-programme" title="Permalink to this headline">¶</a></h2>
 <div class="tabbed-set docutils">
-<input checked="checked" id="f73bc0b5-fcac-4946-94af-13170ae7f3ff" name="944a00fd-8d11-42aa-a4c8-07f90d9605fa" type="radio">
-</input><label class="tabbed-label" for="f73bc0b5-fcac-4946-94af-13170ae7f3ff">
+<input checked="checked" id="a9d181f2-914d-46c9-881e-451287c45419" name="4a74c7df-3365-41f5-9f28-8d32bde1aaa8" type="radio">
+</input><label class="tabbed-label" for="a9d181f2-914d-46c9-881e-451287c45419">
 Analytics Starter Programme</label><div class="tabbed-content docutils">
 <p><img alt="starter2" src="_images/starter2.png" /><br />
 <em>Composable Architecture for Starter Programme</em></p>
@@ -450,8 +449,8 @@ Analytics Starter Programme</label><div class="tabbed-content docutils">
 </table>
 </div>
 </details></div>
-<input id="d094ccc8-064c-4e54-8299-6a3efef420d8" name="944a00fd-8d11-42aa-a4c8-07f90d9605fa" type="radio">
-</input><label class="tabbed-label" for="d094ccc8-064c-4e54-8299-6a3efef420d8">
+<input id="e6436d38-d767-4fbd-bbff-70612b412944" name="4a74c7df-3365-41f5-9f28-8d32bde1aaa8" type="radio">
+</input><label class="tabbed-label" for="e6436d38-d767-4fbd-bbff-70612b412944">
 Analytics Growth Programme</label><div class="tabbed-content docutils">
 <p><img alt="growth2" src="_images/growth2.png" />
 <em>Composable Architecture for Analytics Growth Programme</em></p>
@@ -682,8 +681,8 @@ Analytics Growth Programme</label><div class="tabbed-content docutils">
 </table>
 </div>
 </details></div>
-<input id="70ed28cc-2cc2-4f9d-bd7b-40e8fc0cb596" name="944a00fd-8d11-42aa-a4c8-07f90d9605fa" type="radio">
-</input><label class="tabbed-label" for="70ed28cc-2cc2-4f9d-bd7b-40e8fc0cb596">
+<input id="c5d7859c-0d89-4b35-9570-30bae3726406" name="4a74c7df-3365-41f5-9f28-8d32bde1aaa8" type="radio">
+</input><label class="tabbed-label" for="c5d7859c-0d89-4b35-9570-30bae3726406">
 Analytics Advanced Programme</label><div class="tabbed-content docutils">
 <p><img alt="advanced2" src="_images/advanced2.png" />
 <em>Composable Architecture for Analytics Advanced Programme</em></p>
