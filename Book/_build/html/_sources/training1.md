@@ -1,11 +1,6 @@
 # Business Insights Track
 
-```{image} datamanagement.png
-:alt: data
-:class: mb-1
-:width: 320px
-:align: center
-```
+![](datamanagement.png)
 
 :::{panels}
 :container: +full-width

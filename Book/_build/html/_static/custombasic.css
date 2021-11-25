@@ -9,15 +9,17 @@ table{
 th{
     text-align:left;
     padding: 16px;
-    background-color: #c9bcbc;
+    background-color: #cecbcb;
 }
 /* table data*/
 td {
   text-align: left;
   padding: 16px;
 }
-
-/* Zebra-striped table rows */
 tr:hover {
     background-color: #f2f2f2;
 }
+  
+
+
+

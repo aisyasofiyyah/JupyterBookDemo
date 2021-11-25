@@ -12,5 +12,5 @@ Traditional (Face-to-Face) learning is the most common way of  learning all arou
 :title: bg-jb-green text-center text-white
 :body: text-justify
 :animate: fade-in-slide-down
-Virtual learning can be done remotely.
+Virtual learning can be done remotely.....
 :::
