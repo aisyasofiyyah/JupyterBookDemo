@@ -52,11 +52,3 @@
     --pst-color-admonition-welcome: var(--pst-color-light);
     --pst-icon-admonition-welcome: var(--pst-icon-home);
 }
-
-/* CUSTOM TABLE STYLE */
-table {
-    margin-left: auto !important;
-    margin-right: 100% !important;
-    width: 100% !important;    
-    /*border: 1px solid black;*/
-}

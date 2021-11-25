@@ -2,7 +2,7 @@
 
 ## Reference Architecture
 
-```{tabbed} Infrastructure and Data Minder
+::::{tabbed} Infrastructure and Data Minder
 ![architecture1](architecture1.png)
 
 :::{dropdown} **Infrastructure**
@@ -25,9 +25,11 @@ High performance networking is typically required as large and fast data movemen
 
 Used to manage the integration and data of a platform. This component is where data is gathered and cleaned and where appropriate access to that data is controlled. Includes data lakes, databases, data files and data warehouses, with inputs both from information sources across the company and externally.</li><li>**Data Sources:** The primary locations from which data is collected first-hand. These could include the organization’s CRM, system, ERP system, order management system, logs from the customer website or mobile app, IOT devices or sensors, still or video cameras, wearables, or any other sources. Some of the data and integration layer may even be externally focused. These can come in through a batch or streaming pipeline.<br><br></li><li>**Raw Data Store:** Where all incoming data is stored without modification, whether the data is structured, which might mean it comes from a database table, including time series data, or unstructured, such as an image file from a drone or satellite, a video, or a Word document. The raw data store is meant to house data from the source system “as is, but validations are required to ensure it is consistent with data from the source system, including structure and format validation, record counts or profiling. Invalid data is flagged and stored for further analysis and correction.<br><br></li><li>**Data Labs:** Where the AI scientists pull in their data to use throughout the experimentation and modeling process. They then make any necessary changes, including transformation, bias reduction, scaling, or other data preparation steps needed before or during modeling. Data labs can be thought of as the development environments for the modelers, and there is at least one person, or a small team of people, working in each lab.<br><br></li><li>**Data Governance:** The data governance component manages the data governance and stewardship workflow and leverages the data quality component to understand the quality of the data and determine what actions are required to ensure that the uses of the data are consistent with corporate policies and applicable laws and regulations.<br><br></li><li>**Data Synthesizer:** Used to do two things; firstly, synthesizes new data for model experimentation when actual information is not yet available. Synthetic data is data that is generated programmatically, as opposed to real-world data, which is collected and secondly, it synthesizes data where there are privacy concerns about existing data. Synthetic data is generated with precisely controlled statistical distributions that reflect real-world scenarios. AI models trained on the synthetic data can eventually be retrained on the real-world data after they are collected.</li><li>**Data Labeler:** Used to label existing datasets to prepare them for supervised learning. The label is the target attribute that the machine learning algorithm tries to predict. This component manages a workflow for human labeling, but it may also have an automated labeling component. It serves the features to a suer who then enters a label. Can be done with structured data, audio, images and other data types.<br><br></li><li>**Knowledge Graph:** A graph of entities, relationships, and other information gathered from unstructured text data such as Word documents or PDF files. It is used to more efficiently and precisely locate information that was in the documents. Often there is more than one knowledge graph, depending on the purpose for which it was build – for example, to find answers asked of a virtual assistant about the expertise of people in a company or about company policies.<br><br></li><li>**Data Marketplace:** A comprehensive view of all the data and features available to AI scientists and other users. This information is easily browsable to enable users to understand what data is available and includes descriptions of the data, associated metadata, information on the relationships among the data elements, data lineage and so on. In many instances, available information also includes data profiles such as counts and distribution of the rows of data. AI scientists as well as business analysts, business users and business intelligence (BI) developers use the data marketplace to understand all the data that is available in the company.This data marketplace is key to enabling data literacy and culture of data driven decisions within a company.
 :::
-```
-```{tabbed} Model Maker, Inference Activator and Performance Manager 
+::::
+
+::::{tabbed} Model Maker, Inference Activator and Performance Manager 
 ![architecture2](architecture2.png) 
+
 :::{dropdown} **Model Maker**
 :title: bg-jb-fernGreen text-light
 :body: text-justify
@@ -51,10 +53,10 @@ This performance manager monitors run-time AI models – models that are in acti
 
 The inference activator deploys models into production and powers AI during run-time inferencing. The models are usually invoked through and API call from business applications using data that was not part of the model training and testing. Then the models are executed to make predictions. The continuous integration and continuous deployment (CI/CD), DevOps pipeline houses the tools that manage deployment, including automated testing and model assurance. This testing includes model validation to ensure model performance is as expected in each new environment; end-to-end testing  to validate that the data pipeline is accessible and APIs for the model are working; the model risk test, such as fairness, boundary condition, and sensitivity testing.</li><li>**Model Deployment:** The model deployment component packages and deploys the AI models, usually in containers to be used through APIs for real-time use, or within a data pipeline for use in batch mode. Containers are an open standard for packaging and distributing applications, including all software dependencies, so that the model can run quickly and reliably in any environment. They are in everyday use today for both model deployment and in deploying and scaling other kinds of software.<br><br></li><li>**Feature Deployment:** The feature deployment component deploys code for any feature transformations required on the input data. Sometimes this is integrated into model API, but sometimes it is separate from it.<br><br></li><li>**API Gateway:** For AI in run time, there is an API gateway that manages the set of APIs through which applications can invoke or trigger pretrained AI models. These include deployed AI models that were built on the platform and public AI services that are available from the large cloud providers, such as Microsoft Cognitive Services, a variety of startups, and many smaller companies. Lastly, RPA bots can also be accessed through the APIs as needed. The APIs are called by connected business applications that consume the model or from business intelligence applications that consume the present information in reports and dashboard. These applications usually have a human user. The APIs can also be enabled for different types of machines, consumption, such as autonomous systems that are synchronous or asynchronous but that have no human consumer. Sometimes the user interface of the application itself requires AI APIs, such as requests from conversational user interfaces in virtual assistants or for gesture control, eye-tracking, biometric recognition and ethomic (movement-based) interfaces.<br><br></li><li>**Choreographer:** The choreographer is configured when multiple models need to work in concert with each other. Sometimes this is handled inside business applications in the top layer; at other times, it is better to allow the model interactions to remain in the inference layer, depending on the specific use case. Some “intelligent products” are composite choreographs of multiple lower-level APIs – for example sentiment analysis from a voice file may include choreography among a speech-to-text API and various natural language processing (NLP) APIs.<br><br></li><li>**Failsafe and Container Management:** The failsafe component allows administrators to configure the failsafe mechanism for models for which such mechanisms have been deemed necessary. The container management component helps manage the deployed containers behind the model APIs and orchestrates the storage, networking and computing infrastructure to ensure the application is available. This is where the configurations are managed to scale the numbers of containers for a model based on CPU or GPU usage, accomplishing such tasks as restarting or replacing containers that fail.  
 :::
-```
+::::
 
 ## Analytics Programme
-```{tabbed} Analytics Starter Programme
+::::{tabbed} Analytics Starter Programme
 ![starter2](starter2.png)  
 *Composable Architecture for Starter Programme*
 
@@ -66,9 +68,9 @@ The inference activator deploys models into production and powers AI during run-
 | Function | Alpha Edge | Azure | Multi-Cloud
 |-----------|------------|-------|--------
 | Batch Pipeline |Cloud Data Migration| Data Factory | Airflow
-| Raw Data Store |<li>Object Storage</li><li>GaussDB |<li>Azure Blob Storage</li>|<li>NFS</li><li>PostgreSQL</li> |
+| Raw Data Store |<li>Object Storage</li><li>GaussDB |<li>Azure Blob Storage</li>|<li>NFS</li><li>PostgreSQL</li>|
 | Curated Data Store |GaussDB| Azure SQL Database | PostgreSQL |
-| Data Quality | - | Azure Data Quality Services | Python / SQL
+| Data Quality | ❌ | Azure Data Quality Services | Python / SQL
 :::
 
 :::{dropdown} **Model Maker**
@@ -79,7 +81,7 @@ The inference activator deploys models into production and powers AI during run-
 | Function | Alpha Edge | Azure | Multi-Cloud
 |----------|------------|-------|--------
 | Data Prep Libraries |<li>Cloud Data Migration</li><li>Python / SQL | <li>Data Factory</li><li>Python / SQL |<li>Python / SQL</li>| 
-| Exploratory Data Analyzer |<li>Data Lake Visualization</li>|<li>Metabase</li><li>Power BI |<li>Metabase</li>
+| Exploratory Data Analyzer |<li>Data Lake Visualization</li>|<li>Metabase</li><li>Power BI|<li>Metabase</li>
 :::
 
 :::{dropdown} **Engagement Systems**
@@ -89,11 +91,11 @@ The inference activator deploys models into production and powers AI during run-
 
 | Function | Alpha Edge | Azure | Multi-Cloud
 |-----------|------------|-------|--------
-| Business Intelligence Systems |<li>Metabase</li><li>Superset</li><li>Data Lake Visualization<br><br>**OLAP**</li><li>GaussDB |<li>Metabase</li><li>Superset</li><li>Power BI<br><br><br>**OLAP**</li><li>Azure Analysis Services |<li>Metabase</li><li>Superset</li><li>Tableu</li><br>**OLAP**</li><li>Druid | 
+| Business Intelligence Systems |<li>Metabase</li><li>Superset</li><li>Data Lake Visualization<br><br>**OLAP**</li><li>GaussDB |<li>Metabase</li><li>Superset</li><li>Power BI<br><br><br>**OLAP**</li><li>Azure Analysis Services|<li>Metabase</li><li>Superset</li><li>Tableu</li><br><br>**OLAP**</li><li>Druid | 
 :::
-```
+::::
 
-```{tabbed} Analytics Growth Programme
+::::{tabbed} Analytics Growth Programme
 ![growth2](growth2.png)
 *Composable Architecture for Analytics Growth Programme*
 
@@ -106,11 +108,11 @@ The inference activator deploys models into production and powers AI during run-
 |----------|------------|-------|-------------|-----------
 | Streaming Pipeline | Distributed Message Service | Azure Event Hub | Kafka | SAS Event Stream Processing
 | Batch Pipeline |Cloud Data Migration | Data Factory | Airflow | SAS Data Integration Studio
-| Raw Data Store |<li>Object Storage Service</li><li>Map Reduce Service | <li>Azure Blob Storage</li>|<li>NFS</li><li>PostgreSQL | 
-| Curated Data Store| Data Warehouse Service | Azure SQL Database | PostgreSQL |
+| Raw Data Store |<li>Object Storage Service</li><li>Map Reduce Service|<li>Azure Blob Storage</li>|<li>NFS</li><li>PostgreSQL|❌ 
+| Curated Data Store| Data Warehouse Service | Azure SQL Database | PostgreSQL | 
 | Data Quality | Cloud Data Migratopn | Azure Data FActory | Python | SAS Data Quality 
 | Data Lab | ExeML | Azure Machine Learning | Jupyter Lab | SAS Studio
-| Graph Database | Graph Engine Service |Azure Cosmos DB | Neo4J | 
+| Graph Database | Graph Engine Service |Azure Cosmos DB | Neo4J | ❌
 :::
 :::{dropdown} **Model Maker**
 :title: bg-jb-green text-light
@@ -121,7 +123,7 @@ The inference activator deploys models into production and powers AI during run-
 |----------|------------|-------|-------------|-----------
 | Data Viz | Data Lake Visualization |Power BI | Metabase | SAS Visual Analytics
 | Data Prep Libraries|<li>Python / SQL</li>|<li>Data Factory</li><li>Python / SQL |<li>DBT</li><li>Airflow |<li>SAS Data Preparation</li>
-| Exploratory Data Analyzer |<li>Model Arts DevEnviron</li>|<li>Metabase</li><li>Power BI |<li>Metabase</li>|<li>SAS Visual Statistics</li>
+| Exploratory Data Analyzer |<li>Model Arts DevEnviron</li>|<li>Metabase</li><li>Power BI |<br>Metabase|<li>SAS Visual Statistics</li>
 | Feature Generator | ModelArts Training Management | Azure Machine Learning | Anaconda | SAS VDMML
 | Model Training | ModelArts Training Management | Azure Machine Learning | Anaconda | SAS VDMML
 | Model Selector | ModelArts Training Management | Azure Machine Learning | Anaconda | SAS VDMML
@@ -156,11 +158,11 @@ The inference activator deploys models into production and powers AI during run-
 
 | Function | Alpha Edge | Azure | Multi-Cloud | SAS Viya
 |----------|------------|-------|-------------|----------- 
-| Business Intelligence Systems |<li>Metabase</li><li>Superset |<li>Metabase</li><li>Superset</li><li>Power BI |<li>Metabase</li><li>Superset |<li>SAS Visual Analytics</li>|
+| Business Intelligence Systems |<ul><li>Metabase<li>Superset</ul>|<ul><li>Metabase<li>Superset</li><li>Power BI |<ul><li>Metabase</li><li>Superset |<li>SAS Visual Analytics</li>|
 :::
-```
+::::
 
-```{tabbed} Analytics Advanced Programme
+::::{tabbed} Analytics Advanced Programme
 ![advanced2](advanced2.png)
 *Composable Architecture for Analytics Advanced Programme*
 
@@ -226,7 +228,7 @@ The inference activator deploys models into production and powers AI during run-
 | API Gateway |API Gateway | Azure API Management | IBM Watson OpenScale | Cloudera Data Science Workbench
 | Deploy AI Models | Model Arts Service Deployment | Azure DevOps | IBM Watson OpenScale | Cloudera Data Science Workbench
 | Public AI Services |<li>ExeML Image Classification</li><li>ExeML Object Detection</li><li>ExeML Predictive Analytics</li><li>ExeML Sound Classification</li><li>ExeML Text Classification |<li>Azure Applied AI Services</li><li>Azure Cognitive Services</li><li>Face API<li><li>Azure Speech to Text</li><li>Azure Text to Speech |<li>IBM Watson Speech to Text</li><li>IBM Watson Text to Speech</li><li>IBM Watson Language Translator</li><li>IBM Watson Natural Language Classifier</li><li>IBM Watson Assistant |<li>Applied ML Protege
-| RPA Bots |- |Power Automate |  - | -
+| RPA Bots |❌ |Power Automate |  ❌ | ❌
 :::
 
 :::{dropdown} **Performance Manager**
@@ -248,7 +250,8 @@ The inference activator deploys models into production and powers AI during run-
 :body: text-left
 :animate: fade-in-slide-down
 
-| Function | Alpha Edge | Azure | IBM CP4D (Multi-Cloud) | Cloudera CDP
+| Function | Alpha Edge | Azure | IBM CP4D<br>(Multi-Cloud) | Cloudera CDP
 |----------|------------|-------|------------------------|----------- 
-|Business Intelligence Systems |<li>Metabase</li><li>Superset |<li>Metabase</li><li>Superset</li><li>Power BI | Cognos Analytics | 
+|Business Intelligence Systems |<ul><li>Metabase<li>Superset</ul> |<ul><li>Metabase</li><li>Superset</li><li>Power BI</ul>|<br>Cognos Analytics | ❌
 :::
+::::

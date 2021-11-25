@@ -62,11 +62,11 @@
 - Outliers
 ::::
 
-| Processes | Key Activities
-|-----------|---------------
+| Processes | Key Activities |
+|-----------:|:---------------:|
 | Data Identification and Prioritization |</li><li>Articulate the data required to solve the problem</li><li>Reconcile the difference between the data we get and the data we want</li><li>Trace back the business and operational workflows reflected in the data</li><li>Articulate the provenance and governance assumption of the data
 | Data Collection and Preparation |</li><li>Extract data from large, structured data stores</li><li>Extract data from unstructured data sources</li><li>Integrate data from multiple sources</li><li>Ensure privacy and protection of data</li><li>Utilize variety of methods to cleanse and/or enrich data</li><li>Map results back to business and operational workflows</li><li>Model the data appropriately for the type of analysis needed
-Data Profiling and Characterization |</li><li>Identify relationships in the data</li><li>Perform exploration of unknown data</li><li>Profile datasets</li><li>Develop and execute a structured process to descrive the aggregate trends, features and culture of data set</li><li>Generate descriptive statistics, frequency analysis, and distribution of data</li><li>Identify and investigate outlier data</li><li>Develop theories that might address the problem
+| Data Profiling and Characterization |</li><li>Identify relationships in the data</li><li>Perform exploration of unknown data</li><li>Profile datasets</li><li>Develop and execute a structured process to descrive the aggregate trends, features and culture of data set</li><li>Generate descriptive statistics, frequency analysis, and distribution of data</li><li>Identify and investigate outlier data</li><li>Develop theories that might address the problem
 | Visual Exploration |</li><li>Utilize a variety of programmatic and menu-driven visualization tools to examine associations</li><li>Utilize principle of good design to craft visuals appropriate</li><li>Create graphics that help express the context and insight
 :::::
 

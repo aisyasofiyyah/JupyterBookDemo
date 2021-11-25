@@ -1,38 +1,23 @@
 
-/* Page content. The value of the margin-left property should match the value of the sidebar's width property */
-div.sidebar,
-aside.sidebar {
-    margin: 0 0 0.5em 1em;
-    border-style: none;
-    padding: 7px;
-    background-color: light;
-    width: 100%;
-    float: right;
-    clear: right;
-    overflow-x: auto;
+/* CUSTOM TABLE STYLE */
+table{
+    margin-left: auto !important;
+    margin-right: 100% !important;
+    width: 100% !important;  
+}
+/*table header*/ 
+th{
+    text-align:left;
+    padding: 16px;
+    background-color: #c9bcbc;
+}
+/* table data*/
+td {
+  text-align: left;
+  padding: 16px;
 }
 
-p.sidebar-title {
-    font-weight: bold;
-}
-
-div.admonition, div.topic, blockquote {
-    clear: none;
-}
-
-/* -- tables ---------------------------------------------------------------- */
-
-table.docutils {
-    margin-top: 10px;
-    margin-bottom: 10px;
-    border: 0;
-    border-collapse: collapse;
-}
-
-table.docutils td, table.docutils th {
-    padding: 1px 8px 1px 5px;
-    border-top: 0;
-    border-left: 0;
-    border-right: 0;
-    border-bottom: 1px solid #aaa;
+/* Zebra-striped table rows */
+tr:hover {
+    background-color: #f2f2f2;
 }
