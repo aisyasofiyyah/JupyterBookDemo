@@ -26,7 +26,7 @@ tr:hover {
   animation-duration: 4000ms;
   animation-iteration-count: infinite;
   animation-timing-function: linear;
-  transform-origin:15px 29.88px;
+  transform-origin:15px 29px;
   animation-play-state: running;
 }
 #smallcircle {
