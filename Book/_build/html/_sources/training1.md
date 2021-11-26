@@ -1,6 +1,6 @@
 # Business Insights Track
 
-![](datamanagement.png)
+
 
 :::{panels}
 :container: +full-width
