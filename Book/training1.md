@@ -1,7 +1,5 @@
 # Business Insights Track
 
-
-
 :::{panels}
 :container: +full-width
 :column: col-lg-4 px-2 py-2
