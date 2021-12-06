@@ -25,30 +25,13 @@
 
 /* CUSTOM FONTS */
 :root{
-    --pst-font-family-base-system: -apple-system, BlinkMacSystemFont, Segoe UI, "Helvetica Neue",
-    Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Cambria;
-    --pst-font-family-monospace-system: "SFMono-Regular", Menlo, Consolas, Monaco,
-    Liberation Mono, Lucida Console, monospace;
+    --pst-header-height: 40px;
+    /* heading font sizes */
+    --pst-font-size-h1: 34px;
+    --pst-font-size-h2: 32px;
 
     --pst-font-family-base: Segoe UI Emoji;
-    --pst-font-family-heading: Cambria;
+    --pst-font-family-heading: 'Inter', sans-serif;
     --pst-font-family-monospace: var(--pst-font-family-monospace-system);
-}
 
-:root {
-    /*tabbed content */
-    --tabs-color-label-active: #383E56;
-    --tabs-color-label-inactive: #9DAB86;
-    --tabs-color-overline: #ffffff;
-    --tabs-color-underline: rgb(255, 255, 255);
-    --tabs-size-label: 1rem;
-    
-    /* font awesome icons*/
-    --pst-icon-home:'\f015';
-
-    /*admonitions*/
-    --pst-color-admonition-attention: var(--pst-color-warning);    
-    --pst-icon-admonition-attention: var(--pst-icon-lightbulb);
-    --pst-color-admonition-welcome: var(--pst-color-light);
-    --pst-icon-admonition-welcome: var(--pst-icon-home);
 }

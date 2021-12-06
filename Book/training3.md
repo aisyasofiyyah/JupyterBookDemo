@@ -26,12 +26,10 @@
 :::::{tabbed} Data Sense Making
 
 ::::{dropdown} **Data Driven Analysis**
-:title: bg-jb-brown
 :animate: fade-in-slide-down
 ![d2](datascience2.png)
 ::::
 ::::{dropdown} **Data Profiling**
-:title: bg-jb-brown
 :animate: fade-in-slide-down
 
 :::{panels}
@@ -87,7 +85,6 @@
 :::::{tabbed} Results Activation
 
 ::::{dropdown} **Planning For Your Data Story**
-:title: bg-jb-brown
 :animate: fade-in-slide-down
 
 :::{panels}

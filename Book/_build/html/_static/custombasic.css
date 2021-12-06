@@ -1,5 +1,3 @@
-
-/* CUSTOM TABLE STYLE */
 table{
     margin-left: auto !important;
     margin-right: 100% !important;
@@ -47,6 +45,24 @@ svg:hover #smallcircle {
       transform: rotate(360deg);
     }
   }
+
+:root {
+  /*tabbed content */
+  --tabs-color-label-active: #383E56;
+  --tabs-color-label-inactive: #9DAB86;
+  --tabs-color-overline: #ffffff;
+  --tabs-color-underline: rgb(255, 255, 255);
+  --tabs-size-label: 1rem;
+    
+  /* font awesome icons*/
+  --pst-icon-home:'\f015';
+
+  /*custom admonitions*/
+  --pst-color-admonition-attention: var(--pst-color-warning);    
+  --pst-icon-admonition-attention: var(--pst-icon-lightbulb);
+  --pst-color-admonition-welcome: var(--pst-color-light);
+  --pst-icon-admonition-welcome: var(--pst-icon-home);
+}
 
 /* Center the loader */
 #loader {

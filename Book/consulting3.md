@@ -4,13 +4,7 @@ The data governance component manages the data governance and stewardship workfl
 
 ## Analytics Lifecycle Roles
 
-::::{panels}
-:card: border-2 shadow
-:body: text-justify
-:header: bg-warning text-center
-
-**Product Management**
-^^^
+::::{tabbed} Product Management
 :::{admonition} Product Manager
 :class: tip, dropdown
 - Owns the analytics/data product and ensures that it is deployed, maintained, updated and reevaluated in alignment with organization needs for insights. Responsible for delivery, managing scope, cost and schedule of data products. Also referred to as a portfolio manager in some cases.
@@ -39,9 +33,9 @@ The data governance component manages the data governance and stewardship workfl
 - **Skill Development:** Business Workflow, Basic Statistics
 - **Understanding:** Profiling Data, Data Governance
 :::
----
-**Business Analysis**
-^^^
+::::
+
+::::{tabbed} Business Analysis
 :::{admonition} Business Analyst 
 :class: tip, dropdown
 - An analyst who is tasked with understanding business change needs, assessing the business impact of those changes, documenting requirements and analyzing and visualizing business data as part of a communication strategy with relevant stakeholders.
@@ -77,9 +71,10 @@ The data governance component manages the data governance and stewardship workfl
 - **Skill Development:** Business Workflow
 - **Understanding:** Profiling Data, Security/Privacy, Operational Workflow, Data Governance, Platform/Infra
 :::
----
-**Statistical Analysis**
-^^^
+::::
+
+::::{tabbed} Statistical Analysis
+
 :::{admonition} Statistician
 :class: tip, dropdown
 - Uses data engineering, mathematical, statistical, and programming skills to extract sound insights from a wide variety and volume of business data.
@@ -108,9 +103,9 @@ The data governance component manages the data governance and stewardship workfl
 - **Skill Development:** Data Collection, Question Design, Basic Statistics, Advanced Statistics, R/Python/SQL
 - **Understanding:** Resource Planning, Operational Workflow
 :::
----
-**Technical Analysis**
-^^^
+::::
+
+::::{tabbed} Technical Analysis
 :::{admonition} Data Manager
 :class: tip, dropdown
 - Manages and maintains data based on a complete understanding of enterprise relationships, business definitions and business usage profiles. Ensure that information is organized, maintained and stored in a manner that facilitates business enablement and intelligence.
@@ -141,15 +136,9 @@ The data governance component manages the data governance and stewardship workfl
 :::
 ::::
 
-# Analytics Delivery Roles
+## Analytics Delivery Roles
 
-::::{panels}
-:card: border-2 shadow
-:body: text-justify
-:header: bg-jb-three text-center 
-
-**Project Management**
-^^^
+::::{tabbed} Project Management
 :::{admonition} Project Manager
 :class: attention, dropdown
 - **Skill Development:** Financial, FMP, Agile Development, Documentation
@@ -170,9 +159,10 @@ The data governance component manages the data governance and stewardship workfl
 - **Skill Development:** Financial
 - **Understanding:** WBS
 :::
----
-**Implementation**
-^^^
+::::
+
+::::{tabbed} Implementation
+
 :::{admonition} Application Developer
 :class: attention, dropdown
 - **Skill Integration:** HTML/JS/CSS, Java/.NET, Python, SQL, Task Scheduler, Tool Agility
@@ -203,9 +193,10 @@ The data governance component manages the data governance and stewardship workfl
 - **Skill Development:** Agile Development, Documentation, Programming, Troubleshooting
 - **Understanding:** OSI L5, OSI L6, OSI L7
 :::
----
-**Infrastructure Management**
-^^^
+::::
+
+::::{tabbed} Infrastructure Management
+
 :::{admonition} Technician
 :class: attention, dropdown
 - **Skill Integration:** Logging, Task Scheduler, Tool Agility
@@ -230,9 +221,10 @@ The data governance component manages the data governance and stewardship workfl
 - **Skill Development:** Agile Development, Documentation, SDE, Database, Version Control, Troubleshooting
 - **Understanding:** OSI L1, OSI L2, OSI L3
 :::
----
-**Solutioning**
-^^^
+::::
+
+::::{tabbed} Solutioning 
+
 :::{admonition} Solution Architect
 :class: attention, dropdown
 - **Skill Development:** Agile Development, Documentation, SDE, Database, 
