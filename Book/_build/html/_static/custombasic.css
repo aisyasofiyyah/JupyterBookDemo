@@ -1,3 +1,23 @@
+/* Sidebar */
+div.sidebar,
+aside.sidebar {
+    margin: 0 0 0.5em 1em;
+    border-style: none;
+    padding: 7px;
+    width: 100%;
+    float: right;
+    clear: right;
+    overflow-x: auto;
+}
+
+p.sidebar-title {
+    font-weight: bold;
+}
+
+div.admonition, div.topic, blockquote {
+    clear: none;
+}
+
 table{
     margin-left: auto !important;
     margin-right: 100% !important;
