@@ -2,9 +2,8 @@
 
 ::::{tabbed} AI Capabilities
 
-:::{image} capabilities.png
+:::{image} enterpriseAI.svg
 :class: mb-1
-:width: 100%
 :align: center
 :::
 ::::
