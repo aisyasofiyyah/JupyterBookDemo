@@ -10,7 +10,7 @@
 
 ::::{tabbed} Architecture Diagram for Hybrid Cloud Setup
 
-:::{image} bigdata1.png
+:::{image} hybrid.svg
 :class: mb-1
 :width: 100%
 :align: center
