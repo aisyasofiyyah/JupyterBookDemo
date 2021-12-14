@@ -4,7 +4,6 @@
 
 :::{image} enterpriseAI.svg
 :class: mb-1
-:width: 100%
 :align: center
 :::
 ::::
