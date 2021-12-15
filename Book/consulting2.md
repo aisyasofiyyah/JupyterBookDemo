@@ -28,7 +28,7 @@ Used to manage the</li><li>**Data Sources:** The primary locations<br><br></li><
 ::::
 
 ::::{tabbed} Model Maker, Inference Activator and Performance Manager 
-![architecture2](architecture2.png) 
+![architecture2](bigdata2.svg) 
 
 :::{dropdown} **Model Maker**
 :title: bg-jb-fernGreen text-light
