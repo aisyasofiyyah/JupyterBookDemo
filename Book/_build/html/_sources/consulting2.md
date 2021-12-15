@@ -3,7 +3,7 @@
 ## Reference Architecture
 
 ::::{tabbed} Infrastructure and Data Minder
-![architecture1](architecture1.png)
+![architecture1](bigdata1.svg)
 
 :::{dropdown} **Infrastructure**
 :title: bg-jb-fernGreen text-light
@@ -57,7 +57,7 @@ The inference activator deploys</li><li>**Model Deployment:** The model deployme
 
 ## Analytics Programme
 ::::{tabbed} Analytics Starter Programme
-![starter2](starter2.png)  
+![starter2](starter.svg)  
 *Composable Architecture for Starter Programme*
 
 :::{dropdown} **Data Minder**
@@ -96,7 +96,7 @@ The inference activator deploys</li><li>**Model Deployment:** The model deployme
 ::::
 
 ::::{tabbed} Analytics Growth Programme
-![growth2](growth2.png)
+![growth2](growth.svg)
 *Composable Architecture for Analytics Growth Programme*
 
 :::{dropdown} **Data Minder**
@@ -167,7 +167,7 @@ The inference activator deploys</li><li>**Model Deployment:** The model deployme
 ::::
 
 ::::{tabbed} Analytics Advanced Programme
-![advanced2](advanced2.png)
+![advanced2](advanced.svg)
 *Composable Architecture for Analytics Advanced Programme*
 
 :::{dropdown} **Data Minder**
