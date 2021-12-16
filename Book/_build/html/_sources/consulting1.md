@@ -19,7 +19,7 @@
 ::::
 
 :::::{tabbed} Flow Diagram
-::::{image} bigdata2.png
+::::{image} flowdiagram.png
 :class: p-4
 :width: 500px
 :align: left

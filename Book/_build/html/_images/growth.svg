@@ -2,40 +2,14 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   sodipodi:docname="growth.svg"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
-   id="buildingblocks"
-   version="1.1"
-   viewBox="0 0 210 297"
-   height="300mm"
-   width="210mm"
+   width="210mm"  
+   height="150mm" 
+   viewBox="0 0 210 150"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
-  <sodipodi:namedview
-     id="namedview7"
-     pagecolor="#505050"
-     bordercolor="#eeeeee"
-     borderopacity="1"
-     inkscape:pageshadow="0"
-     inkscape:pageopacity="0"
-     inkscape:pagecheckerboard="0"
-     inkscape:document-units="mm"
-     showgrid="false"
-     inkscape:zoom="2"
-     inkscape:cx="318.75"
-     inkscape:cy="318.25"
-     inkscape:window-width="1920"
-     inkscape:window-height="1013"
-     inkscape:window-x="-9"
-     inkscape:window-y="-9"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="box"
-     units="pt"
-     viewbox-height="100"
-     showguides="false" />
   <defs
      id="arrows">
     <linearGradient
