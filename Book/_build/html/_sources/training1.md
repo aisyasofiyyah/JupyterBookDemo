@@ -1,5 +1,11 @@
 # Business Insights Track
 
+```{image} datamanagement.png
+:alt: data
+:class: mb-1
+:width: 320px
+:align: center
+```
 :::{panels}
 :container: +full-width
 :column: col-lg-4 px-2 py-2
