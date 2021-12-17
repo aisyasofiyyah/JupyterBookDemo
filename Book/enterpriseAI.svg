@@ -25,14 +25,14 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="1.4142136"
-     inkscape:cx="393.15137"
-     inkscape:cy="184.20132"
+     inkscape:cx="393.50491"
+     inkscape:cy="297.33839"
      inkscape:window-width="1920"
      inkscape:window-height="1013"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
-     inkscape:current-layer="box"
+     inkscape:current-layer="Prepare"
      units="pt"
      viewbox-height="100" />
   <defs
@@ -425,7 +425,7 @@
       <g
          id="Strategic">
         <rect
-           style="opacity:0.439739;fill:#ff0000;fill-opacity:1;stroke-width:3.36731;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+           style="opacity:0.439739;fill:#800000;fill-opacity:1;stroke-width:3.36731;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
            id="StrategicBox"
            width="15.475909"
            height="12.444806"
@@ -446,7 +446,7 @@
       <g
          id="Tactical">
         <rect
-           style="opacity:0.439739;fill:#ff0000;fill-opacity:1;stroke-width:3.36731;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+           style="opacity:0.439739;fill:#800000;fill-opacity:1;stroke-width:3.36731;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
            id="TacticalBox"
            width="15.475909"
            height="12.444806"
@@ -467,7 +467,7 @@
       <g
          id="Operational">
         <rect
-           style="opacity:0.439739;fill:#ff0000;fill-opacity:1;stroke-width:3.36731;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+           style="opacity:0.439739;fill:#800000;fill-opacity:1;stroke-width:3.36731;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
            id="OperationalBox"
            width="15.475909"
            height="12.444806"
@@ -745,7 +745,7 @@
       <g
          id="Interpret">
         <rect
-           style="opacity:0.439739;fill:#ffff00;fill-opacity:1;stroke-width:3.56621;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+           style="opacity:0.439739;fill:#969600;fill-opacity:1;stroke-width:3.56621;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
            id="InterpretBox"
            width="15.764"
            height="13.702949"
@@ -777,7 +777,7 @@
       <g
          id="Operationalize">
         <rect
-           style="opacity:0.439739;fill:#ffff00;fill-opacity:1;stroke-width:3.82936;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+           style="opacity:0.439739;fill:#969600;fill-opacity:1;stroke-width:3.82936;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
            id="OperationalizeBox"
            width="18.005299"
            height="13.833431"
@@ -799,7 +799,7 @@
       <g
          id="FrameProblem">
         <rect
-           style="opacity:0.439739;fill:#ffff00;fill-opacity:1;stroke-width:3.43138;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+           style="opacity:0.439739;fill:#969600;fill-opacity:1;stroke-width:3.43138;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
            id="FrameProblemBox"
            width="16.16128"
            height="12.374817"
@@ -823,9 +823,10 @@
              id="tspan77440">Problem</tspan></text>
       </g>
       <g
-         id="DevelopModel">
+         id="DevelopModel"
+         style="stroke-width:1.00010307;stroke-miterlimit:4;stroke-dasharray:none">
         <rect
-           style="opacity:0.439739;fill:#ffff00;fill-opacity:1;stroke-width:3.37749;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+           style="opacity:0.439739;fill:#969600;fill-opacity:1;stroke-width:1.00010307;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stroke-miterlimit:4;stroke-dasharray:none"
            id="DevelopModelBox"
            width="34.198868"
            height="5.6657319"
@@ -833,20 +834,20 @@
            y="112.04542" />
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.00010307;stroke-miterlimit:4;stroke-dasharray:none"
            x="33.732563"
            y="115.34747"
            id="DevelopModelText"><tspan
              sodipodi:role="line"
              id="tspan68032"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1.00010307;stroke-miterlimit:4;stroke-dasharray:none"
              x="33.732563"
              y="115.34747">Develop Analytics Model</tspan></text>
       </g>
       <g
          id="UnderstandData">
         <rect
-           style="opacity:0.439739;fill:#ffff00;fill-opacity:1;stroke-width:3.52779;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+           style="opacity:0.439739;fill:#959500;fill-opacity:1;stroke-width:3.52779;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
            id="UnderstandDataBox"
            width="34.123253"
            height="6.1948986"
@@ -1226,7 +1227,7 @@
       <g
          id="Collect">
         <rect
-           style="opacity:0.439739;fill:#000080;fill-opacity:1;stroke-width:2.57186;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+           style="opacity:0.439739;fill:#0000ff;fill-opacity:0.44;stroke-width:2.57186;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
            id="CollectBox"
            width="13.412345"
            height="8.3765144"
@@ -1247,7 +1248,7 @@
       <g
          id="Ingest">
         <rect
-           style="opacity:0.439739;fill:#000080;fill-opacity:1;stroke-width:2.57186;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+           style="opacity:0.439739;fill:#0000ff;fill-opacity:0.44;stroke-width:2.57186;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
            id="IngestBox"
            width="13.412345"
            height="8.3765144"
@@ -1268,7 +1269,7 @@
       <g
          id="Experience">
         <rect
-           style="opacity:0.439739;fill:#000080;fill-opacity:1;stroke-width:2.57186;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+           style="opacity:0.439739;fill:#0000ff;fill-opacity:0.44;stroke-width:2.57186;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
            id="ExperienceBox"
            width="13.412345"
            height="8.3765144"
@@ -1289,7 +1290,7 @@
       <g
          id="Persist">
         <rect
-           style="opacity:0.439739;fill:#000080;fill-opacity:1;stroke-width:2.57186;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+           style="opacity:0.439739;fill:#0000ff;fill-opacity:0.44;stroke-width:2.57186;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
            id="PersistBox"
            width="13.412345"
            height="8.3765144"
@@ -1310,7 +1311,7 @@
       <g
          id="Prepare">
         <rect
-           style="opacity:0.439739;fill:#000080;fill-opacity:1;stroke-width:2.57186;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+           style="opacity:0.439739;fill:#0000ff;fill-opacity:0.44;stroke-width:2.57186;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
            id="PrepareBox"
            width="13.412345"
            height="8.3765144"
@@ -1354,7 +1355,7 @@
          id="DataViz"
          transform="matrix(0.99989692,0,0,0.99989692,-1.0227247,-58.704491)">
         <rect
-           style="opacity:0.439739;fill:#000080;fill-opacity:1;stroke-width:3.29726;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+           style="opacity:0.439739;fill:#0000ff;fill-opacity:0.43921569;stroke-width:3.29726;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
            id="DataVizBox"
            width="13.985023"
            height="13.20441"
@@ -1376,7 +1377,7 @@
          id="DataPrep"
          transform="matrix(0.99989692,0,0,0.99989692,-1.0227247,-58.704491)">
         <rect
-           style="opacity:0.439739;fill:#000080;fill-opacity:1;stroke-width:3.10448;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+           style="opacity:0.439739;fill:#0000ff;fill-opacity:0.44;stroke-width:3.10448;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
            id="DataPrepBox"
            width="12.397521"
            height="13.20441"
@@ -1403,7 +1404,7 @@
          id="FeatureGenerator"
          transform="matrix(0.99989692,0,0,0.99989692,-1.0227247,-58.704491)">
         <rect
-           style="opacity:0.439739;fill:#000080;fill-opacity:1;stroke-width:3.10448;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+           style="opacity:0.439739;fill:#0000ff;fill-opacity:0.44;stroke-width:3.10448;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
            id="FeatureGeneratorBox"
            width="12.397521"
            height="13.20441"
@@ -1430,7 +1431,7 @@
          id="ModelSelector"
          transform="matrix(0.99989692,0,0,0.99989692,-1.0227247,-58.704491)">
         <rect
-           style="opacity:0.439739;fill:#000080;fill-opacity:1;stroke-width:3.10448;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+           style="opacity:0.439739;fill:#0000ff;fill-opacity:0.44;stroke-width:3.10448;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
            id="ModelSelectorBox"
            width="12.397521"
            height="13.20441"
@@ -1457,7 +1458,7 @@
          id="AlgoFrameworks"
          transform="matrix(0.99989692,0,0,0.99989692,-1.0227247,-58.704491)">
         <rect
-           style="opacity:0.439739;fill:#000080;fill-opacity:1;stroke-width:3.52343;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+           style="opacity:0.439739;fill:#0000ff;fill-opacity:0.44;stroke-width:3.52343;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
            id="AlgoFrameworksBox"
            width="15.969396"
            height="13.20441"
@@ -1484,7 +1485,7 @@
          id="ExploratoryData"
          transform="matrix(0.99989692,0,0,0.99989692,-1.0227247,-58.704491)">
         <rect
-           style="opacity:0.439739;fill:#000080;fill-opacity:1;stroke-width:3.28621;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+           style="opacity:0.439739;fill:#0000ff;fill-opacity:0.44;stroke-width:3.28621;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
            id="ExploratoryDataBox"
            width="13.956626"
            height="13.142707"
@@ -1516,7 +1517,7 @@
          id="SignalExplorer"
          transform="matrix(0.99989692,0,0,0.99989692,-1.0227247,-58.704491)">
         <rect
-           style="opacity:0.439739;fill:#000080;fill-opacity:1;stroke-width:3.09367;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+           style="opacity:0.439739;fill:#0000ff;fill-opacity:0.44;stroke-width:3.09367;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
            id="SignalExplorerBox"
            width="12.369124"
            height="13.142707"
@@ -1543,7 +1544,7 @@
          id="ModelTraining"
          transform="matrix(0.99989692,0,0,0.99989692,-1.0227247,-58.704491)">
         <rect
-           style="opacity:0.439739;fill:#000080;fill-opacity:1;stroke-width:3.09367;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+           style="opacity:0.439739;fill:#0000ff;fill-opacity:0.44;stroke-width:3.09367;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
            id="ModelTrainingBox"
            width="12.369124"
            height="13.142707"
@@ -1570,7 +1571,7 @@
          id="ModelOpt"
          transform="matrix(0.99989692,0,0,0.99989692,-1.0227247,-58.704491)">
         <rect
-           style="opacity:0.439739;fill:#000080;fill-opacity:1;stroke-width:3.09367;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+           style="opacity:0.439739;fill:#0000ff;fill-opacity:0.44;stroke-width:3.09367;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
            id="ModelOptBox"
            width="12.369124"
            height="13.142707"
@@ -1597,7 +1598,7 @@
          id="BiasRegularizer"
          transform="matrix(0.99989692,0,0,0.99989692,-1.0227247,-58.704491)">
         <rect
-           style="opacity:0.439739;fill:#000080;fill-opacity:0.994269;stroke-width:3.46617;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+           style="opacity:0.439739;fill:#0000ff;fill-opacity:0.44;stroke-width:3.46617;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
            id="BiasRegularizerBox"
            width="15.777527"
            height="12.93408"
@@ -1624,7 +1625,7 @@
          id="Fairness"
          transform="matrix(0.99989692,0,0,0.99989692,-1.0227247,-58.704491)">
         <rect
-           style="opacity:0.439739;fill:#000080;fill-opacity:1;stroke-width:2.38678;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+           style="opacity:0.439739;fill:#0000ff;fill-opacity:0.44;stroke-width:2.38678;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
            id="FairnessBox"
            width="18.924862"
            height="5.1128836"
@@ -1646,7 +1647,7 @@
          id="Boundary"
          transform="matrix(0.99989692,0,0,0.99989692,-1.0227247,-58.704491)">
         <rect
-           style="opacity:0.439739;fill:#000080;fill-opacity:1;stroke-width:2.38678;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+           style="opacity:0.439739;fill:#0000ff;fill-opacity:0.44;stroke-width:2.38678;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
            id="BoundaryBox"
            width="18.924862"
            height="5.1128836"
@@ -1668,7 +1669,7 @@
          id="Sensitivity"
          transform="matrix(0.99989692,0,0,0.99989692,-1.0227247,-58.704491)">
         <rect
-           style="opacity:0.439739;fill:#000080;fill-opacity:1;stroke-width:2.38678;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+           style="opacity:0.439739;fill:#0000ff;fill-opacity:0.44;stroke-width:2.38678;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
            id="SensitivityBox"
            width="18.924862"
            height="5.1128836"
@@ -1690,7 +1691,7 @@
          id="Interpreter"
          transform="matrix(0.99989692,0,0,0.99989692,-1.0227247,-58.704491)">
         <rect
-           style="opacity:0.439739;fill:#000080;fill-opacity:1;stroke-width:2.38678;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+           style="opacity:0.439739;fill:#0000ff;fill-opacity:0.44;stroke-width:2.38678;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
            id="InterpreterBox"
            width="18.924862"
            height="5.1128836"
@@ -1714,13 +1715,13 @@
         <g
            id="ModelSourceBox"
            transform="matrix(2.6702018,0,0,1,-71.904855,-44.040884)"
-           style="fill:#000080;fill-opacity:0.439216;stroke:none">
+           style="fill:#0000ff;fill-opacity:0.21951219;stroke:none">
           <path
              id="path26313"
-             style="opacity:1;fill:#000080;fill-opacity:0.439216;stroke:none;stroke-width:0.0539438;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.692308;paint-order:markers stroke fill"
+             style="opacity:1;fill:#0000ff;fill-opacity:0.21951219;stroke:none;stroke-width:0.0539438;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.692308;paint-order:markers stroke fill"
              d="m 95.637103,164.49885 a 4.9296183,1.0822941 0 0 0 -4.894359,1.08734 4.9296183,1.0822941 0 0 0 0.01663,0.0813 h -0.04301 v 5.57384 h 0.133041 a 4.8954621,1.0747952 0 0 0 -0.0017,0.0152 4.8954621,1.0747952 0 0 0 4.906974,1.07 4.8954621,1.0747952 0 0 0 4.883461,-1.07487 v -0.0106 -5.57439 h -0.0533 a 4.9296183,1.0822941 0 0 0 0.0172,-0.0856 v -0.0106 a 4.9296183,1.0822941 0 0 0 -4.964899,-1.07216 z" />
           <path
-             style="opacity:1;fill:#000080;fill-opacity:0.439216;stroke:none;stroke-width:0.0169761;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.692308;paint-order:markers stroke fill"
+             style="opacity:1;fill:#0000ff;fill-opacity:0.21951219;stroke:none;stroke-width:0.0169761;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.692308;paint-order:markers stroke fill"
              id="path26315"
              sodipodi:type="arc"
              sodipodi:cx="95.664368"
@@ -1749,7 +1750,7 @@
          id="ModelPipeline"
          transform="matrix(0.99989692,0,0,0.99989692,-1.0227247,-58.704491)">
         <rect
-           style="opacity:0.439739;fill:#000080;fill-opacity:1;stroke-width:3.64045;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+           style="opacity:0.439739;fill:#0000ff;fill-opacity:0.44;stroke-width:3.64045;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
            id="ModelPipelineBox"
            width="30.037361"
            height="7.4941335"
@@ -1766,6 +1767,27 @@
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
              x="173.99911"
              y="135.86003">Model Pipeline</tspan></text>
+      </g>
+      <g
+         id="ModelMgmt">
+        <rect
+           style="opacity:0.439739;fill:#0000ff;fill-opacity:0.44;stroke:none;stroke-width:3.63441;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.439216;paint-order:fill markers stroke"
+           id="ModelMgmtBox"
+           width="30.034269"
+           height="7.4699883"
+           x="166.37151"
+           y="82.155693" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11645px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264555"
+           x="171.65916"
+           y="86.797768"
+           id="ModelMgmtText"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11645px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.264555"
+             x="171.65916"
+             y="86.797768"
+             id="tspan2659">Model Management</tspan></text>
       </g>
       <text
          xml:space="preserve"
@@ -1803,24 +1825,6 @@
            id="modelpath1"
            sodipodi:nodetypes="cc" />
       </g>
-      <rect
-         style="opacity:0.439739;fill:#000080;fill-opacity:1;stroke:none;stroke-width:3.63441;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.439216;paint-order:fill markers stroke"
-         id="ModelMgmtBox"
-         width="30.034269"
-         height="7.4699883"
-         x="166.37151"
-         y="82.155693" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11645px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264555"
-         x="171.65916"
-         y="86.797768"
-         id="ModelMgmtText"><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11645px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.264555"
-           x="171.65916"
-           y="86.797768"
-           id="tspan2659">Model Management</tspan></text>
       <g
          id="datapath"
          transform="matrix(0.99989692,0,0,0.99989692,-1.0227247,-58.704491)">
@@ -1997,7 +2001,7 @@
          id="StreamingPipeline"
          transform="matrix(1.0197457,0,0,1.0197457,-5.604225,-61.268422)">
         <rect
-           style="opacity:0.439739;fill:#2d1650;fill-opacity:1;stroke-width:2.75048;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+           style="opacity:0.439739;fill:#000080;fill-opacity:1;stroke-width:2.75048;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
            id="StreamingPipelineBox"
            width="14.187996"
            height="9.056839"
@@ -2024,7 +2028,7 @@
          id="BatchPipeline"
          transform="matrix(1.0197457,0,0,1.0197457,-5.604225,-61.268422)">
         <rect
-           style="opacity:0.439739;fill:#2a154e;fill-opacity:0.98374;stroke-width:2.75048;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+           style="opacity:0.439739;fill:#000080;fill-opacity:1;stroke-width:2.75048;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
            id="BatchPipelineBox"
            width="14.187996"
            height="9.056839"
@@ -2052,13 +2056,13 @@
          transform="matrix(1.0197457,0,0,1.0197457,-5.604225,-61.268422)">
         <g
            id="RawDataBox"
-           style="fill:#2a154f;fill-opacity:0.431373">
+           style="fill:#000080;fill-opacity:0.43921569">
           <path
              id="path18255"
-             style="opacity:1;fill:#2a154f;fill-opacity:0.431373;stroke:#0a040d;stroke-width:0.0539438;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.692308;paint-order:markers stroke fill"
+             style="opacity:1;fill:#000080;fill-opacity:0.43921569;stroke:#0a040d;stroke-width:0.0539438;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.692308;paint-order:markers stroke fill"
              d="m 95.637103,164.49885 a 4.9296183,1.0822941 0 0 0 -4.894359,1.08734 4.9296183,1.0822941 0 0 0 0.01663,0.0813 h -0.04301 v 5.57384 h 0.133041 a 4.8954621,1.0747952 0 0 0 -0.0017,0.0152 4.8954621,1.0747952 0 0 0 4.906974,1.07 4.8954621,1.0747952 0 0 0 4.883461,-1.07487 v -0.0106 -5.57439 h -0.0533 a 4.9296183,1.0822941 0 0 0 0.0172,-0.0856 v -0.0106 a 4.9296183,1.0822941 0 0 0 -4.964899,-1.07216 z" />
           <path
-             style="opacity:1;fill:#2a154f;fill-opacity:0.431373;stroke:#0a040d;stroke-width:0.0169761;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.692308;paint-order:markers stroke fill"
+             style="opacity:1;fill:#000080;fill-opacity:0.43921569;stroke:#0a040d;stroke-width:0.0169761;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.692308;paint-order:markers stroke fill"
              id="path18099"
              sodipodi:type="arc"
              sodipodi:cx="95.664368"
@@ -2093,13 +2097,13 @@
          transform="matrix(1.0197457,0,0,1.0197457,-5.604225,-61.268422)">
         <g
            id="CuratedDataBox"
-           style="fill:#2a154f;fill-opacity:0.431373">
+           style="fill:#000080;fill-opacity:0.43921569">
           <path
              id="path25588"
-             style="opacity:1;fill:#2a154f;fill-opacity:0.431373;stroke:#0a040d;stroke-width:0.0549204;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.692308;paint-order:markers stroke fill"
+             style="opacity:1;fill:#000080;fill-opacity:0.43921569;stroke:#0a040d;stroke-width:0.0549204;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.692308;paint-order:markers stroke fill"
              d="m 107.44196,164.70581 a 5.1712266,1.0694212 0 0 0 -5.13424,1.0744 5.1712266,1.0694212 0 0 0 0.0174,0.0803 h -0.045 v 5.50755 h 0.13955 a 5.1353965,1.0620115 0 0 0 -0.002,0.015 5.1353965,1.0620115 0 0 0 5.14749,1.05728 5.1353965,1.0620115 0 0 0 5.12281,-1.0621 v -0.0105 -5.50809 h -0.0559 a 5.1712266,1.0694212 0 0 0 0.018,-0.0846 v -0.0105 a 5.1712266,1.0694212 0 0 0 -5.20822,-1.0594 z" />
           <path
-             style="opacity:1;fill:#2a154f;fill-opacity:0.431373;stroke:#0a040d;stroke-width:0.0169761;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.692308;paint-order:markers stroke fill"
+             style="opacity:1;fill:#000080;fill-opacity:0.43921569;stroke:#0a040d;stroke-width:0.0169761;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.692308;paint-order:markers stroke fill"
              id="path25592"
              sodipodi:type="arc"
              sodipodi:cx="107.48888"
@@ -2135,13 +2139,13 @@
          transform="matrix(1.0197457,0,0,1.0197457,-5.604225,-61.268422)">
         <g
            id="DataLabsBox"
-           style="fill:#2a154f;fill-opacity:0.431373">
+           style="fill:#000080;fill-opacity:0.43921569">
           <path
              id="path25590"
-             style="opacity:1;fill:#2a154f;fill-opacity:0.431373;stroke:#0a040d;stroke-width:0.0541199;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.692308;paint-order:markers stroke fill"
+             style="opacity:1;fill:#000080;fill-opacity:0.43921569;stroke:#0a040d;stroke-width:0.0541199;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.692308;paint-order:markers stroke fill"
              d="m 118.76426,164.76063 a 5.0820995,1.0566864 0 0 0 -5.04574,1.06162 5.0820995,1.0566864 0 0 0 0.0171,0.0794 h -0.0444 v 5.44196 h 0.13715 a 5.0468868,1.0493649 0 0 0 -0.002,0.0148 5.0468868,1.0493649 0 0 0 5.05875,1.04469 5.0468868,1.0493649 0 0 0 5.03452,-1.04945 v -0.0104 -5.44249 h -0.055 a 5.0820995,1.0566864 0 0 0 0.0177,-0.0836 v -0.0104 A 5.0820995,1.0566864 0 0 0 118.76389,164.76 Z" />
           <path
-             style="opacity:1;fill:#2a154f;fill-opacity:0.431373;stroke:#0a040d;stroke-width:0.0169761;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.692308;paint-order:markers stroke fill"
+             style="opacity:1;fill:#000080;fill-opacity:0.43921569;stroke:#0a040d;stroke-width:0.0169761;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.692308;paint-order:markers stroke fill"
              id="path25594"
              sodipodi:type="arc"
              sodipodi:cx="118.8381"
@@ -2175,7 +2179,7 @@
          id="DataGovernance"
          transform="matrix(1.0197457,0,0,1.0197457,-5.604225,-61.268422)">
         <rect
-           style="opacity:0.439739;fill:#2a154f;fill-opacity:0.987805;stroke-width:2.11683;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+           style="opacity:0.439739;fill:#000080;fill-opacity:1;stroke-width:2.11683;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
            id="DataGovernanceBox"
            width="20.185877"
            height="3.7705503"
@@ -2197,7 +2201,7 @@
          id="DataQuality"
          transform="matrix(1.0197457,0,0,1.0197457,-5.604225,-61.268422)">
         <rect
-           style="opacity:0.439739;fill:#2a154f;fill-opacity:1;stroke-width:2.11683;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+           style="opacity:0.439739;fill:#000080;fill-opacity:1;stroke-width:2.11683;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
            id="DataQualityBox"
            width="20.185877"
            height="3.7705503"
@@ -2219,7 +2223,7 @@
          id="DataMarketplace"
          transform="matrix(1.0197457,0,0,1.0197457,-5.604225,-61.268422)">
         <rect
-           style="opacity:0.439739;fill:#291450;fill-opacity:1;stroke-width:2.27619;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+           style="opacity:0.439739;fill:#000080;fill-opacity:1;stroke-width:2.27619;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
            id="DataMarketplaceBox"
            width="23.339649"
            height="3.7705503"
@@ -2241,7 +2245,7 @@
          id="Labeler"
          transform="matrix(1.0197457,0,0,1.0197457,-5.604225,-61.268422)">
         <rect
-           style="opacity:0.439739;fill:#2a154f;fill-opacity:1;stroke-width:2.27619;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+           style="opacity:0.439739;fill:#000080;fill-opacity:1;stroke-width:2.27619;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
            id="LabelerBox"
            width="23.339649"
            height="3.7705503"
@@ -2265,13 +2269,13 @@
         <g
            id="FeaturesEmbedBox"
            transform="translate(80.390698,-0.2143506)"
-           style="fill:#2a154f;fill-opacity:0.431373">
+           style="fill:#000080;fill-opacity:0.43921569">
           <path
              id="path26055"
-             style="opacity:1;fill:#2a154f;fill-opacity:0.431373;stroke:#0a040d;stroke-width:0.0539438;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.692308;paint-order:markers stroke fill"
+             style="opacity:1;fill:#000080;fill-opacity:0.43921569;stroke:#0a040d;stroke-width:0.0539438;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.692308;paint-order:markers stroke fill"
              d="m 95.637103,164.49885 a 4.9296183,1.0822941 0 0 0 -4.894359,1.08734 4.9296183,1.0822941 0 0 0 0.01663,0.0813 h -0.04301 v 5.57384 h 0.133041 a 4.8954621,1.0747952 0 0 0 -0.0017,0.0152 4.8954621,1.0747952 0 0 0 4.906974,1.07 4.8954621,1.0747952 0 0 0 4.883461,-1.07487 v -0.0106 -5.57439 h -0.0533 a 4.9296183,1.0822941 0 0 0 0.0172,-0.0856 v -0.0106 a 4.9296183,1.0822941 0 0 0 -4.964899,-1.07216 z" />
           <path
-             style="opacity:1;fill:#2a154f;fill-opacity:0.431373;stroke:#0a040d;stroke-width:0.0169761;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.692308;paint-order:markers stroke fill"
+             style="opacity:1;fill:#000080;fill-opacity:0.43921569;stroke:#0a040d;stroke-width:0.0169761;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.692308;paint-order:markers stroke fill"
              id="path26057"
              sodipodi:type="arc"
              sodipodi:cx="95.664368"
@@ -2308,13 +2312,13 @@
         <g
            id="InsightsBox"
            transform="translate(91.880358,0.06244338)"
-           style="fill:#291450;fill-opacity:0.439216">
+           style="fill:#000080;fill-opacity:0.43921569">
           <path
              id="path26301"
-             style="opacity:1;fill:#291450;fill-opacity:0.439216;stroke:#0a040d;stroke-width:0.0539438;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.692308;paint-order:markers stroke fill"
+             style="opacity:1;fill:#000080;fill-opacity:0.43921569;stroke:#0a040d;stroke-width:0.0539438;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.692308;paint-order:markers stroke fill"
              d="m 95.637103,164.49885 a 4.9296183,1.0822941 0 0 0 -4.894359,1.08734 4.9296183,1.0822941 0 0 0 0.01663,0.0813 h -0.04301 v 5.57384 h 0.133041 a 4.8954621,1.0747952 0 0 0 -0.0017,0.0152 4.8954621,1.0747952 0 0 0 4.906974,1.07 4.8954621,1.0747952 0 0 0 4.883461,-1.07487 v -0.0106 -5.57439 h -0.0533 a 4.9296183,1.0822941 0 0 0 0.0172,-0.0856 v -0.0106 a 4.9296183,1.0822941 0 0 0 -4.964899,-1.07216 z" />
           <path
-             style="opacity:1;fill:#291450;fill-opacity:0.439216;stroke:#0a040d;stroke-width:0.0169761;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.692308;paint-order:markers stroke fill"
+             style="opacity:1;fill:#000080;fill-opacity:0.43921569;stroke:#0a040d;stroke-width:0.0169761;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.692308;paint-order:markers stroke fill"
              id="path26303"
              sodipodi:type="arc"
              sodipodi:cx="95.664368"
@@ -2341,44 +2345,47 @@
              id="tspan11816-80">Insights</tspan></text>
       </g>
       <g
-         id="GraphDataBox"
-         transform="matrix(1.0197457,0,0,1.0197457,99.287306,-61.205581)"
-         style="fill:#2a154f;fill-opacity:0.431373">
-        <path
-           id="path26307"
-           style="opacity:1;fill:#2a154f;fill-opacity:0.431373;stroke:#0a040d;stroke-width:0.0539438;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.692308;paint-order:markers stroke fill"
-           d="m 95.637103,164.49885 a 4.9296183,1.0822941 0 0 0 -4.894359,1.08734 4.9296183,1.0822941 0 0 0 0.01663,0.0813 h -0.04301 v 5.57384 h 0.133041 a 4.8954621,1.0747952 0 0 0 -0.0017,0.0152 4.8954621,1.0747952 0 0 0 4.906974,1.07 4.8954621,1.0747952 0 0 0 4.883461,-1.07487 v -0.0106 -5.57439 h -0.0533 a 4.9296183,1.0822941 0 0 0 0.0172,-0.0856 v -0.0106 a 4.9296183,1.0822941 0 0 0 -4.964899,-1.07216 z" />
-        <path
-           style="opacity:1;fill:#2a154f;fill-opacity:0.431373;stroke:#0a040d;stroke-width:0.0169761;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.692308;paint-order:markers stroke fill"
-           id="path26309"
-           sodipodi:type="arc"
-           sodipodi:cx="95.664368"
-           sodipodi:cy="165.34538"
-           sodipodi:rx="4.9206944"
-           sodipodi:ry="0.71074039"
-           sodipodi:start="0"
-           sodipodi:end="6.2736558"
-           sodipodi:open="true"
-           sodipodi:arc-type="arc"
-           d="m 100.58506,165.34538 a 4.9206944,0.71074039 0 0 1 -4.908969,0.71074 4.9206944,0.71074039 0 0 1 -4.932362,-0.70735 4.9206944,0.71074039 0 0 1 4.88547,-0.71411 4.9206944,0.71074039 0 0 1 4.955641,0.70395" />
-      </g>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.8434px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.230422"
-         x="199.16612"
-         y="107.87786"
-         id="GraphDataText"
-         transform="scale(0.97244678,1.0283339)"><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.8434px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.230422"
+         id="GraphData">
+        <g
+           id="GraphDataBox"
+           style="fill:#000080;fill-opacity:0.43921569"
+           transform="matrix(1.0197457,0,0,1.0197457,99.287307,-61.20558)">
+          <path
+             id="path26307"
+             style="opacity:1;fill:#000080;fill-opacity:0.43921569;stroke:#0a040d;stroke-width:0.0539438;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.692308;paint-order:markers stroke fill"
+             d="m 95.637103,164.49885 a 4.9296183,1.0822941 0 0 0 -4.894359,1.08734 4.9296183,1.0822941 0 0 0 0.01663,0.0813 h -0.04301 v 5.57384 h 0.133041 a 4.8954621,1.0747952 0 0 0 -0.0017,0.0152 4.8954621,1.0747952 0 0 0 4.906974,1.07 4.8954621,1.0747952 0 0 0 4.883461,-1.07487 v -0.0106 -5.57439 h -0.0533 a 4.9296183,1.0822941 0 0 0 0.0172,-0.0856 v -0.0106 a 4.9296183,1.0822941 0 0 0 -4.964899,-1.07216 z" />
+          <path
+             style="opacity:1;fill:#000080;fill-opacity:0.43921569;stroke:#0a040d;stroke-width:0.0169761;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.692308;paint-order:markers stroke fill"
+             id="path26309"
+             sodipodi:type="arc"
+             sodipodi:cx="95.664368"
+             sodipodi:cy="165.34538"
+             sodipodi:rx="4.9206944"
+             sodipodi:ry="0.71074039"
+             sodipodi:start="0"
+             sodipodi:end="6.2736558"
+             sodipodi:open="true"
+             sodipodi:arc-type="arc"
+             d="m 100.58506,165.34538 a 4.9206944,0.71074039 0 0 1 -4.908969,0.71074 4.9206944,0.71074039 0 0 1 -4.932362,-0.70735 4.9206944,0.71074039 0 0 1 4.88547,-0.71411 4.9206944,0.71074039 0 0 1 4.955641,0.70395" />
+        </g>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.8434px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.230422"
            x="199.16612"
            y="107.87786"
-           id="tspan11816-0">Graph </tspan><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.8434px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.230422"
-           x="199.16612"
-           y="110.18211"
-           id="tspan19846">Databse</tspan></text>
+           id="GraphDataText"
+           transform="scale(0.97244678,1.0283339)"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.8434px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.230422"
+             x="199.16612"
+             y="107.87786"
+             id="tspan11816-0">Graph </tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.8434px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.230422"
+             x="199.16612"
+             y="110.18211"
+             id="tspan19846">Databse</tspan></text>
+      </g>
     </g>
     <g
        id="Infrastructure"
@@ -2405,7 +2412,7 @@
       <g
          id="Storage">
         <rect
-           style="opacity:0.439739;fill:#000080;fill-opacity:1;stroke-width:3.68302;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+           style="opacity:0.439739;fill:#0000ff;fill-opacity:1;stroke-width:3.68302;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
            id="StorageBox"
            width="18.317532"
            height="12.578224"
@@ -2426,7 +2433,7 @@
       <g
          id="Network">
         <rect
-           style="opacity:0.439739;fill:#000080;fill-opacity:1;stroke-width:3.68302;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+           style="opacity:0.439739;fill:#0000fc;fill-opacity:1;stroke-width:3.68302;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
            id="NetworkBox"
            width="18.317532"
            height="12.578224"
@@ -2447,7 +2454,7 @@
       <g
          id="Compute">
         <rect
-           style="opacity:0.439739;fill:#000080;fill-opacity:1;stroke-width:3.68302;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+           style="opacity:0.439739;fill:#0000ff;fill-opacity:1;stroke-width:3.68302;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
            id="ComputeBox"
            width="18.317532"
            height="12.578224"
@@ -2468,7 +2475,7 @@
       <g
          id="Cloud-Premise">
         <rect
-           style="opacity:0.439739;fill:#000080;fill-opacity:1;stroke-width:3.68302;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+           style="opacity:0.439739;fill:#0000ff;fill-opacity:1;stroke-width:3.68302;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
            id="CloudPremiseBox"
            width="18.317532"
            height="12.578224"
@@ -2494,7 +2501,7 @@
       <g
          id="AutoScaling">
         <rect
-           style="opacity:0.439739;fill:#000080;fill-opacity:1;stroke-width:3.68302;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+           style="opacity:0.439739;fill:#0000ff;fill-opacity:1;stroke-width:3.68302;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
            id="AutoScalingBox"
            width="18.317532"
            height="12.578224"
@@ -2515,7 +2522,7 @@
       <g
          id="Edge">
         <rect
-           style="opacity:0.439739;fill:#000080;fill-opacity:1;stroke-width:3.68302;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+           style="opacity:0.439739;fill:#0000ff;fill-opacity:1;stroke-width:3.68302;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
            id="EdgeBox"
            width="18.317532"
            height="12.578224"
