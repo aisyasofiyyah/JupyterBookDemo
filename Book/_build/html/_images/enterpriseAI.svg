@@ -27,15 +27,23 @@
      units="px"
      inkscape:zoom="0.63411806"
      inkscape:cx="932.79161"
-     inkscape:cy="666.27972"
+     inkscape:cy="413.96077"
      inkscape:window-width="1920"
      inkscape:window-height="1013"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
-     inkscape:current-layer="Edge" />
+     inkscape:current-layer="Strategic" />
   <defs
      id="arrows">
+    <linearGradient
+       id="linearGradient10758"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#d3133c;stop-opacity:1;"
+         offset="0"
+         id="stop10756" />
+    </linearGradient>
     <marker
        id="marker2049"
        style="overflow:visible"
@@ -169,7 +177,7 @@
            y="71.992996"
            width="15.476"
            height="12.445"
-           style="opacity:0.43974;fill:#d3133c;stroke-width:3.3673;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;fill-opacity:1" />
+           style="opacity:0.43974;fill:#d31300;stroke-width:3.3673;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;fill-opacity:1" />
         <text
            id="StrategicText"
            x="15.742707"
@@ -1639,7 +1647,7 @@
            y="163.72"
            width="14.188"
            height="9.0567999"
-           style="opacity:0.43974;fill:#7030a0;stroke-width:2.7505;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;fill-opacity:1.0" />
+           style="opacity:0.43974;mix-blend-mode:darken;fill:#7030a0;fill-opacity:1;stroke-width:2.7505;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke" />
         <text
            id="StreamingPipelineText"
            x="59.134373"
