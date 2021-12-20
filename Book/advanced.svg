@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 <svg id="advanced" width="210mm" height="300mm" version="1.1" viewBox="0 0 210 297" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ 
  <defs id="arrows">
   <linearGradient id="linearGradient31495">
    <stop style="stop-color:#00f" offset="0"/>
@@ -64,6 +66,7 @@
    <stop style="stop-color:#00f;stop-opacity:0" offset="1"/>
   </linearGradient>
  </defs>
+ 
  <g id="box">
   <g id="DataDrivenDecisionMaking" transform="translate(-.91337 -58.978)">
    <rect id="DataDrivenBox" x="9.6051" y="64.656" width="55.156" height="22.151" style="fill:none;opacity:.43974;paint-order:fill markers stroke;stroke-dasharray:0.32, 0.64;stroke-linecap:square;stroke-width:.16;stroke:#000"/>

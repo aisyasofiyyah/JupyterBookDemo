@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 <svg width="210mm" height="297mm" version="1.1" viewBox="0 0 210 297" xmlns="http://www.w3.org/2000/svg">
+ 
  <defs id="arrows">
   <marker id="Arrow1Lend-5" style="overflow:visible" orient="auto">
    <path transform="matrix(-.8 0 0 -.8 -10 0)" d="m0 0 5-5-17.5 5 17.5 5z" style="fill-rule:evenodd;fill:context-stroke;stroke-width:1pt;stroke:context-stroke"/>
@@ -18,6 +19,7 @@
    <path transform="matrix(.8 0 0 .8 10 0)" d="m0 0 5-5-17.5 5 17.5 5z" style="fill-rule:evenodd;fill:context-stroke;stroke-width:1pt;stroke:context-stroke"/>
   </marker>
  </defs>
+ 
  <g id="box">
   <g id="AnalyticsLifestyle" transform="matrix(1.0224 0 0 1.0224 .15485 -87.754)">
    <rect id="AnalyticsLifecycleBox" x="10.252" y="93.121" width="54.799" height="33.431" style="fill:none;opacity:.43974;paint-order:fill markers stroke;stroke-dasharray:0.324445, 0.648891;stroke-linecap:square;stroke-width:.16222;stroke:#000"/>

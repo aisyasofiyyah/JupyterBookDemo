@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 <svg id="hybrid" width="202.19mm" height="182.44mm" version="1.1" viewBox="0 0 202.19 182.44" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ 
  <defs id="arrows">
   <linearGradient id="linearGradient156940-1">
    <stop style="stop-color:#e62121;stop-opacity:.93004" offset="0"/>
@@ -11,6 +13,7 @@
   <linearGradient id="linearGradient157218" x1="139.44" x2="168.67" y1="73.036" y2="73.036" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient156940-1"/>
   <linearGradient id="linearGradient157558" x1="171.07" x2="199.4" y1="73.036" y2="73.036" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient156940-1"/>
  </defs>
+ 
  <g id="box" transform="translate(-4.4072 -8.1248)">
   <g id="EnterpriseSystems">
    <rect x="4.5387" y="8.2564" width="90.06" height="182.18" style="fill:none;paint-order:markers stroke fill;stroke-linecap:square;stroke-linejoin:bevel;stroke-width:.26309;stroke:#000"/>
