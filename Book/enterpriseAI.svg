@@ -26,16 +26,22 @@
      showgrid="false"
      units="px"
      inkscape:zoom="0.63411806"
-     inkscape:cx="932.79161"
-     inkscape:cy="413.96077"
+     inkscape:cx="1020.3147"
+     inkscape:cy="409.22979"
      inkscape:window-width="1920"
-     inkscape:window-height="1013"
+     inkscape:window-height="1051"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
-     inkscape:current-layer="Strategic" />
+     inkscape:current-layer="box" />
   <defs
      id="arrows">
+    <rect
+       x="1480.7968"
+       y="903.61722"
+       width="3.1539868"
+       height="82.003657"
+       id="rect5625" />
     <linearGradient
        id="linearGradient10758"
        inkscape:swatch="solid">
@@ -150,24 +156,24 @@
      transform="matrix(2.2983759,0,0,2.0552733,-3.1275785,-5.8863923)">
     <g
        id="DataDrivenDecisionMaking"
-       transform="translate(-0.91337,-58.978)">
+       transform="matrix(1.000142,0,0,0.96339349,4.4615809,-55.920753)">
       <rect
          id="DataDrivenBox"
-         x="9.6050997"
-         y="64.655998"
-         width="55.155998"
-         height="22.150999"
-         style="opacity:0.43974;fill:none;stroke:#000000;stroke-width:0.16;stroke-linecap:square;stroke-dasharray:0.32, 0.64;paint-order:fill markers stroke" />
+         x="1.9913895"
+         y="64.666939"
+         width="64.57415"
+         height="24.362257"
+         style="opacity:0.43974;fill:none;stroke:#000000;stroke-width:0.181559;stroke-linecap:square;stroke-dasharray:0.363115, 0.726231;paint-order:fill markers stroke" />
       <text
          id="DataDrivenText"
-         transform="scale(0.90534,1.1046)"
-         x="12.15681"
-         y="62.392685"
-         style="font-size:10.452px;line-height:1.25;font-family:sans-serif;fill:#000000;stroke-width:0.26129"
+         transform="scale(0.69326827,1.442443)"
+         x="4.7902551"
+         y="48.455151"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.31728px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.0829291"
          xml:space="preserve"><tspan
-           x="12.15681"
-           y="62.392685"
-           style="font-size:2.8502px;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.26129"
+           x="4.7902551"
+           y="48.455151"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.31728px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.0829291"
            id="tspan34">Data Driven Decision Making</tspan></text>
       <g
          id="Strategic">
@@ -177,7 +183,7 @@
            y="71.992996"
            width="15.476"
            height="12.445"
-           style="opacity:0.43974;fill:#fe1200;stroke-width:3.3673;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;fill-opacity:1" />
+           style="opacity:0.43974;fill:#d4123b;fill-opacity:1;stroke-width:3.3673;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke" />
         <text
            id="StrategicText"
            x="15.742707"
@@ -197,7 +203,7 @@
            y="72.045998"
            width="15.476"
            height="12.445"
-           style="opacity:0.43974;fill:#d3133c;stroke-width:3.3673;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;fill-opacity:1.0" />
+           style="opacity:0.43974;fill:#d3133c;fill-opacity:1;stroke-width:3.3673;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke" />
         <text
            id="TacticalText"
            x="33.866665"
@@ -217,7 +223,7 @@
            y="72.045998"
            width="15.476"
            height="12.445"
-           style="opacity:0.43974;fill:#d3133c;stroke-width:3.3673;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;fill-opacity:1" />
+           style="opacity:0.43974;fill:#d3133c;fill-opacity:1;stroke-width:3.3673;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke" />
         <text
            id="OperationalText"
            x="49.477081"
@@ -232,7 +238,7 @@
     </g>
     <g
        id="EngagementSystems"
-       transform="translate(-0.91337,-58.978)">
+       transform="matrix(0.9999016,0,0,1.0843114,18.268762,-64.146384)">
       <rect
          id="EngSystemsBox"
          x="70.459"
@@ -241,195 +247,209 @@
          height="21.631001"
          style="opacity:0.43974;fill:none;stroke:#000000;stroke-width:0.17015;stroke-linecap:square;stroke-dasharray:0.340298, 0.680597;paint-order:fill markers stroke" />
       <text
-         id="EngSystems"
-         transform="scale(0.90534,1.1046)"
-         x="80.104294"
-         y="62.392685"
-         style="font-size:10.452px;line-height:1.25;font-family:sans-serif;fill:#000000;stroke-width:0.26129"
+         id="EngSystemsText"
+         transform="scale(0.8770858,1.1401393)"
+         x="81.798607"
+         y="60.230675"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.36183px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.0840425"
          xml:space="preserve"><tspan
-           x="80.104294"
-           y="62.392685"
-           style="font-size:2.8502px;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.26129"
+           x="81.798607"
+           y="60.230675"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.36183px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.0840425"
            id="tspan54">Engagement Systems</tspan></text>
       <g
-         id="BIPlatform">
+         id="BIPlatform"
+         transform="matrix(2.1381444,0,0,0.44114091,-90.951799,39.244668)">
         <rect
            id="BIplatformBox"
            x="77.199997"
            y="72.252998"
            width="16.370001"
            height="12.181"
-           style="opacity:0.43974;fill:#ed7d31;stroke-width:3.4264;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;fill-opacity:1.0" />
+           style="opacity:0.43974;fill:#ed7d31;fill-opacity:1;stroke-width:3.4264;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke" />
         <text
            id="BIPlatformText"
-           x="78.978127"
-           y="78.978127"
-           style="font-size:2.1167px;line-height:1.25;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.26458"
-           xml:space="preserve"><tspan
-             x="78.978127"
-             y="78.978127"
-             style="font-size:2.1167px;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.26458"
+           x="179.26543"
+           y="35.50666"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.01871px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.377329"
+           xml:space="preserve"
+           transform="scale(0.43581403,2.2945567)"><tspan
+             x="179.26543"
+             y="35.50666"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.01871px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.377329"
              id="tspan58">BI Platform</tspan></text>
       </g>
       <g
-         id="BusApps">
+         id="BusApps"
+         transform="matrix(2.142571,0,0,0.54759027,-132.71656,37.796263)">
         <rect
            id="BusAppBox"
            x="96.43"
            y="72.347"
-           width="16.370001"
+           width="16.369984"
            height="12.181"
-           style="opacity:0.43974;fill:#ed7d31;stroke-width:3.4264;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;fill-opacity:1" />
+           style="opacity:0.43974;fill:#ed7d31;fill-opacity:1;stroke-width:3.4264;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke" />
         <text
            id="BusAppText"
-           x="97.895821"
-           y="77.522911"
-           style="font-size:2.1167px;line-height:1.25;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.26458"
-           xml:space="preserve"><tspan
-             x="97.895821"
-             y="77.522911"
-             style="font-size:2.1167px;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.26458"
+           x="199.77271"
+           y="37.347263"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.22124px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.277647"
+           xml:space="preserve"
+           transform="scale(0.48741134,2.0516552)"><tspan
+             x="199.77271"
+             y="37.347263"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.22124px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.277647;fill:#ffffff"
              id="tspan63">Business </tspan><tspan
-             x="97.895821"
-             y="80.168747"
-             style="font-size:2.1167px;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.26458"
+             x="199.77271"
+             y="40.123772"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.22124px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.277647;fill:#ffffff"
              id="tspan65">Applications</tspan></text>
       </g>
       <g
-         id="CustApps">
+         id="CustApps"
+         transform="matrix(1.2398164,0,0,1.0931432,-33.041345,-8.7039244)">
         <rect
            id="CustAppsBox"
            x="115.35"
-           y="72.565002"
+           y="73.168091"
            width="16.370001"
-           height="12.181"
-           style="opacity:0.43974;fill:#ed7d31;stroke-width:3.4264;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;fill-opacity:1.0" />
+           height="11.577909"
+           style="opacity:0.43974;fill:#ed7d31;fill-opacity:1;stroke-width:3.3405;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke" />
         <text
            id="CustAppsText"
-           x="116.81355"
-           y="78.184372"
-           style="font-size:2.1167px;line-height:1.25;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.26458"
-           xml:space="preserve"><tspan
-             x="116.81355"
-             y="78.184372"
-             style="font-size:2.1167px;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.26458"
+           x="133.76428"
+           y="68.168274"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.43158px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.303939"
+           xml:space="preserve"
+           transform="scale(0.87050233,1.148762)"><tspan
+             x="133.76428"
+             y="68.168274"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.43158px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.303939"
              id="tspan70">Customers </tspan><tspan
-             x="116.81355"
-             y="80.830208"
-             style="font-size:2.1167px;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.26458"
+             x="133.76428"
+             y="71.20771"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.43158px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.303939"
              id="tspan72">Applications</tspan></text>
       </g>
     </g>
     <g
        id="SmartIOT"
-       transform="translate(-0.91337,-58.978)">
+       transform="matrix(1.1788519,0,0,0.95026107,-31.979798,-55.745219)">
       <rect
          id="SmartIOTBox"
-         x="140.17"
-         y="64.944"
-         width="63.498001"
-         height="21.631001"
-         style="opacity:0.43974;fill:none;stroke:#000000;stroke-width:0.16514;stroke-linecap:square;stroke-dasharray:0.330276, 0.660553;paint-order:fill markers stroke" />
+         x="161.68175"
+         y="64.947983"
+         width="48.376534"
+         height="24.245398"
+         style="opacity:0.43974;fill:none;stroke:#000000;stroke-width:0.152604;stroke-linecap:square;stroke-dasharray:0.305205, 0.610409;paint-order:fill markers stroke" />
       <text
          id="SmartText"
-         transform="scale(0.90534,1.1046)"
-         x="156.67297"
-         y="62.991531"
-         style="font-size:10.452px;line-height:1.25;font-family:sans-serif;fill:#000000;stroke-width:0.26129"
+         transform="scale(0.85258333,1.1729059)"
+         x="191.0518"
+         y="59.040176"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.26016px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.081501"
          xml:space="preserve"><tspan
-           x="156.67297"
-           y="62.991531"
-           style="font-size:2.8502px;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.26129"
+           x="191.0518"
+           y="59.040176"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.26016px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.081501"
            id="tspan78">SMART IOT</tspan><tspan
-           x="156.67297"
-           y="76.05603"
-           style="font-size:2.8502px;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.26129"
+           x="191.0518"
+           y="63.115223"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.26016px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.081501"
            id="tspan80" /></text>
       <g
-         id="Sensors">
+         id="Sensors"
+         transform="translate(25.678325,-1.4253254)">
         <rect
            id="SensorsBox"
            x="141.31"
            y="72.538002"
-           width="13.234"
-           height="12.113"
-           style="opacity:0.43974;fill:#00b0f0;stroke-width:3.072;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;fill-opacity:1" />
+           width="15.856001"
+           height="7.0858579"
+           style="opacity:0.43974;fill:#00b0f0;fill-opacity:1;stroke-width:2.57183;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke" />
         <text
            id="SensorsText"
-           x="143.40408"
-           y="79.375"
-           style="font-size:2.1167px;line-height:1.25;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.26458"
-           xml:space="preserve"><tspan
-             x="143.40408"
-             y="79.375"
-             style="font-size:2.1167px;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.26458"
+           x="177.81796"
+           y="62.709621"
+           style="font-size:2.87971px;line-height:1.25;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.359956"
+           xml:space="preserve"
+           transform="scale(0.80772238,1.2380491)"><tspan
+             x="177.81796"
+             y="62.709621"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.87971px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.359956"
              id="tspan84">Sensors</tspan></text>
       </g>
       <g
-         id="Controllers">
+         id="Controllers"
+         transform="matrix(1.1515814,0,0,0.58497993,3.3999872,28.670551)">
         <rect
            id="ControllersBox"
-           x="156.55"
+           x="156.3804"
            y="72.538002"
-           width="13.234"
+           width="14.571265"
            height="12.113"
-           style="opacity:0.43974;fill:#00b0f0;stroke-width:3.072;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;fill-opacity:1.0" />
+           style="opacity:0.43974;fill:#00b0f0;fill-opacity:1;stroke-width:3.22347;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke" />
         <text
            id="ControllersText"
-           x="157.03012"
-           y="79.242699"
-           style="font-size:2.1167px;line-height:1.25;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.26458"
-           xml:space="preserve"><tspan
-             x="157.03012"
-             y="79.242699"
-             style="font-size:2.1167px;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.26458"
+           x="260.73358"
+           y="48.937485"
+           style="font-size:3.51458px;line-height:1.25;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.43931"
+           xml:space="preserve"
+           transform="scale(0.60226277,1.6604048)"><tspan
+             x="260.73358"
+             y="48.937485"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.51458px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.43931"
              id="tspan89">Controllers</tspan></text>
       </g>
       <g
-         id="Actuators">
+         id="Actuators"
+         transform="matrix(1.16985,0,0,0.58521851,-52.858991,37.575822)">
         <rect
            id="ActuatorsBox"
-           x="171.97"
-           y="72.662003"
+           x="188.13058"
+           y="71.444237"
            width="13.234"
            height="12.113"
            style="opacity:0.43974;fill:#00b0f0;fill-opacity:1;stroke-width:3.072;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke" />
         <text
            id="ActuatorsText"
-           x="173.56659"
-           y="79.374992"
-           style="font-size:2.1167px;line-height:1.25;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.26458"
-           xml:space="preserve"><tspan
-             x="173.56659"
-             y="79.374992"
-             style="font-size:2.1167px;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.26458"
+           x="332.36264"
+           y="45.271923"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.45449px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.431799"
+           xml:space="preserve"
+           transform="scale(0.57030221,1.7534563)"><tspan
+             x="332.36264"
+             y="45.271923"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.45449px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.431799"
              id="tspan94">Actuators</tspan></text>
       </g>
       <g
-         id="Devices">
+         id="Devices"
+         transform="matrix(1.1555161,0,0,0.58648798,-22.1056,37.030335)">
         <rect
            id="DevicesBox"
            transform="scale(1,-1)"
-           x="187.22"
-           y="-84.528"
-           width="13.234"
+           x="177.76323"
+           y="-84.317581"
+           width="14.626772"
            height="12.113"
-           style="opacity:0.43974;fill:#00b0f0;stroke-width:3.072;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;fill-opacity:1.0" />
+           style="opacity:0.43974;fill:#00b0f0;fill-opacity:1;stroke-width:3.22961;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke" />
         <text
            id="DevicesText"
-           x="189.30928"
-           y="79.242706"
-           style="font-size:2.1167px;line-height:1.25;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.26458"
-           xml:space="preserve"><tspan
-             x="189.30928"
-             y="79.242706"
-             style="font-size:2.1167px;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.26458"
+           x="291.84186"
+           y="49.429043"
+           style="font-size:3.42617px;line-height:1.25;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.428259"
+           xml:space="preserve"
+           transform="scale(0.6178044,1.6186353)"><tspan
+             x="291.84186"
+             y="49.429043"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.42617px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.428259"
              id="tspan99">Devices</tspan></text>
       </g>
     </g>
     <g
        id="AnalyticsLifestyle"
-       transform="matrix(0.9999,0,0,0.9999,-1.0227,-58.704)">
+       transform="matrix(1.1584463,0,0,1.1584463,-5.3515502,-70.810651)">
       <rect
          id="AnalyticsLifecycleBox"
          x="10.252"
@@ -438,7 +458,8 @@
          height="33.431"
          style="opacity:0.43974;fill:none;stroke:#000000;stroke-width:0.16222;stroke-linecap:square;stroke-dasharray:0.324445, 0.648891;paint-order:fill markers stroke" />
       <g
-         id="AnalyticsLifecycleText">
+         id="AnalyticsLifecycleText"
+         transform="translate(-1.7238047,0.1752455)">
         <text
            id="AnalyticsLifeText"
            transform="scale(0.90534,1.1046)"
@@ -448,12 +469,8 @@
            xml:space="preserve"><tspan
              x="14.640912"
              y="88.262794"
-             style="font-size:2.8502px;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.26129"
-             id="tspan105">Analytics </tspan><tspan
-             x="14.640912"
-             y="101.32729"
-             style="font-size:2.8502px;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.26129"
-             id="tspan107" /></text>
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.8502px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.26129"
+             id="tspan105">Analytics </tspan></text>
         <text
            transform="scale(0.90534,1.1046)"
            x="14.787036"
@@ -463,41 +480,74 @@
            id="text114"><tspan
              x="14.787036"
              y="91.616325"
-             style="font-size:2.8502px;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.26129"
-             id="tspan110">Lifecycle </tspan><tspan
-             x="14.787036"
-             y="104.68082"
-             style="font-size:2.8502px;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.26129"
-             id="tspan112" /></text>
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.8502px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.26129"
+             id="tspan110">Lifecycle </tspan></text>
       </g>
       <g
          id="Interpret">
         <rect
            id="InterpretBox"
-           x="28.212999"
+           x="26.324127"
            y="96.615997"
-           width="15.764"
+           width="18.114643"
            height="13.703"
-           style="opacity:0.43974;fill:#ffc000;stroke-width:3.5662;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;fill-opacity:1" />
-        <text
+           style="opacity:0.43974;fill:#ffc000;fill-opacity:1;stroke-width:3.82285;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke" />
+        <g
            id="InterpretText"
-           transform="scale(0.93683,1.0674)"
-           x="33.214851"
-           y="94.7939"
-           style="font-size:1.9427px;line-height:1.25;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;word-spacing:0px;fill:#000000;stroke-width:0.24283"
-           xml:space="preserve"><tspan
-             x="33.214851"
-             y="94.7939"
-             style="font-size:1.9427px;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.24283"
-             id="tspan118">Interpret, </tspan><tspan
-             x="33.214851"
-             y="97.222221"
-             style="font-size:1.9427px;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.24283"
-             id="tspan120">Explain and </tspan><tspan
-             x="33.214851"
-             y="99.650551"
-             style="font-size:1.9427px;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.24283"
-             id="tspan122">Storytelling</tspan></text>
+           transform="matrix(0.67758504,0,0,0.73591378,60.619009,12.816887)">
+          <text
+             id="text53659"
+             transform="scale(0.80708269,1.2390304)"
+             x="-48.46233"
+             y="95.598358"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.21203px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;word-spacing:0px;fill:#000000;stroke-width:4.58718"
+             xml:space="preserve"><tspan
+               sodipodi:role="line"
+               id="tspan33816"
+               x="-48.46233"
+               y="95.598358"
+               style="stroke-width:4.58718"><tspan
+                 x="-48.46233"
+                 y="95.598358"
+                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.21203px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:4.58718"
+                 id="tspan118">Interpret,</tspan></tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:4.2034px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.105085"
+             x="-40.031307"
+             y="116.08302"
+             id="text36532"
+             transform="scale(0.94563659,1.0574887)"><tspan
+               sodipodi:role="line"
+               id="tspan36530"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.21203px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.105085"
+               x="-40.031307"
+               y="116.08302">Explain</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.21203px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.105085"
+             x="-34.639408"
+             y="119.72883"
+             id="text45098"
+             transform="scale(0.94563659,1.0574887)"><tspan
+               sodipodi:role="line"
+               id="tspan45096"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.21203px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.105085"
+               x="-34.639408"
+               y="119.72883"> and</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.21203px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.105085"
+             x="-48.062611"
+             y="123.04321"
+             id="text47196"
+             transform="scale(0.94563659,1.0574887)"><tspan
+               sodipodi:role="line"
+               id="tspan47194"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.21203px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.105085"
+               x="-48.062611"
+               y="123.04321">Storytelling</tspan></text>
+        </g>
       </g>
       <g
          id="Operationalize">
@@ -507,17 +557,17 @@
            y="96.615997"
            width="18.004999"
            height="13.833"
-           style="opacity:0.43974;fill:#ffc000;stroke-width:3.8294;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;fill-opacity:1.0" />
+           style="opacity:0.43974;fill:#ffc000;fill-opacity:1;stroke-width:3.8294;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke" />
         <text
            id="OperationalizeText"
-           transform="scale(0.97769,1.0228)"
-           x="48.047829"
-           y="100.99026"
-           style="font-size:2.0694px;line-height:1.25;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.25868"
+           transform="scale(0.76572651,1.3059493)"
+           x="59.554672"
+           y="76.784729"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.51859px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.237255"
            xml:space="preserve"><tspan
-             x="48.047829"
-             y="100.99026"
-             style="font-size:2.0694px;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.25868"
+             x="59.554672"
+             y="76.784729"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.51859px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.237255"
              id="tspan127">Operationalize</tspan></text>
       </g>
       <g
@@ -528,20 +578,21 @@
            y="112.05"
            width="16.160999"
            height="12.375"
-           style="opacity:0.43974;fill:#ffc000;stroke-width:3.4314;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;fill-opacity:1" />
+           style="opacity:0.43974;fill:#ffc000;fill-opacity:1;stroke-width:3.4314;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke" />
         <text
            id="FrameProblemText"
-           x="13.62604"
-           y="117.60728"
-           style="font-size:2.1167px;line-height:1.25;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.26458"
-           xml:space="preserve"><tspan
-             x="13.62604"
-             y="117.60728"
-             style="font-size:2.1167px;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.26458"
-             id="tspan132">Frame the </tspan><tspan
-             x="13.62604"
-             y="120.25311"
-             style="font-size:2.1167px;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.26458"
+           x="14.587281"
+           y="108.64629"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.36111px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.247697"
+           xml:space="preserve"
+           transform="scale(0.93619013,1.0681591)"><tspan
+             x="14.587281"
+             y="108.64629"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.36110997px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.247697"
+             id="tspan132">Frame The </tspan><tspan
+             x="14.587281"
+             y="111.12329"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.36110997px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.247697"
              id="tspan134">Problem</tspan></text>
       </g>
       <g
@@ -553,16 +604,17 @@
            y="112.05"
            width="34.199001"
            height="5.6657"
-           style="opacity:0.43974;fill:#ffc000;stroke-width:1.0001;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;fill-opacity:1.0" />
+           style="opacity:0.43974;fill:#ffc000;fill-opacity:1;stroke-width:1.0001;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke" />
         <text
            id="DevelopModelText"
-           x="33.732563"
-           y="115.34747"
-           style="font-size:2.1167px;line-height:1.25;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:1.0001"
-           xml:space="preserve"><tspan
-             x="33.732563"
-             y="115.34747"
-             style="font-size:2.1167px;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1.0001"
+           x="33.097481"
+           y="105.84927"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.36548px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:1.07623"
+           xml:space="preserve"
+           transform="scale(0.91545633,1.0923514)"><tspan
+             x="33.097481"
+             y="105.84927"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.36548px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1.07623"
              id="tspan139">Develop Analytics Model</tspan></text>
       </g>
       <g
@@ -573,282 +625,337 @@
            y="118.24"
            width="34.123001"
            height="6.1949"
-           style="opacity:0.43974;fill:#ffc000;stroke-width:3.5278;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;fill-opacity:1.0" />
+           style="opacity:0.43974;fill:#ffc000;fill-opacity:1;stroke-width:3.5278;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke" />
         <text
            id="UnderstandDataText"
-           x="38.127323"
-           y="120.66447"
-           style="font-size:2.1167px;line-height:1.25;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.26458"
-           xml:space="preserve"><tspan
-             x="38.127323"
-             y="120.66447"
-             style="font-size:2.1167px;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.26458"
-             id="tspan144">Understand and </tspan><tspan
-             x="38.127323"
-             y="123.3103"
-             style="font-size:2.1167px;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.26458"
-             id="tspan146">Explore Data</tspan></text>
+           x="37.936066"
+           y="96.027191"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.38405px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.338255"
+           xml:space="preserve"
+           transform="scale(0.78607657,1.2721407)"><tspan
+             x="37.936066"
+             y="96.027191"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.38405px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.338255"
+             id="tspan144">Understand and Explore Data</tspan></text>
       </g>
     </g>
     <g
        id="InferenceActivator"
-       transform="matrix(0.9999,0,0,0.9999,-1.0227,-58.704)">
+       transform="matrix(1.0386967,0,0,1.2388108,9.1402393,-80.993474)">
       <rect
          id="InferenceActBox"
-         x="70.642998"
+         x="62.366905"
          y="90.103996"
-         width="88.364998"
+         width="96.64109"
          height="23.715"
-         style="opacity:0.43974;fill:none;stroke:#000000;stroke-width:0.16;stroke-linecap:square;stroke-dasharray:0.32, 0.64;paint-order:fill markers stroke" />
+         style="opacity:0.43974;fill:none;stroke:#000000;stroke-width:0.167325;stroke-linecap:square;stroke-dasharray:0.33465, 0.6693;paint-order:fill markers stroke" />
       <text
          id="InferenceActText"
-         transform="scale(0.96764,1.0334)"
-         x="74.51162"
-         y="91.391975"
-         style="font-size:11.171px;line-height:1.25;font-family:sans-serif;fill:#000000;stroke-width:0.27927"
+         transform="scale(0.96765975,1.0334211)"
+         x="65.805634"
+         y="91.390106"
+         style="font-size:11.1708px;line-height:1.25;font-family:sans-serif;fill:#000000;stroke-width:0.279264"
          xml:space="preserve"><tspan
-           x="74.51162"
-           y="91.391975"
-           style="font-size:3.0463px;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.27927"
+           x="65.805634"
+           y="91.390106"
+           style="font-size:3.04624px;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.279264"
            id="tspan152">Inference Activator</tspan></text>
       <g
-         id="AutoTesting">
+         id="AutoTesting"
+         transform="translate(-7.9796737)">
         <rect
            id="AutoTestingBox"
            x="72.737"
            y="96"
            width="18.365999"
            height="7.3115001"
-           style="opacity:0.43974;fill:#00b050;stroke-width:2.8117;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;fill-opacity:1" />
-        <text
-           id="AutoTestingText"
-           transform="scale(0.98412,1.0161)"
-           x="76.877251"
-           y="97.596329"
-           style="font-size:1.9715px;line-height:1.25;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.24644"
-           xml:space="preserve"><tspan
-             x="76.877251"
-             y="97.596329"
-             style="font-size:1.9715px;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.24644"
-             id="tspan156">Auto-Testing</tspan><tspan
-             x="76.877251"
-             y="100.06068"
-             style="font-size:1.9715px;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.24644"
-             id="tspan158">and Assurance</tspan></text>
+           style="opacity:0.43974;fill:#00b050;fill-opacity:1;stroke-width:2.8117;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke" />
+        <g
+           id="AutoTestingText">
+          <text
+             id="text82973"
+             transform="scale(0.98413757,1.0161181)"
+             x="75.296173"
+             y="97.773529"
+             style="font-size:2.21594px;line-height:1.25;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.276996"
+             xml:space="preserve"><tspan
+               x="75.296173"
+               y="97.773529"
+               style="font-size:2.21594px;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.276996"
+               id="tspan156"><tspan
+                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.21594px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff"
+                 id="tspan72270">Auto-Testing</tspan></tspan></text>
+          <text
+             id="AutoTestingText-8"
+             transform="scale(0.88363554,1.1316883)"
+             x="84.013474"
+             y="90.092606"
+             style="font-size:2.17652px;line-height:1.25;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.272068"
+             xml:space="preserve"><tspan
+               x="84.013474"
+               y="90.092606"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.17652px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.272068"
+               id="tspan156-3">and Assurance</tspan></text>
+        </g>
       </g>
       <g
-         id="FeatureDeploy">
+         id="FeatureDeploy"
+         transform="matrix(0.78112517,0,0,1,12.263894,0)">
         <rect
            id="FeatureDeployBox"
-           x="92.045998"
+           x="92.489311"
            y="95.887001"
            width="18.365999"
            height="7.3115001"
-           style="opacity:0.43974;fill:#00b050;stroke-width:2.8117;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;fill-opacity:1.0" />
-        <text
-           id="FeatureDeployText"
-           transform="scale(1.0162,0.98401)"
-           x="95.673592"
-           y="100.7652"
-           style="font-size:1.9268px;line-height:1.25;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.24085"
-           xml:space="preserve"><tspan
-             x="95.673592"
-             y="100.7652"
-             style="font-size:1.9268px;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.24085"
-             id="tspan163">Feature </tspan><tspan
-             x="95.673592"
-             y="103.17372"
-             style="font-size:1.9268px;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.24085"
-             id="tspan165">Deploy</tspan></text>
+           style="opacity:0.43974;fill:#00b050;fill-opacity:1;stroke-width:2.8117;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke" />
+        <g
+           id="FeatureDeployText">
+          <text
+             id="FeatureDeployText-8"
+             transform="scale(1.1246627,0.88915548)"
+             x="85.655907"
+             y="114.05212"
+             style="font-size:2.30157px;line-height:1.25;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.287697"
+             xml:space="preserve"><tspan
+               x="85.655907"
+               y="114.05212"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.30157px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.287697"
+               id="tspan163-5">Deploy</tspan></text>
+          <text
+             id="text87287"
+             transform="scale(1.1246627,0.88915548)"
+             x="85.153175"
+             y="111.58835"
+             style="font-size:2.30157px;line-height:1.25;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.287697"
+             xml:space="preserve"><tspan
+               x="85.153175"
+               y="111.58835"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.30157px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.287697"
+               id="tspan163">Feature</tspan></text>
+        </g>
       </g>
       <g
-         id="Choreographer">
+         id="Choreographer"
+         transform="translate(-11.222616)">
         <rect
            id="ChoreoBox"
            x="111.63"
            y="95.887001"
            width="18.365999"
            height="7.3115001"
-           style="opacity:0.43974;fill:#00b050;stroke-width:2.8117;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;fill-opacity:1" />
+           style="opacity:0.43974;fill:#00b050;fill-opacity:1;stroke-width:2.8117;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke" />
         <text
            id="ChoreoText"
-           transform="scale(1.1214,0.89175)"
-           x="100.70207"
-           y="112.34856"
-           style="font-size:1.7462px;line-height:1.25;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.21827"
+           transform="scale(0.84977723,1.176779)"
+           x="132.46255"
+           y="85.54969"
+           style="font-size:2.33206px;line-height:1.25;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.2915"
            xml:space="preserve"><tspan
-             x="100.70207"
-             y="112.34856"
-             style="font-size:1.7462px;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.21827"
+             x="132.46255"
+             y="85.54969"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.33206px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.2915"
              id="tspan170">Choreographer</tspan></text>
       </g>
       <g
-         id="PublicAIServices">
+         id="PublicAIServices"
+         transform="matrix(0.66749125,0,0,1,33.263333,9.0582298)">
         <rect
            id="PublicAIBox"
            x="131.2"
            y="95.887001"
            width="18.365999"
            height="7.3115001"
-           style="opacity:0.43974;fill:#00b050;stroke-width:2.8117;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;fill-opacity:1.0" />
+           style="opacity:0.43974;fill:#00b050;fill-opacity:1;stroke-width:2.8117;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke" />
         <text
            id="PublicAIText"
-           transform="scale(1.1214,0.89175)"
-           x="121.35136"
-           y="111.13031"
-           style="font-size:1.7462px;line-height:1.25;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.21827"
+           transform="scale(1.1523759,0.8677724)"
+           x="115.71068"
+           y="114.26266"
+           style="font-size:2.82134px;line-height:1.25;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.352658"
            xml:space="preserve"><tspan
-             x="121.35136"
-             y="111.13031"
-             style="font-size:1.7462px;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.21827"
+             x="115.71068"
+             y="114.26266"
+             style="font-size:2.82134px;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.352658"
              id="tspan175">Public AI</tspan><tspan
-             x="121.35136"
-             y="113.31302"
-             style="font-size:1.7462px;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.21827"
+             x="115.71068"
+             y="117.78926"
+             style="font-size:2.82134px;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.352658"
              id="tspan177">Services</tspan></text>
       </g>
       <g
-         id="ContainerMgmt">
+         id="ContainerMgmt"
+         transform="matrix(1.2185854,0,0,1,-23.878935,0)">
         <rect
            id="ContainerMgmtBox"
            x="72.737"
            y="104.37"
            width="15.192"
            height="7.5061002"
-           style="opacity:0.43974;fill:#00b050;stroke-width:2.5911;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;fill-opacity:1" />
-        <text
-           id="ContainerMgmtText"
-           transform="scale(0.95768,1.0442)"
-           x="77.290848"
-           y="103.07085"
-           style="font-size:1.8424px;line-height:1.25;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.23031"
-           xml:space="preserve"><tspan
-             x="77.290848"
-             y="103.07085"
-             style="font-size:1.8424px;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.23031"
-             id="tspan182">Container </tspan><tspan
-             x="77.290848"
-             y="105.37391"
-             style="font-size:1.8424px;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.23031"
-             id="tspan184">Management</tspan></text>
+           style="opacity:0.43974;fill:#00b050;fill-opacity:1;stroke-width:2.5911;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke" />
+        <g
+           id="ContainerMgmtText">
+          <text
+             id="text101471"
+             transform="scale(0.9626228,1.0388285)"
+             x="77.829636"
+             y="103.71011"
+             style="font-size:1.99555px;line-height:1.25;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.249454"
+             xml:space="preserve"><tspan
+               x="77.829636"
+               y="103.71011"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.99555px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.249454"
+               id="tspan182">Container</tspan></text>
+          <text
+             id="ContainerMgmtText-9"
+             transform="scale(0.9626228,1.0388285)"
+             x="76.219627"
+             y="106.0626"
+             style="font-size:1.99555px;line-height:1.25;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.249454"
+             xml:space="preserve"><tspan
+               x="76.219627"
+               y="106.0626"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.99555px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.249454"
+               id="tspan182-1">Management</tspan></text>
+        </g>
       </g>
       <g
-         id="ModelDeploy">
+         id="ModelDeploy"
+         transform="matrix(1.1584554,0,0,1,-17.919842,0.07550658)">
         <rect
            id="ModelDeployBox"
            x="88.418999"
            y="104.37"
            width="12.133"
            height="7.5061002"
-           style="opacity:0.43974;fill:#00b050;stroke-width:2.3155;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;fill-opacity:1.0" />
-        <text
-           id="ModelDeployText"
-           transform="scale(1.1214,0.89175)"
-           x="81.040916"
-           y="120.42466"
-           style="font-size:1.7462px;line-height:1.25;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.21827"
-           xml:space="preserve"><tspan
-             x="81.040916"
-             y="120.42466"
-             style="font-size:1.7462px;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.21827"
-             id="tspan189">Model </tspan><tspan
-             x="81.040916"
-             y="122.60738"
-             style="font-size:1.7462px;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.21827"
-             id="tspan191">Deploy</tspan></text>
+           style="opacity:0.43974;fill:#00b050;fill-opacity:1;stroke-width:2.3155;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke" />
+        <g
+           id="ModelDeployText">
+          <text
+             id="text101463"
+             transform="scale(1.0100707,0.99002971)"
+             x="89.766235"
+             y="108.46466"
+             style="font-size:2.1182px;line-height:1.25;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.264771"
+             xml:space="preserve"><tspan
+               x="89.766235"
+               y="108.46466"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.1182px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.264771"
+               id="tspan189">Model</tspan></text>
+          <text
+             id="ModelDeployText-2"
+             transform="scale(1.0100707,0.99002971)"
+             x="89.609085"
+             y="111.05766"
+             style="font-size:2.1182px;line-height:1.25;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.264771"
+             xml:space="preserve"><tspan
+               x="89.609085"
+               y="111.05766"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.1182px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.264771"
+               id="tspan189-8">Deploy</tspan></text>
+        </g>
       </g>
       <g
-         id="FallSafe">
+         id="FallSafe"
+         transform="matrix(1.6664935,0,0,1,-68.265736,0.17281188)">
         <rect
            id="FallSafeBox"
            x="101.04"
            y="104.37"
            width="11.276"
            height="7.4088001"
-           style="opacity:0.43974;fill:#00b050;stroke-width:2.2178;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;fill-opacity:1" />
+           style="opacity:0.43974;fill:#00b050;fill-opacity:1;stroke-width:2.2178;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke" />
         <text
            id="FallSafeText"
-           transform="scale(0.93585,1.0685)"
-           x="109.93301"
-           y="101.54372"
-           style="font-size:1.9877px;line-height:1.25;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.24846"
+           transform="scale(0.68367991,1.4626728)"
+           x="150.93782"
+           y="74.618362"
+           style="font-size:2.02676px;line-height:1.25;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.253343"
            xml:space="preserve"><tspan
-             x="109.93301"
-             y="101.54372"
-             style="font-size:1.9877px;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.24846"
-             id="tspan196">Fall-safe</tspan></text>
+             x="150.93782"
+             y="74.618362"
+             style="font-size:2.02676px;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.253343"
+             id="tspan196">Fail-safe</tspan></text>
       </g>
       <g
-         id="DeployedModels">
+         id="DeployedModels"
+         transform="translate(21.12727,0.4806312)">
         <rect
            id="DeployedModelsBox"
            x="113.3"
            y="104.27"
            width="12.133"
            height="7.5061002"
-           style="opacity:0.43974;fill:#00b050;stroke-width:2.3155;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;fill-opacity:1.0" />
+           style="opacity:0.43974;fill:#00b050;fill-opacity:1;stroke-width:2.3155;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke" />
         <text
            id="DeployedModelText"
-           transform="scale(1.1214,0.89175)"
-           x="102.10413"
-           y="120.53374"
-           style="font-size:1.7462px;line-height:1.25;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.21827"
+           transform="scale(0.94245326,1.0610606)"
+           x="121.72618"
+           y="101.37234"
+           style="font-size:2.07775px;line-height:1.25;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.259713"
            xml:space="preserve"><tspan
-             x="102.10413"
-             y="120.53374"
-             style="font-size:1.7462px;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.21827"
+             x="121.72618"
+             y="101.37234"
+             style="font-size:2.07775px;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.259713"
              id="tspan201">Deployed</tspan><tspan
-             x="102.10413"
-             y="122.71645"
-             style="font-size:1.7462px;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.21827"
+             x="121.72618"
+             y="103.9695"
+             style="font-size:2.07775px;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.259713"
              id="tspan203">AI Models</tspan></text>
       </g>
       <g
-         id="APIGateway">
+         id="APIGateway"
+         transform="matrix(2.319418,0,0,1,-171.76458,-8.3829956)">
         <rect
            id="APIGatewayBox"
            x="125.92"
            y="104.27"
            width="16.094"
            height="7.4088001"
-           style="opacity:0.43974;fill:#00b050;stroke-width:2.6496;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;fill-opacity:1" />
+           style="opacity:0.43974;fill:#00b050;fill-opacity:1;stroke-width:2.6496;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke" />
         <text
            id="APIGatewayText"
-           transform="scale(1.1214,0.89175)"
-           x="114.10911"
-           y="121.51595"
-           style="font-size:1.7462px;line-height:1.25;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.21827"
+           transform="scale(0.65993367,1.5153038)"
+           x="197.69398"
+           y="71.719543"
+           style="font-size:1.67906px;line-height:1.25;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.209879"
            xml:space="preserve"><tspan
-             x="114.10911"
-             y="121.51595"
-             style="font-size:1.7462px;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.21827"
+             x="197.69398"
+             y="71.719543"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.67906px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.209879"
              id="tspan208">API Gateway</tspan></text>
       </g>
       <g
-         id="RPABots">
+         id="RPABots"
+         transform="matrix(0.78567513,0,0,1,21.912389,16.697306)">
         <rect
            id="RPABotsBox"
-           x="142.53999"
-           y="104.27"
-           width="15.494"
+           x="160.03221"
+           y="88.053322"
+           width="12.701776"
            height="7.3926001"
-           style="opacity:0.43974;fill:#00b050;stroke-width:2.5968;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;fill-opacity:1.0" />
+           style="opacity:0.43974;fill:#00b050;fill-opacity:1;stroke-width:2.3512;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke" />
         <text
            id="RPABotsText"
-           transform="scale(1.0174,0.98285)"
-           x="142.60454"
-           y="110.45187"
-           style="font-size:2.0903px;line-height:1.25;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.26128"
+           transform="scale(1.2485124,0.8009532)"
+           x="130.59856"
+           y="114.17854"
+           style="font-size:2.60832px;line-height:1.25;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.326032"
            xml:space="preserve"><tspan
-             x="142.60454"
-             y="110.45187"
-             style="font-size:2.0903px;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.26128"
-             id="tspan213">RPA Bots</tspan></text>
+             sodipodi:role="line"
+             x="130.59856"
+             y="114.17854"
+             id="tspan1630"
+             style="stroke-width:0.326032">RPA </tspan><tspan
+             sodipodi:role="line"
+             x="130.59856"
+             y="117.43894"
+             style="stroke-width:0.326032"
+             id="tspan6577">Bots</tspan></text>
       </g>
     </g>
     <g
        id="PerformanceManager"
-       transform="matrix(0.9999,0,0,0.9999,-1.0227,-58.704)">
+       transform="matrix(0.8792336,0,0,1.2227967,36.443556,-78.253469)">
       <rect
          id="PerfManagerBox"
          x="159.99001"
@@ -897,7 +1004,7 @@
     </g>
     <g
        id="DataPreparation"
-       transform="matrix(0.9999,0,0,0.9999,-1.0227,-58.704)">
+       transform="matrix(1.1450755,0,0,1.0151544,-4.4818701,-51.8102)">
       <g
          id="DataPreparationBox">
         <rect
@@ -927,7 +1034,7 @@
            y="134.14"
            width="13.412"
            height="8.3765001"
-           style="opacity:0.43974;fill:#3276ff;fill-opacity:0.99794662;stroke-width:2.5719;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke" />
+           style="opacity:0.43974;fill:#3276ff;fill-opacity:0.997947;stroke-width:2.5719;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke" />
         <text
            id="CollectText"
            x="35.028801"
@@ -947,7 +1054,7 @@
            y="134.14"
            width="13.412"
            height="8.3765001"
-           style="opacity:0.43974;fill:#3276ff;fill-opacity:1.0;stroke-width:2.5719;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke" />
+           style="opacity:0.43974;fill:#3276ff;fill-opacity:1;stroke-width:2.5719;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke" />
         <text
            id="IngestText"
            x="50.374649"
@@ -987,7 +1094,7 @@
            y="143.5"
            width="13.412"
            height="8.3765001"
-           style="opacity:0.43974;fill:#3276ff;fill-opacity:1.0;stroke-width:2.5719;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke" />
+           style="opacity:0.43974;fill:#3276ff;fill-opacity:1;stroke-width:2.5719;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke" />
         <text
            id="PersistText"
            x="35.028801"
@@ -1021,7 +1128,8 @@
       </g>
     </g>
     <g
-       id="ModelMaker">
+       id="ModelMaker"
+       transform="matrix(1.0627625,0,0,0.89172732,-0.28647221,11.040849)">
       <rect
          id="ModelMakerBox"
          x="69.822998"
@@ -1049,16 +1157,17 @@
            y="119.85"
            width="13.985"
            height="13.204"
-           style="opacity:0.43974;fill:#0070c0;fill-opacity:0.98151952;stroke-width:3.2973;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke" />
+           style="opacity:0.43974;fill:#0070c0;fill-opacity:0.98152;stroke-width:3.2973;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke" />
         <text
            id="DataVizText"
-           x="73.951042"
-           y="127.13248"
-           style="font-size:2.1167px;line-height:1.25;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.26458"
-           xml:space="preserve"><tspan
-             x="73.951042"
-             y="127.13248"
-             style="font-size:2.1167px;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.26458"
+           x="110.94853"
+           y="86.071587"
+           style="font-size:3.23893px;line-height:1.25;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.404855"
+           xml:space="preserve"
+           transform="scale(0.66649764,1.5003804)"><tspan
+             x="110.94853"
+             y="86.071587"
+             style="font-size:3.23893px;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.404855"
              id="tspan272">Data Viz</tspan></text>
       </g>
       <g
@@ -1095,7 +1204,7 @@
            y="119.85"
            width="12.398"
            height="13.204"
-           style="opacity:0.43974;fill:#0070c0;fill-opacity:1.0;stroke-width:3.1045;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke" />
+           style="opacity:0.43974;fill:#0070c0;fill-opacity:1;stroke-width:3.1045;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke" />
         <text
            id="FeatureGeneratorText"
            x="102.2615"
@@ -1145,7 +1254,7 @@
            y="119.85"
            width="15.969"
            height="13.204"
-           style="opacity:0.43974;fill:#0070c0;fill-opacity:1.0;stroke-width:3.5234;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke" />
+           style="opacity:0.43974;fill:#0070c0;fill-opacity:1;stroke-width:3.5234;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke" />
         <text
            id="AlgoFrameworksText"
            x="131.10103"
@@ -1199,7 +1308,7 @@
            y="136.72"
            width="12.369"
            height="13.143"
-           style="opacity:0.43974;fill:#0070c0;fill-opacity:1.0;stroke-width:3.0937;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke" />
+           style="opacity:0.43974;fill:#0070c0;fill-opacity:1;stroke-width:3.0937;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke" />
         <text
            id="SignalExplorerText"
            x="89.164597"
@@ -1274,7 +1383,7 @@
            y="136.75999"
            width="15.778"
            height="12.934"
-           style="opacity:0.43974;fill:#0070c0;fill-opacity:1.0;stroke-width:3.4662;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke" />
+           style="opacity:0.43974;fill:#0070c0;fill-opacity:1;stroke-width:3.4662;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke" />
         <text
            id="BiasRegularizerText"
            x="130.57187"
@@ -1320,7 +1429,7 @@
            y="127.74"
            width="18.924999"
            height="5.1128998"
-           style="opacity:0.43974;fill:#0070c0;fill-opacity:0.99794662;stroke-width:2.3868;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke" />
+           style="opacity:0.43974;fill:#0070c0;fill-opacity:0.997947;stroke-width:2.3868;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke" />
         <text
            id="BoundaryText"
            x="150.67993"
@@ -1341,7 +1450,7 @@
            y="136.62"
            width="18.924999"
            height="5.1128998"
-           style="opacity:0.43974;fill:#0070c0;fill-opacity:1.0;stroke-width:2.3868;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke" />
+           style="opacity:0.43974;fill:#0070c0;fill-opacity:1;stroke-width:2.3868;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke" />
         <text
            id="SensitivityText"
            x="151.20909"
@@ -1362,7 +1471,7 @@
            y="144.05"
            width="18.924999"
            height="5.1128998"
-           style="opacity:0.43974;fill:#0070c0;fill-opacity:0.99589324;stroke-width:2.3868;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke" />
+           style="opacity:0.43974;fill:#0070c0;fill-opacity:0.995893;stroke-width:2.3868;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke" />
         <text
            id="InterpreterText"
            x="150.81226"
@@ -1410,7 +1519,7 @@
            y="131.25999"
            width="30.037001"
            height="7.4941001"
-           style="opacity:0.43974;fill:#0070c0;fill-opacity:0.99794662;stroke-width:3.6404;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke" />
+           style="opacity:0.43974;fill:#0070c0;fill-opacity:0.997947;stroke-width:3.6404;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke" />
         <text
            id="ModelPipelineText"
            x="173.99911"
@@ -1498,7 +1607,8 @@
       </g>
     </g>
     <g
-       id="DataSources">
+       id="DataSources"
+       transform="matrix(1.5597616,0,0,0.82054205,-2.4077793,27.612042)">
       <rect
          id="DataSourcesBox"
          x="4.9726"
@@ -1508,39 +1618,40 @@
          style="opacity:0.43974;fill:none;stroke:#000000;stroke-width:0.16316;stroke-linecap:square;stroke-dasharray:0.326319, 0.652637;paint-order:fill markers stroke" />
       <text
          id="DataSourcesText"
-         transform="scale(0.90534,1.1046)"
-         x="8.1437883"
-         y="94.015915"
-         style="font-size:10.658px;line-height:1.25;font-family:sans-serif;fill:#000000;stroke-width:0.26645"
+         transform="scale(0.65808978,1.5195495)"
+         x="11.303432"
+         y="68.980835"
+         style="font-size:10.9092px;line-height:1.25;font-family:sans-serif;fill:#000000;stroke-width:0.27273"
          xml:space="preserve"><tspan
-           x="8.1437883"
-           y="94.015915"
-           style="font-size:2.9065px;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.26645"
+           x="11.303432"
+           y="68.980835"
+           style="font-size:2.97501px;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.27273"
            id="tspan401">Data Sources</tspan></text>
       <g
          id="Internal"
-         transform="matrix(1.0197,0,0,1.0197,-5.6042,-61.268)">
+         transform="matrix(0.79088403,0,0,1.4081265,-0.44954912,-130.65411)">
         <rect
            id="InternalBox"
            x="12.851"
            y="168.94"
            width="16.370001"
            height="12.181"
-           style="opacity:0.43974;fill:#c55a11;stroke-width:3.4264;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;fill-opacity:1.0" />
+           style="opacity:0.43974;fill:#c55a11;fill-opacity:1;stroke-width:3.4264;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke" />
         <text
            id="InternalText"
-           x="16.65246"
-           y="175.82307"
-           style="font-size:2.1167px;line-height:1.25;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.26458"
-           xml:space="preserve"><tspan
-             x="16.65246"
-             y="175.82307"
-             style="font-size:2.1167px;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.26458"
+           x="19.902884"
+           y="147.68523"
+           style="font-size:2.52986px;line-height:1.25;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.316224;-inkscape-font-specification:'sans-serif, Bold';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+           xml:space="preserve"
+           transform="scale(0.83668581,1.1951918)"><tspan
+             x="19.902884"
+             y="147.68523"
+             style="font-size:2.52985997px;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.316224;-inkscape-font-specification:'sans-serif, Bold';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
              id="tspan405">Internal</tspan></text>
       </g>
       <g
          id="External"
-         transform="matrix(1.0197,0,0,1.0197,-5.6042,-61.268)"
+         transform="matrix(0.95571077,0,0,1.3649931,-4.5707396,-123.00849)"
          style="fill:#000080">
         <rect
            id="ExternalBox"
@@ -1548,16 +1659,17 @@
            y="168.81"
            width="16.370001"
            height="12.181"
-           style="opacity:0.43974;fill:#c55a11;stroke-width:3.4264;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;fill-opacity:1" />
+           style="opacity:0.43974;fill:#c55a11;fill-opacity:1;stroke-width:3.4264;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke" />
         <text
            id="ExternalText"
-           x="36.235245"
-           y="175.56392"
-           style="font-size:2.1167px;line-height:1.25;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.26458"
-           xml:space="preserve"><tspan
-             x="36.235245"
-             y="175.56392"
-             style="font-size:2.1167px;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.26458"
+           x="42.619999"
+           y="149.66466"
+           style="font-size:2.33747px;line-height:1.25;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.274842;-inkscape-font-specification:'sans-serif, Bold';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+           xml:space="preserve"
+           transform="scale(0.85075726,1.1754234)"><tspan
+             x="42.619999"
+             y="149.66466"
+             style="font-size:2.33746575px;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.274842;-inkscape-font-specification:'sans-serif, Bold';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
              id="tspan410">External</tspan></text>
       </g>
       <g
@@ -1615,7 +1727,8 @@
       </g>
     </g>
     <g
-       id="DataMinder">
+       id="DataMinder"
+       transform="matrix(0.94630656,0,0,1.1202671,25.399181,-12.579818)">
       <rect
          id="DataMinderBox"
          x="51.271999"
@@ -1672,7 +1785,7 @@
            y="163.72"
            width="14.188"
            height="9.0567999"
-           style="opacity:0.43974;fill:#7030a0;stroke-width:2.7505;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;fill-opacity:1" />
+           style="opacity:0.43974;fill:#7030a0;fill-opacity:1;stroke-width:2.7505;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke" />
         <text
            id="BatchPipelineText"
            x="77.390625"
@@ -1723,14 +1836,14 @@
          transform="matrix(1.0197,0,0,1.0197,-5.6042,-61.268)">
         <g
            id="CuratedDataBox"
-           style="fill:#7030a0;fill-opacity:0.43921569">
+           style="fill:#7030a0;fill-opacity:0.439216">
           <path
              d="m 107.44,164.71 a 5.1712,1.0694 0 0 0 -5.1342,1.0744 5.1712,1.0694 0 0 0 0.0174,0.0803 h -0.045 v 5.5076 h 0.13955 a 5.1354,1.062 0 0 0 -0.002,0.015 5.1354,1.062 0 0 0 5.1475,1.0573 5.1354,1.062 0 0 0 5.1228,-1.0621 v -5.5186 h -0.0559 a 5.1712,1.0694 0 0 0 0.018,-0.0846 v -0.0105 a 5.1712,1.0694 0 0 0 -5.2082,-1.0594 z"
-             style="fill:#7030a0;fill-opacity:0.43921569;stroke:#0a040d;stroke-width:0.05492;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:0.69231;paint-order:markers stroke fill"
+             style="fill:#7030a0;fill-opacity:0.439216;stroke:#0a040d;stroke-width:0.05492;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:0.69231;paint-order:markers stroke fill"
              id="path459" />
           <path
              d="m 112.63,165.87 a 5.1434,1.0694 0 0 1 -5.1311,1.0694 5.1434,1.0694 0 0 1 -5.1556,-1.0643 5.1434,1.0694 0 0 1 5.1066,-1.0745 5.1434,1.0694 0 0 1 5.1799,1.0592"
-             style="fill:#7030a0;fill-opacity:0.43921569;stroke:#0a040d;stroke-width:0.016976;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:0.69231;paint-order:markers stroke fill"
+             style="fill:#7030a0;fill-opacity:0.439216;stroke:#0a040d;stroke-width:0.016976;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:0.69231;paint-order:markers stroke fill"
              id="path461" />
         </g>
         <text
@@ -1754,14 +1867,14 @@
          transform="matrix(1.0197,0,0,1.0197,-5.6042,-61.268)">
         <g
            id="DataLabsBox"
-           style="fill:#7030a0;fill-opacity:0.43921569">
+           style="fill:#7030a0;fill-opacity:0.439216">
           <path
              d="m 118.76,164.76 a 5.0821,1.0567 0 0 0 -5.0457,1.0616 5.0821,1.0567 0 0 0 0.0171,0.0794 h -0.0444 v 5.442 h 0.13715 a 5.0469,1.0494 0 0 0 -0.002,0.0148 5.0469,1.0494 0 0 0 5.0588,1.0447 5.0469,1.0494 0 0 0 5.0345,-1.0494 v -5.4529 h -0.055 a 5.0821,1.0567 0 0 0 0.0177,-0.0836 v -0.0104 a 5.0821,1.0567 0 0 0 -5.1184,-1.0468 z"
-             style="fill:#7030a0;fill-opacity:0.43921569;stroke:#0a040d;stroke-width:0.05412;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:0.69231;paint-order:markers stroke fill"
+             style="fill:#7030a0;fill-opacity:0.439216;stroke:#0a040d;stroke-width:0.05412;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:0.69231;paint-order:markers stroke fill"
              id="path470" />
           <path
              d="m 123.92,165.91 a 5.0821,1.0567 0 0 1 -5.07,1.0567 5.0821,1.0567 0 0 1 -5.0942,-1.0516 5.0821,1.0567 0 0 1 5.0457,-1.0617 5.0821,1.0567 0 0 1 5.1182,1.0466"
-             style="fill:#7030a0;fill-opacity:0.43921569;stroke:#0a040d;stroke-width:0.016976;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:0.69231;paint-order:markers stroke fill"
+             style="fill:#7030a0;fill-opacity:0.439216;stroke:#0a040d;stroke-width:0.016976;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:0.69231;paint-order:markers stroke fill"
              id="path472" />
         </g>
         <text
@@ -1788,7 +1901,7 @@
            y="162.75999"
            width="20.186001"
            height="3.7706001"
-           style="opacity:0.43974;fill:#7030a0;stroke-width:2.1168;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;fill-opacity:1.0" />
+           style="opacity:0.43974;fill:#7030a0;fill-opacity:1;stroke-width:2.1168;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke" />
         <text
            id="DataGovernanceText"
            x="125.80937"
@@ -1809,7 +1922,7 @@
            y="168.5"
            width="20.186001"
            height="3.7706001"
-           style="opacity:0.43974;fill:#7030a0;stroke-width:2.1168;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;fill-opacity:1" />
+           style="opacity:0.43974;fill:#7030a0;fill-opacity:1;stroke-width:2.1168;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke" />
         <text
            id="DataQualityText"
            x="127.92606"
@@ -1830,7 +1943,7 @@
            y="162.64"
            width="23.34"
            height="3.7706001"
-           style="opacity:0.43974;fill:#7030a0;stroke-width:2.2762;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;fill-opacity:1.0" />
+           style="opacity:0.43974;fill:#7030a0;fill-opacity:1;stroke-width:2.2762;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke" />
         <text
            id="DataMarketplaceText"
            x="147.90178"
@@ -1851,7 +1964,7 @@
            y="168.5"
            width="23.34"
            height="3.7706001"
-           style="opacity:0.43974;fill:#7030a0;stroke-width:2.2762;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;fill-opacity:1" />
+           style="opacity:0.43974;fill:#7030a0;fill-opacity:1;stroke-width:2.2762;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke" />
         <text
            id="LabelerText"
            x="146.32877"
@@ -1869,14 +1982,14 @@
         <g
            id="FeaturesEmbedBox"
            transform="translate(80.391,-0.21435)"
-           style="fill:#7030a0;fill-opacity:0.43531826">
+           style="fill:#7030a0;fill-opacity:0.435318">
           <path
              d="m 95.637,164.5 a 4.9296,1.0823 0 0 0 -4.8944,1.0873 4.9296,1.0823 0 0 0 0.01663,0.0813 h -0.04301 v 5.5738 h 0.13304 a 4.8955,1.0748 0 0 0 -0.0017,0.0152 4.8955,1.0748 0 0 0 4.907,1.07 4.8955,1.0748 0 0 0 4.8835,-1.0749 v -5.585 h -0.0533 a 4.9296,1.0823 0 0 0 0.0172,-0.0856 v -0.0106 a 4.9296,1.0823 0 0 0 -4.9649,-1.0722 z"
-             style="fill:#7030a0;fill-opacity:0.43531826;stroke:#0a040d;stroke-width:0.053944;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:0.69231;paint-order:markers stroke fill"
+             style="fill:#7030a0;fill-opacity:0.435318;stroke:#0a040d;stroke-width:0.053944;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:0.69231;paint-order:markers stroke fill"
              id="path501" />
           <path
              d="m 100.59,165.35 a 4.9207,0.71074 0 0 1 -4.909,0.71074 4.9207,0.71074 0 0 1 -4.9324,-0.70735 4.9207,0.71074 0 0 1 4.8855,-0.71411 4.9207,0.71074 0 0 1 4.9556,0.70395"
-             style="fill:#7030a0;fill-opacity:0.43531826;stroke:#0a040d;stroke-width:0.016976;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:0.69231;paint-order:markers stroke fill"
+             style="fill:#7030a0;fill-opacity:0.435318;stroke:#0a040d;stroke-width:0.016976;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:0.69231;paint-order:markers stroke fill"
              id="path503" />
         </g>
         <text
@@ -1901,14 +2014,14 @@
         <g
            id="InsightsBox"
            transform="translate(91.88,0.062443)"
-           style="fill:#7030a0;fill-opacity:0.43921569">
+           style="fill:#7030a0;fill-opacity:0.439216">
           <path
              d="m 95.637,164.5 a 4.9296,1.0823 0 0 0 -4.8944,1.0873 4.9296,1.0823 0 0 0 0.01663,0.0813 h -0.04301 v 5.5738 h 0.13304 a 4.8955,1.0748 0 0 0 -0.0017,0.0152 4.8955,1.0748 0 0 0 4.907,1.07 4.8955,1.0748 0 0 0 4.8835,-1.0749 v -5.585 h -0.0533 a 4.9296,1.0823 0 0 0 0.0172,-0.0856 v -0.0106 a 4.9296,1.0823 0 0 0 -4.9649,-1.0722 z"
-             style="fill:#7030a0;fill-opacity:0.43921569;stroke:#0a040d;stroke-width:0.053944;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:0.69231;paint-order:markers stroke fill"
+             style="fill:#7030a0;fill-opacity:0.439216;stroke:#0a040d;stroke-width:0.053944;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:0.69231;paint-order:markers stroke fill"
              id="path512" />
           <path
              d="m 100.59,165.35 a 4.9207,0.71074 0 0 1 -4.909,0.71074 4.9207,0.71074 0 0 1 -4.9324,-0.70735 4.9207,0.71074 0 0 1 4.8855,-0.71411 4.9207,0.71074 0 0 1 4.9556,0.70395"
-             style="fill:#7030a0;fill-opacity:0.43921569;stroke:#0a040d;stroke-width:0.016976;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:0.69231;paint-order:markers stroke fill"
+             style="fill:#7030a0;fill-opacity:0.439216;stroke:#0a040d;stroke-width:0.016976;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:0.69231;paint-order:markers stroke fill"
              id="path514" />
         </g>
         <text
@@ -1957,7 +2070,7 @@
     </g>
     <g
        id="Infrastructure"
-       transform="matrix(1.0197,0,0,1.0197,-5.6042,-61.268)">
+       transform="matrix(0.97191529,0,0,1.019964,19.299992,-59.541873)">
       <rect
          id="InfrastructureBox"
          x="55.723"
@@ -1984,7 +2097,7 @@
            y="180.97"
            width="18.318001"
            height="12.578"
-           style="opacity:0.43974;fill:#002060;stroke-width:3.683;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;fill-opacity:1" />
+           style="opacity:0.43974;fill:#002060;fill-opacity:1;stroke-width:3.683;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke" />
         <text
            id="StorageText"
            x="82.15313"
@@ -2004,7 +2117,7 @@
            y="180.97"
            width="18.318001"
            height="12.578"
-           style="opacity:0.43974;fill:#002060;stroke-width:3.683;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;fill-opacity:1.0" />
+           style="opacity:0.43974;fill:#002060;fill-opacity:1;stroke-width:3.683;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke" />
         <text
            id="NetworkText"
            x="102.26149"
@@ -2024,7 +2137,7 @@
            y="180.97"
            width="18.318001"
            height="12.578"
-           style="opacity:0.43974;fill:#002060;stroke-width:3.683;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;fill-opacity:1" />
+           style="opacity:0.43974;fill:#002060;fill-opacity:1;stroke-width:3.683;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke" />
         <text
            id="ComputeText"
            x="121.84066"
@@ -2044,7 +2157,7 @@
            y="180.97"
            width="18.318001"
            height="12.578"
-           style="opacity:0.43974;fill:#002060;stroke-width:3.683;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;fill-opacity:1.0" />
+           style="opacity:0.43974;fill:#002060;fill-opacity:1;stroke-width:3.683;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke" />
         <text
            id="CloudPremiseText"
            x="138.77383"
@@ -2068,7 +2181,7 @@
            y="180.97"
            width="18.318001"
            height="12.578"
-           style="opacity:0.43974;fill:#002060;stroke-width:3.683;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;fill-opacity:1" />
+           style="opacity:0.43974;fill:#002060;fill-opacity:1;stroke-width:3.683;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke" />
         <text
            id="AutoScalingText"
            x="158.8819"
@@ -2088,7 +2201,7 @@
            y="180.97"
            width="18.318001"
            height="12.578"
-           style="opacity:0.43974;fill:#002060;stroke-width:3.683;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;fill-opacity:1.0" />
+           style="opacity:0.43974;fill:#002060;fill-opacity:1;stroke-width:3.683;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke" />
         <text
            id="EdgeText"
            x="182.16493"
@@ -2103,7 +2216,7 @@
     </g>
     <g
        id="datamgmt"
-       transform="matrix(1.0197,0,0,1.0197,-5.6042,-61.268)">
+       transform="matrix(0.97767727,0,0,1.0197,18.338608,-59.486299)">
       <text
          id="DataMgmt"
          x="106.82013"
@@ -2125,7 +2238,7 @@
     </g>
     <g
        id="architecture"
-       transform="translate(-0.91337,-58.978)">
+       transform="matrix(1,0,0,1.0129538,13.3612,-59.822187)">
       <text
          id="Architecture"
          transform="rotate(90.151)"
@@ -2148,7 +2261,7 @@
     </g>
     <g
        id="analyticsgovernance"
-       transform="matrix(0.9999,0,0,0.9999,-1.0227,-58.704)">
+       transform="matrix(0.9999,0,0,0.9999,-0.73295462,-48.434088)">
       <text
          id="AnalyticsGovernance"
          x="19.621866"
@@ -2170,7 +2283,7 @@
     </g>
     <g
        id="analyticspractice"
-       transform="matrix(0.9999,0,0,0.9999,-1.0227,-58.704)">
+       transform="matrix(0.9999,0,0,0.9999,-1.1909974,-80.268363)">
       <path
          d="m 4.7457,136.34 0.047293,15.919"
          style="fill:none;stroke:#000000;stroke-width:0.23705;marker-end:url(#Arrow1Lend-5)"
@@ -2192,7 +2305,7 @@
          id="path599" />
     </g>
     <g
-       transform="translate(-0.91337,-58.978)"
+       transform="matrix(1.5566638,0,0,1.5566638,-26.369842,-99.60245)"
        id="g609">
       <text
          id="supports"
@@ -2215,7 +2328,7 @@
          id="path607" />
     </g>
     <g
-       transform="matrix(0.97797,0,0,0.97797,-0.84057,-57.056)"
+       transform="matrix(1.3744346,0,0,1.6479304,-17.920693,-116.58091)"
        id="g618">
       <path
          d="m 34.882,87.53 -0.08057,6.1867"
@@ -2238,23 +2351,23 @@
            id="tspan615" /></text>
     </g>
     <path
-       d="M 69.974,48.08 59.17,48.078"
+       d="m 73.155216,51.852573 -10.804,-0.002"
        style="fill:#d40000;stroke:#000000;stroke-width:0.23382;marker-start:url(#Arrow1Lstart-2);marker-mid:url(#Arrow1Lstart-2-9);marker-end:url(#DotL-9)"
        id="path620" />
     <path
-       d="M 69.495,57.152 59.143,57.15104"
+       d="m 77.324384,63.006683 -10.352,-9.6e-4"
        style="fill:#d40000;stroke:#000000;stroke-width:0.1824;marker-start:url(#marker2009-5);marker-mid:url(#Arrow1Lstart-2-9-8-0);marker-end:url(#Arrow1Lend-5)"
        id="path622" />
     <path
-       d="M 69.776,63.43 58.664,63.42903"
+       d="m 77.734261,69.972405 -11.112,-9.7e-4"
        style="fill:#d40000;stroke:#000000;stroke-width:0.18898;marker-start:url(#marker2025-1);marker-mid:url(#Arrow1Lstart-2-9-8);marker-end:url(#Arrow1Lend-5)"
        id="path624" />
     <path
-       d="M 66.705,72.546 47.203,72.544"
+       d="m 65.615763,164.01007 -19.502,-0.002"
        style="fill:#d40000;stroke:#000000;stroke-width:0.25547;marker-start:url(#DotL-9);marker-end:url(#DotL-9)"
        id="path626" />
     <path
-       d="M 66.56,98.303 66.70522,72.546"
+       d="m 65.470763,189.76715 0.14522,-25.75708"
        style="fill:#d40000;stroke:#000000;stroke-width:0.22292;marker-start:url(#marker2025-1);marker-mid:url(#Arrow1Lstart-2-9-6)"
        id="path628" />
   </g>
