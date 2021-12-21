@@ -33,7 +33,7 @@
      inkscape:window-x="-9"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
-     inkscape:current-layer="box" />
+     inkscape:current-layer="APIGateway" />
   <defs
      id="arrows">
     <rect
@@ -276,7 +276,7 @@
            transform="scale(0.43581403,2.2945567)"><tspan
              x="179.26543"
              y="35.50666"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.01871px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.377329"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.01871px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.377329"
              id="tspan58">BI Platform</tspan></text>
       </g>
       <g
@@ -289,21 +289,40 @@
            width="16.369984"
            height="12.181"
            style="opacity:0.43974;fill:#ed7d31;fill-opacity:1;stroke-width:3.4264;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke" />
-        <text
+        <g
            id="BusAppText"
-           x="199.77271"
-           y="37.347263"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.22124px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.277647"
-           xml:space="preserve"
-           transform="scale(0.48741134,2.0516552)"><tspan
+           transform="matrix(1.0684676,0,0,1.0703027,-6.6596846,-5.143436)">
+          <text
+             id="text120028"
              x="199.77271"
              y="37.347263"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.22124px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.277647;fill:#ffffff"
-             id="tspan63">Business </tspan><tspan
-             x="199.77271"
-             y="40.123772"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.22124px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.277647;fill:#ffffff"
-             id="tspan65">Applications</tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.22124px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.277647"
+             xml:space="preserve"
+             transform="scale(0.48741134,2.0516552)"><tspan
+               sodipodi:role="line"
+               id="tspan113338"
+               x="199.77271"
+               y="37.347263"><tspan
+                 x="199.77271"
+                 y="37.347263"
+                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.22124px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.277647"
+                 id="tspan63">Business</tspan></tspan></text>
+          <text
+             id="BusAppText-0"
+             x="199.53362"
+             y="39.953754"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.22124px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.277647"
+             xml:space="preserve"
+             transform="scale(0.48741134,2.0516552)"><tspan
+               sodipodi:role="line"
+               id="tspan113338-4"
+               x="199.53362"
+               y="39.953754">Applications<tspan
+   x="199.53362"
+   y="39.953754"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.22124px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.277647"
+   id="tspan63-8" /></tspan></text>
+        </g>
       </g>
       <g
          id="CustApps"
@@ -319,16 +338,16 @@
            id="CustAppsText"
            x="133.76428"
            y="68.168274"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.43158px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.303939"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.43158px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.303939"
            xml:space="preserve"
            transform="scale(0.87050233,1.148762)"><tspan
              x="133.76428"
              y="68.168274"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.43158px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.303939"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.43158px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.303939"
              id="tspan70">Customers </tspan><tspan
              x="133.76428"
              y="71.20771"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.43158px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.303939"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.43158px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.303939"
              id="tspan72">Applications</tspan></text>
       </g>
     </g>
@@ -376,7 +395,7 @@
            transform="scale(0.80772238,1.2380491)"><tspan
              x="177.81796"
              y="62.709621"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.87971px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.359956"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.87971px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.359956"
              id="tspan84">Sensors</tspan></text>
       </g>
       <g
@@ -398,7 +417,7 @@
            transform="scale(0.60226277,1.6604048)"><tspan
              x="260.73358"
              y="48.937485"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.51458px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.43931"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.51458px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.43931"
              id="tspan89">Controllers</tspan></text>
       </g>
       <g
@@ -420,7 +439,7 @@
            transform="scale(0.57030221,1.7534563)"><tspan
              x="332.36264"
              y="45.271923"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.45449px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.431799"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.45449px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.431799"
              id="tspan94">Actuators</tspan></text>
       </g>
       <g
@@ -443,7 +462,7 @@
            transform="scale(0.6178044,1.6186353)"><tspan
              x="291.84186"
              y="49.429043"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.42617px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.428259"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.42617px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.428259"
              id="tspan99">Devices</tspan></text>
       </g>
     </g>
@@ -628,14 +647,14 @@
            style="opacity:0.43974;fill:#ffc000;fill-opacity:1;stroke-width:3.5278;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke" />
         <text
            id="UnderstandDataText"
-           x="37.936066"
-           y="96.027191"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.38405px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.338255"
+           x="38.518745"
+           y="94.503098"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.32474px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.32984"
            xml:space="preserve"
-           transform="scale(0.78607657,1.2721407)"><tspan
-             x="37.936066"
-             y="96.027191"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.38405px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.338255"
+           transform="scale(0.77434251,1.2914182)"><tspan
+             x="38.518745"
+             y="94.503098"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.30663px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.32984"
              id="tspan144">Understand and Explore Data</tspan></text>
       </g>
     </g>
@@ -671,31 +690,36 @@
            height="7.3115001"
            style="opacity:0.43974;fill:#00b050;fill-opacity:1;stroke-width:2.8117;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke" />
         <g
-           id="AutoTestingText">
-          <text
-             id="text82973"
-             transform="scale(0.98413757,1.0161181)"
-             x="75.296173"
-             y="97.773529"
-             style="font-size:2.21594px;line-height:1.25;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.276996"
-             xml:space="preserve"><tspan
+           id="AutoTestingText"
+           style="fill:#000000">
+          <g
+             id="g128119"
+             style="fill:#000000">
+            <text
+               id="text82973"
+               transform="scale(0.98413757,1.0161181)"
                x="75.296173"
                y="97.773529"
-               style="font-size:2.21594px;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.276996"
-               id="tspan156"><tspan
-                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.21594px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff"
-                 id="tspan72270">Auto-Testing</tspan></tspan></text>
-          <text
-             id="AutoTestingText-8"
-             transform="scale(0.88363554,1.1316883)"
-             x="84.013474"
-             y="90.092606"
-             style="font-size:2.17652px;line-height:1.25;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.272068"
-             xml:space="preserve"><tspan
+               style="font-size:2.21594px;line-height:1.25;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.276996"
+               xml:space="preserve"><tspan
+                 x="75.296173"
+                 y="97.773529"
+                 style="font-size:2.21594px;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.276996;fill:#000000"
+                 id="tspan156"><tspan
+                   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.21594px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000"
+                   id="tspan72270">Auto-Testing</tspan></tspan></text>
+            <text
+               id="AutoTestingText-8"
+               transform="scale(0.88363554,1.1316883)"
                x="84.013474"
                y="90.092606"
-               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.17652px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.272068"
-               id="tspan156-3">and Assurance</tspan></text>
+               style="font-size:2.17652px;line-height:1.25;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.272068"
+               xml:space="preserve"><tspan
+                 x="84.013474"
+                 y="90.092606"
+                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.17652px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.272068"
+                 id="tspan156-3">and Assurance</tspan></text>
+          </g>
         </g>
       </g>
       <g
@@ -709,7 +733,9 @@
            height="7.3115001"
            style="opacity:0.43974;fill:#00b050;fill-opacity:1;stroke-width:2.8117;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke" />
         <g
-           id="FeatureDeployText">
+           id="FeatureDeployText"
+           style="fill:#000000"
+           transform="matrix(1.1448347,0,0,1.0400654,-15.040468,-4.1234851)">
           <text
              id="FeatureDeployText-8"
              transform="scale(1.1246627,0.88915548)"
@@ -719,7 +745,7 @@
              xml:space="preserve"><tspan
                x="85.655907"
                y="114.05212"
-               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.30157px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.287697"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.30157px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.287697"
                id="tspan163-5">Deploy</tspan></text>
           <text
              id="text87287"
@@ -730,7 +756,7 @@
              xml:space="preserve"><tspan
                x="85.153175"
                y="111.58835"
-               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.30157px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.287697"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.30157px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.287697"
                id="tspan163">Feature</tspan></text>
         </g>
       </g>
@@ -753,7 +779,7 @@
            xml:space="preserve"><tspan
              x="132.46255"
              y="85.54969"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.33206px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.2915"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.33206px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.2915"
              id="tspan170">Choreographer</tspan></text>
       </g>
       <g
@@ -793,7 +819,8 @@
            height="7.5061002"
            style="opacity:0.43974;fill:#00b050;fill-opacity:1;stroke-width:2.5911;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke" />
         <g
-           id="ContainerMgmtText">
+           id="ContainerMgmtText"
+           style="fill:#000000">
           <text
              id="text101471"
              transform="scale(0.9626228,1.0388285)"
@@ -803,7 +830,7 @@
              xml:space="preserve"><tspan
                x="77.829636"
                y="103.71011"
-               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.99555px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.249454"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.99555px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.249454"
                id="tspan182">Container</tspan></text>
           <text
              id="ContainerMgmtText-9"
@@ -814,7 +841,7 @@
              xml:space="preserve"><tspan
                x="76.219627"
                y="106.0626"
-               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.99555px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.249454"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.99555px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.249454"
                id="tspan182-1">Management</tspan></text>
         </g>
       </g>
@@ -829,7 +856,8 @@
            height="7.5061002"
            style="opacity:0.43974;fill:#00b050;fill-opacity:1;stroke-width:2.3155;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke" />
         <g
-           id="ModelDeployText">
+           id="ModelDeployText"
+           style="fill:#000000">
           <text
              id="text101463"
              transform="scale(1.0100707,0.99002971)"
@@ -839,7 +867,7 @@
              xml:space="preserve"><tspan
                x="89.766235"
                y="108.46466"
-               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.1182px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.264771"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.1182px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.264771"
                id="tspan189">Model</tspan></text>
           <text
              id="ModelDeployText-2"
@@ -850,30 +878,30 @@
              xml:space="preserve"><tspan
                x="89.609085"
                y="111.05766"
-               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.1182px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.264771"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.1182px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.264771"
                id="tspan189-8">Deploy</tspan></text>
         </g>
       </g>
       <g
-         id="FallSafe"
+         id="FailSafe"
          transform="matrix(1.6664935,0,0,1,-68.265736,0.17281188)">
         <rect
-           id="FallSafeBox"
+           id="FailSafeBox"
            x="101.04"
            y="104.37"
            width="11.276"
            height="7.4088001"
            style="opacity:0.43974;fill:#00b050;fill-opacity:1;stroke-width:2.2178;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke" />
         <text
-           id="FallSafeText"
-           transform="scale(0.68367991,1.4626728)"
-           x="150.93782"
-           y="74.618362"
-           style="font-size:2.02676px;line-height:1.25;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.253343"
+           id="FailSafeText"
+           transform="scale(0.70928303,1.4098744)"
+           x="145.67693"
+           y="77.446182"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.9536px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.244198"
            xml:space="preserve"><tspan
-             x="150.93782"
-             y="74.618362"
-             style="font-size:2.02676px;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.253343"
+             x="145.67693"
+             y="77.446182"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.9536px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.244198"
              id="tspan196">Fail-safe</tspan></text>
       </g>
       <g
@@ -921,7 +949,7 @@
            xml:space="preserve"><tspan
              x="197.69398"
              y="71.719543"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.67906px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.209879"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.67906px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.209879"
              id="tspan208">API Gateway</tspan></text>
       </g>
       <g
