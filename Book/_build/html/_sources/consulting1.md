@@ -1,13 +1,11 @@
 # Discovery Workshop 
 
-:::::{tabbed} AI Capabilities
-::::{div} full-width
+::::{tabbed} AI Capabilities
 :::{image} enterpriseAI.svg
 :width: 100%
 :align: center
 :::
 ::::
-:::::
 
 ::::{tabbed} Architecture Diagram for Hybrid Cloud Setup
 :::{image} hybrid.svg
