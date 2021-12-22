@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 <svg id="buildingblocks" width="1920" height="1080" version="1.1" viewBox="0 0 508 282.89" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
- 
  <defs id="arrows">
   <marker id="marker2049" style="overflow:visible" orient="auto">
    <path transform="matrix(.8 0 0 .8 10 0)" d="m0 0 5-5-17.5 5 17.5 5z" style="fill-rule:evenodd;fill:context-stroke;stroke-width:1pt;stroke:context-stroke"/>
@@ -34,18 +33,17 @@
    <path transform="matrix(-.8 0 0 -.8 -10 0)" d="m0 0 5-5-17.5 5 17.5 5z" style="fill-rule:evenodd;fill:context-stroke;stroke-width:1pt;stroke:context-stroke"/>
   </marker>
  </defs>
- 
  <g id="box" transform="matrix(2.2984 0 0 2.0553 -3.1276 -5.8864)">
   <g id="DataDrivenDecisionMaking" transform="matrix(1.0001 0 0 .96339 4.4616 -55.921)">
    <rect id="DataDrivenBox" x="1.9914" y="64.667" width="64.574" height="24.362" style="fill:none;opacity:.43974;paint-order:fill markers stroke;stroke-dasharray:0.363115, 0.726231;stroke-linecap:square;stroke-width:.18156;stroke:#000"/>
    <text id="DataDrivenText" transform="scale(.72262 1.3838)" x="4.562819" y="50.566742" style="fill:#000000;font-family:sans-serif;font-size:3.5203px;font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold;line-height:1.25;stroke-width:.08841" xml:space="preserve"><tspan x="4.562819" y="50.566742" style="font-family:sans-serif;font-size:3.5203px;font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold;stroke-width:.08841">Data Driven Decision Making</tspan></text>
    <g id="Strategic" transform="matrix(1 0 0 .95543 0 3.2088)">
     <rect id="StrategicBox" x="4.0014" y="71.993" width="20.341" height="14.184" style="fill:#d3133c;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:4.1213"/>
-    <text id="StrategicText" transform="scale(.76906 1.3003)" x="7.0974565" y="58.528503" style="fill:#ffffff;font-family:sans-serif;font-size:2.5256px;font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold;line-height:1.25;stroke-width:.34403" xml:space="preserve"><tspan x="7.0974565" y="58.528503" style="fill:#ffffff;font-family:sans-serif;font-size:2.5256px;font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold;stroke-width:.34403">Strategic</tspan></text>
+    <text id="StrategicText" transform="scale(.76906 1.3003)" x="7.0974565" y="58.528503" style="fill:#ffffff;font-family:Univers-Black;font-size:2.5838px;font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:100;line-height:1.25;stroke-width:.34403" xml:space="preserve"><tspan x="7.0974565" y="58.528503" style="fill:#ffffff;font-family:Univers-Black;font-size:2.5838px;font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:100;stroke-width:.34403">Strategic</tspan></text>
    </g>
    <g id="Tactical" transform="matrix(1.258 0 0 1.1016 -12.424 -7.4567)">
     <rect id="TacticalBox" x="30.191" y="72.046" width="15.476" height="12.445" style="fill:#d3133c;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:3.3673"/>
-    <text id="TacticalText" transform="scale(.76702 1.3037)" x="40.955601" y="58.213142" style="fill:#ffffff;font-family:sans-serif;font-size:2.1454px;font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold;line-height:1.25;stroke-width:.34494" xml:space="preserve"><tspan x="40.955601" y="58.213142" style="fill:#ffffff;font-family:sans-serif;font-size:2.1454px;font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold;stroke-width:.34494">Tactical</tspan></text>
+    <text id="TacticalText" transform="scale(.76702 1.3037)" x="40.955601" y="58.213142" style="fill:#ffffff;font-family:Univers-Black;font-size:2.1454px;font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:100;line-height:1.25;stroke-width:.34494" xml:space="preserve"><tspan x="40.955601" y="58.213142" style="fill:#ffffff;font-family:Univers-Black;font-size:2.1454px;font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:100;stroke-width:.34494">Tactical</tspan></text>
    </g>
    <g id="Operational" transform="matrix(1.1994 0 0 1.1016 -10.933 -7.3196)">
     <rect id="OperationalBox" x="47.551" y="72.046" width="15.476" height="12.445" style="fill:#d3133c;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:3.3673"/>
@@ -110,7 +108,7 @@
    </g>
    <g id="Operationalize">
     <rect id="OperationalizeBox" x="45.035" y="96.616" width="18.005" height="13.833" style="fill:#ffc000;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:3.8294"/>
-    <text id="OperationalizeText" transform="scale(.79759 1.2538)" x="57.454842" y="80.08078" style="fill:#000000;font-family:sans-serif;font-size:2.14px;font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold;line-height:1.25;stroke-width:.17176" xml:space="preserve"><tspan x="57.454842" y="80.08078" style="font-family:sans-serif;font-size:2.14px;font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold;stroke-width:.17176">Operationalize</tspan></text>
+    <text id="OperationalizeText" transform="scale(.81884 1.2212)" x="55.958202" y="82.215782" style="fill:#000000;font-family:sans-serif;font-size:2.197px;font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold;line-height:1.25;stroke-width:.17634" xml:space="preserve"><tspan x="55.958202" y="82.215782" style="font-family:sans-serif;font-size:2.197px;font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold;stroke-width:.17634">Operationalize</tspan></text>
    </g>
    <g id="FrameProblem">
     <rect id="FrameProblemBox" x="12.52" y="112.05" width="16.161" height="12.375" style="fill:#ffc000;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:3.4314"/>
@@ -201,7 +199,7 @@
    </g>
    <g id="Experience" transform="matrix(.76401 0 0 .88441 18.008 8.7555)">
     <rect id="ExperienceBox" x="46.958" y="143.57" width="13.532" height="8.3765" style="fill:#3276ff;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:2.5834"/>
-    <text id="ExperienceText" x="47.536377" y="148.29118" style="fill:#ffffff;font-family:sans-serif;font-size:2.0913px;font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold;line-height:1.25;stroke-width:.24063" xml:space="preserve"><tspan x="47.536377" y="148.29118" style="fill:#ffffff;font-family:sans-serif;font-size:2.0913px;font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold;stroke-width:.24063">Experience</tspan></text>
+    <text id="ExperienceText" x="47.536377" y="148.59874" style="fill:#ffffff;font-family:sans-serif;font-size:2.0913px;font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold;line-height:1.25;stroke-width:.24063" xml:space="preserve"><tspan x="47.536377" y="148.59874" style="fill:#ffffff;font-family:sans-serif;font-size:2.0913px;font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold;stroke-width:.24063">Experience</tspan></text>
    </g>
    <g id="Persist" transform="matrix(.77826 0 0 .86985 18.366 11.096)">
     <rect id="PersistBox" x="31.49" y="143.5" width="13.412" height="8.3765" style="fill:#3276ff;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:2.5719"/>
@@ -418,7 +416,7 @@
     <text id="EdgeText" x="181.69115" y="187.85411" style="fill:#ffffff;font-family:sans-serif;font-size:2.49px;font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold;line-height:1.25;stroke-width:.26458" xml:space="preserve"><tspan x="181.69115" y="187.85411" style="fill:#ffffff;font-family:sans-serif;font-size:2.49px;font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold;stroke-width:.26458">Edge</tspan></text>
    </g>
   </g>
-  <g id="datamgmt" transform="matrix(.97768 0 0 1.0197 18.339 -59.486)">
+  <g id="datamgmt" transform="matrix(1.0467 0 0 1.0197 4.3329 -59.486)">
    <text id="DataMgmt" x="106.82013" y="177.9325" style="fill:#000000;font-family:sans-serif;font-size:2.1167px;font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25;stroke-width:.26458" xml:space="preserve"><tspan x="106.82013" y="177.9325" style="font-family:sans-serif;font-size:2.1167px;font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold;stroke-width:.26458">DATA GOVERNANCE &amp; DATA MANAGEMENT</tspan></text>
    <path d="m158.93 177.63 44.02-6e-3" style="fill:none;marker-end:url(#Arrow1Lend-0);stroke-width:.25903;stroke:#000"/>
    <path d="m105.86 177.41-49.009-6e-3" style="fill:none;marker-end:url(#Arrow1Lend-0);stroke-width:.27331;stroke:#000"/>

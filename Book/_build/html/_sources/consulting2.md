@@ -10,7 +10,6 @@
 :body: text-justify
 :animate: fade-in-slide-down
 
-
 High performance networking is typically required as large and fast data movement are expected. Infrastructure comprising storage, network and compute resources can be procured in any of the forms below:
 * physical setup on-premise or service provider's data center
 * Hypter-Converged Infrastructure (HCI) such as on-premise VMWare vSphere or Nutanix
