@@ -6,7 +6,7 @@
 ![architecture1](bigdata1.svg)
 
 :::{dropdown} **Infrastructure**
-:title: bg-jb-fernGreen text-light
+:title: bg-jb-four text-light
 :body: text-justify
 :animate: fade-in-slide-down
 
@@ -18,7 +18,7 @@ High performance networking is typically required as large and fast data movemen
 :::
 
 :::{dropdown} **Data Minder**
-:title: bg-jb-fernGreen text-light
+:title: bg-jb-four text-light
 :body: text-justify
 :animate: fade-in-slide-down
 
@@ -30,7 +30,7 @@ Used to manage the</li><li>**Data Sources:** The primary locations<br><br></li><
 ![architecture2](bigdata2.svg) 
 
 :::{dropdown} **Model Maker**
-:title: bg-jb-fernGreen text-light
+:title: bg-jb-four text-light
 :body: text-justify
 :animate: fade-in-slide-down
 
@@ -38,7 +38,7 @@ Also known as<li>**Data:** The data components<br></li><li>**Model:** AI scienti
 :::
 
 :::{dropdown} **Performance Manager**
-:title: bg-jb-fernGreen text-light
+:title: bg-jb-four text-light
 :body: text-justify
 :animate: fade-in-slide-down
 
@@ -46,7 +46,7 @@ This performance manager monitors
 :::
 
 :::{dropdown} **Inference Activator**
-:title: bg-jb-fernGreen text-light
+:title: bg-jb-four text-light
 :body: text-justify
 :animate: fade-in-slide-down
 
@@ -60,7 +60,7 @@ The inference activator deploys</li><li>**Model Deployment:** The model deployme
 *Composable Architecture for Starter Programme*
 
 :::{dropdown} **Data Minder**
-:title: bg-jb-blue text-light
+:title: bg-jb-one text-light
 :body: text-left
 :animate: fade-in-slide-down
 
@@ -73,7 +73,7 @@ The inference activator deploys</li><li>**Model Deployment:** The model deployme
 :::
 
 :::{dropdown} **Model Maker**
-:title: bg-jb-blue text-light
+:title: bg-jb-one text-light
 :body: text-left
 :animate: fade-in-slide-down
 
@@ -84,7 +84,7 @@ The inference activator deploys</li><li>**Model Deployment:** The model deployme
 :::
 
 :::{dropdown} **Engagement Systems**
-:title: bg-jb-blue text-light
+:title: bg-jb-one text-light
 :body: text-left
 :animate: fade-in-slide-down
 
