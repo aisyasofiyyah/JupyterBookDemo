@@ -18,10 +18,6 @@
 
 ::::::{tabbed} Data Sense Making
 
-:::::{margin} 
-![d2](datascience2.png)
-:::::
-
 ::::{dropdown} **Data Profiling**
 :title: bg-jb-darkGold
 :animate: fade-in-slide-down
@@ -54,6 +50,7 @@
 - Outliers
 :::
 ::::
+
 
 | Processes | Key Activities |
 |-----------|---------------|
