@@ -15,7 +15,6 @@
 }
 
 /* Overrides for admonition toggles */
-
 /* Titles should cut off earlier to avoid overlapping w/ button */
 div.admonition.toggle p.admonition-title {
     padding-right: 25%;
@@ -79,4 +78,14 @@ button.toggle-button {
 
 .toggle-button-hidden .vertical {
     transform: rotate(-90deg);
+}
+
+@media (min-width: 768px) {
+    button.toggle-button.toggle-button-hidden:before {
+        content: "";
+        position: absolute;
+        font-size: .8em;
+        left: -6.5em;
+        bottom: .4em;
+    }
 }

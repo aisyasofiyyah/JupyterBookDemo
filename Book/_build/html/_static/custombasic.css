@@ -11,52 +11,19 @@ aside.sidebar {
 }
 
 table{
-    margin-left: auto !important;
-    margin-right: 100% !important;
     width: 100% !important;  
 }
 /*table header*/ 
 th{
-    text-align:left;
-    padding: 16px;
-    background-color: #cecbcb;
+    text-align: left;  
 }
 /* table data*/
 td {
   text-align: left;
-  padding: 16px;
 }
 tr:hover {
     background-color: #f2f2f2;
 }
-
-#smallcircle,
-#bigcircle {
-  animation-name: spin;
-  animation-duration: 4000ms;
-  animation-iteration-count: infinite;
-  animation-timing-function: linear;
-  transform-origin:15px 29px;
-  animation-play-state: running;
-}
-#smallcircle {
-  animation-duration: 3000ms;
-  transform-origin: 24.691px 35.778px;
-  animation-direction: reverse;
-}
-
-svg:hover #bigcircle,
-svg:hover #smallcircle {
-  animation-play-state: paused;
-}
-@keyframes spin {
-    from {
-      transform: rotate(0deg);
-    }
-    to {
-      transform: rotate(360deg);
-    }
-  }
 
 :root {
   /*tabbed content */
