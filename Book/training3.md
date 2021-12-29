@@ -27,7 +27,6 @@
 :animate: fade-in-slide-down
 
 :::{panels}
-:column: col-sm
 :header: text-center bg-jb-gold 
 **Technical Quality**
 ^^^
