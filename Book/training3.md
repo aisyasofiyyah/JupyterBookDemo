@@ -51,7 +51,6 @@
 :::
 ::::
 
-
 | Processes | Key Activities |
 |-----------|---------------|
 | Data Identification and Prioritization |</li><li>Articulate the data required to solve the problem</li><li>Reconcile the difference between the data we get and the data we want</li><li>Trace back the business and operational workflows reflected in the data</li><li>Articulate the provenance and governance assumption of the data

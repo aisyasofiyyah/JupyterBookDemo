@@ -17,9 +17,8 @@
 
 :::::{tabbed} Flow Diagram
 ::::{image} flowdiagram.png
-:class: p-4
+:class: pt-5
 :width: 500px
-:align: left
 ::::
 :::{sidebar} Flow
 :class: text-justify
