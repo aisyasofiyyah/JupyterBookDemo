@@ -328,7 +328,7 @@ aside.sidebar {
     width: 40%;
     float: right;
     clear: right;
-    overflow-x: none;
+    overflow-x: auto;
 }
 
 p.sidebar-title {

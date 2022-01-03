@@ -4,7 +4,8 @@ aside.sidebar {
     margin: 0 0 0 0;    
     border: none;
     padding: 0px;
-    width: 100%;
+    width: 100%;    
+    overflow-x: none;
 }
 div.sidebar:not(.margin){
   background-color: #ffffff;
