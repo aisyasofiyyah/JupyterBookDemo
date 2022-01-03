@@ -2,8 +2,8 @@
 div.sidebar,
 aside.sidebar {
     margin: 0 0 0 0;    
-    border: 1px solid #ffffff;
-    padding: 1px;
+    border: none;
+    padding: 0px;
     width: 100%;
 }
 div.sidebar:not(.margin){
