@@ -5,7 +5,7 @@ aside.sidebar {
     border: none;
     padding: 0px;
     width: 100%;    
-    overflow-x: none;
+    overflow-x: scroll;
 }
 div.sidebar:not(.margin){
   background-color: #ffffff;
