@@ -34,6 +34,7 @@
     <link rel="stylesheet" type="text/css" href="_static/customcolor.css" />
     <link rel="stylesheet" type="text/css" href="_static/custombasic.css" />
     <link rel="stylesheet" type="text/css" href="_static/customfontstyle.css" />
+    <link rel="stylesheet" type="text/css" href="_static/tooltips.css" />
     
   <link rel="preload" as="script" href="_static/js/index.1c5a1a01449ed65a7b51.js">
 
@@ -53,6 +54,9 @@
         const thebe_selector_output = ".output"
     </script>
     <script async="async" src="_static/sphinx-thebe.js"></script>
+    <script src="_static/d3.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.17/d3.min.js"></script>
+    <script src="_static/tooltips.js"></script>
     <link rel="shortcut icon" href="_static/favicon.ico"/>
     <link rel="index" title="Index" href="genindex.html" />
     <link rel="search" title="Search" href="search.html" />
@@ -286,10 +290,10 @@
 <div class="section" id="reference-architecture">
 <h2>Reference Architecture<a class="headerlink" href="#reference-architecture" title="Permalink to this headline">¶</a></h2>
 <div class="tabbed-set docutils">
-<input checked="checked" id="43f0e7ba-43f4-4ac0-9076-c0680f51f829" name="37de01d1-d6dd-4bac-8197-8df0e49f7999" type="radio">
-</input><label class="tabbed-label" for="43f0e7ba-43f4-4ac0-9076-c0680f51f829">
+<input checked="checked" id="9afdb8b1-df92-41f1-bcc4-f0fbf03c8c03" name="086257db-42a6-463b-a919-cf7c09e1cd48" type="radio">
+</input><label class="tabbed-label" for="9afdb8b1-df92-41f1-bcc4-f0fbf03c8c03">
 Infrastructure and Data Minder</label><div class="tabbed-content docutils">
-<p><img alt="architecture1" src="_images/bigdata1.svg" /></p>
+<img alt="bigdata1" src="_images/bigdata1.svg" />
 <details class="sphinx-bs dropdown card mb-3 fade-in-slide-down">
 <summary class="summary-title card-header bg-jb-four text-light">
 <strong>Infrastructure</strong><div class="summary-down docutils">
@@ -315,8 +319,8 @@ Infrastructure and Data Minder</label><div class="tabbed-content docutils">
 <p class="card-text">Used to manage the</li><li><strong>Data Sources:</strong> The primary locations<br><br></li><li><strong>Raw Data Store:</strong> Where all incoming data<br><br></li><li><strong>Data Labs:</strong> Where the AI scientists<br><br></li><li><strong>Data Governance:</strong> The data governance<br><br></li><li><strong>Data Synthesizer:</strong> Used to do two things;</li><li><strong>Data Labeler:</strong> Used to label<br><br></li><li><strong>Knowledge Graph:</strong> A graph of<br><br></li><li><strong>Data Marketplace:</strong> A comprehensive view</p>
 </div>
 </details></div>
-<input id="c9963cf8-53be-4bde-90af-911c8f501cc4" name="37de01d1-d6dd-4bac-8197-8df0e49f7999" type="radio">
-</input><label class="tabbed-label" for="c9963cf8-53be-4bde-90af-911c8f501cc4">
+<input id="44b33cad-9199-4110-984d-f8491529cdb9" name="086257db-42a6-463b-a919-cf7c09e1cd48" type="radio">
+</input><label class="tabbed-label" for="44b33cad-9199-4110-984d-f8491529cdb9">
 Model Maker, Inference Activator and Performance Manager </label><div class="tabbed-content docutils">
 <p><img alt="architecture2" src="_images/bigdata2.svg" /></p>
 <details class="sphinx-bs dropdown card mb-3 fade-in-slide-down">
@@ -352,8 +356,8 @@ Model Maker, Inference Activator and Performance Manager </label><div class="tab
 <div class="section" id="analytics-programme">
 <h2>Analytics Programme<a class="headerlink" href="#analytics-programme" title="Permalink to this headline">¶</a></h2>
 <div class="tabbed-set docutils">
-<input checked="checked" id="d8eae1d3-ad3d-4151-b118-188f0e0660ed" name="d3e0d122-860b-4a38-9c45-ba5527be1356" type="radio">
-</input><label class="tabbed-label" for="d8eae1d3-ad3d-4151-b118-188f0e0660ed">
+<input checked="checked" id="fb838c68-dd0a-4aee-8a9e-7e2a656f61a7" name="c2e2d4c9-2e37-45ff-b001-b99401305d5b" type="radio">
+</input><label class="tabbed-label" for="fb838c68-dd0a-4aee-8a9e-7e2a656f61a7">
 Analytics Starter Programme</label><div class="tabbed-content docutils">
 <p><img alt="starter2" src="_images/starter.svg" /><br />
 <em>Composable Architecture for Starter Programme</em></p>
@@ -450,8 +454,8 @@ Analytics Starter Programme</label><div class="tabbed-content docutils">
 </table>
 </div>
 </details></div>
-<input id="4fb1e8e1-c417-4ace-9802-3ded753b1f46" name="d3e0d122-860b-4a38-9c45-ba5527be1356" type="radio">
-</input><label class="tabbed-label" for="4fb1e8e1-c417-4ace-9802-3ded753b1f46">
+<input id="b215e691-029b-4905-942f-b3df6ec2540e" name="c2e2d4c9-2e37-45ff-b001-b99401305d5b" type="radio">
+</input><label class="tabbed-label" for="b215e691-029b-4905-942f-b3df6ec2540e">
 Analytics Growth Programme</label><div class="tabbed-content docutils">
 <p><img alt="growth2" src="_images/growth.svg" />
 <em>Composable Architecture for Analytics Growth Programme</em></p>
@@ -682,8 +686,8 @@ Analytics Growth Programme</label><div class="tabbed-content docutils">
 </table>
 </div>
 </details></div>
-<input id="dcf25ab2-00f4-436c-b29e-2be6dad189d8" name="d3e0d122-860b-4a38-9c45-ba5527be1356" type="radio">
-</input><label class="tabbed-label" for="dcf25ab2-00f4-436c-b29e-2be6dad189d8">
+<input id="fd048d4b-9247-4c49-99af-def607da0617" name="c2e2d4c9-2e37-45ff-b001-b99401305d5b" type="radio">
+</input><label class="tabbed-label" for="fd048d4b-9247-4c49-99af-def607da0617">
 Analytics Advanced Programme</label><div class="tabbed-content docutils">
 <p><img alt="advanced2" src="_images/advanced.svg" />
 <em>Composable Architecture for Analytics Advanced Programme</em></p>

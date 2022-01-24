@@ -34,6 +34,7 @@
     <link rel="stylesheet" type="text/css" href="_static/customcolor.css" />
     <link rel="stylesheet" type="text/css" href="_static/custombasic.css" />
     <link rel="stylesheet" type="text/css" href="_static/customfontstyle.css" />
+    <link rel="stylesheet" type="text/css" href="_static/tooltips.css" />
     
   <link rel="preload" as="script" href="_static/js/index.1c5a1a01449ed65a7b51.js">
 
@@ -53,6 +54,8 @@
         const thebe_selector_output = ".output"
     </script>
     <script async="async" src="_static/sphinx-thebe.js"></script>
+    <script src="_static/d3.min.js"></script>
+    <script src="_static/tooltips.js"></script>
     <link rel="shortcut icon" href="_static/favicon.ico"/>
     <link rel="index" title="Index" href="genindex.html" />
     <link rel="search" title="Search" href="search.html" />
@@ -287,8 +290,8 @@
 <div class="section" id="analytics-lifecycle-roles">
 <h2>Analytics Lifecycle Roles<a class="headerlink" href="#analytics-lifecycle-roles" title="Permalink to this headline">¶</a></h2>
 <div class="tabbed-set docutils">
-<input checked="checked" id="4d0545ab-d717-4321-8cae-3a7c1cff3e3e" name="d4926432-68cd-4722-91e7-8536cd74cec7" type="radio">
-</input><label class="tabbed-label" for="4d0545ab-d717-4321-8cae-3a7c1cff3e3e">
+<input checked="checked" id="2940b0e6-8d6e-40b6-842a-7fc78625de8a" name="124d4353-ced3-4345-a695-d86371cb2f08" type="radio">
+</input><label class="tabbed-label" for="2940b0e6-8d6e-40b6-842a-7fc78625de8a">
 Product Management</label><div class="tabbed-content docutils">
 <div class="tip dropdown admonition">
 <p class="admonition-title">Product Manager</p>
@@ -327,8 +330,8 @@ Product Management</label><div class="tabbed-content docutils">
 </ul>
 </div>
 </div>
-<input id="dda1e910-d15f-4f8e-8a13-29bc9064c5b2" name="d4926432-68cd-4722-91e7-8536cd74cec7" type="radio">
-</input><label class="tabbed-label" for="dda1e910-d15f-4f8e-8a13-29bc9064c5b2">
+<input id="eb22dd04-d401-4077-a7b0-bd7535c0b673" name="124d4353-ced3-4345-a695-d86371cb2f08" type="radio">
+</input><label class="tabbed-label" for="eb22dd04-d401-4077-a7b0-bd7535c0b673">
 Business Analysis</label><div class="tabbed-content docutils">
 <div class="tip dropdown admonition">
 <p class="admonition-title">Business Analyst </p>
@@ -376,8 +379,8 @@ Business Analysis</label><div class="tabbed-content docutils">
 </ul>
 </div>
 </div>
-<input id="09f08ecc-3c91-41b7-83cd-82b7543a6d70" name="d4926432-68cd-4722-91e7-8536cd74cec7" type="radio">
-</input><label class="tabbed-label" for="09f08ecc-3c91-41b7-83cd-82b7543a6d70">
+<input id="53cde88e-9d96-46a6-a8f4-6952b8f24255" name="124d4353-ced3-4345-a695-d86371cb2f08" type="radio">
+</input><label class="tabbed-label" for="53cde88e-9d96-46a6-a8f4-6952b8f24255">
 Statistical Analysis</label><div class="tabbed-content docutils">
 <div class="tip dropdown admonition">
 <p class="admonition-title">Statistician</p>
@@ -416,8 +419,8 @@ Statistical Analysis</label><div class="tabbed-content docutils">
 </ul>
 </div>
 </div>
-<input id="f4f2732c-bdbb-4807-9eea-ba7d785a6032" name="d4926432-68cd-4722-91e7-8536cd74cec7" type="radio">
-</input><label class="tabbed-label" for="f4f2732c-bdbb-4807-9eea-ba7d785a6032">
+<input id="af93545b-3f23-4366-ba12-42ce75fbd4d4" name="124d4353-ced3-4345-a695-d86371cb2f08" type="radio">
+</input><label class="tabbed-label" for="af93545b-3f23-4366-ba12-42ce75fbd4d4">
 Technical Analysis</label><div class="tabbed-content docutils">
 <div class="tip dropdown admonition">
 <p class="admonition-title">Data Manager</p>
@@ -461,8 +464,8 @@ Technical Analysis</label><div class="tabbed-content docutils">
 <div class="section" id="analytics-delivery-roles">
 <h2>Analytics Delivery Roles<a class="headerlink" href="#analytics-delivery-roles" title="Permalink to this headline">¶</a></h2>
 <div class="tabbed-set docutils">
-<input checked="checked" id="745d19ce-524a-44a2-b8fe-950c379f1d71" name="d7de83ef-bfa1-4de8-8117-af312ae8aff2" type="radio">
-</input><label class="tabbed-label" for="745d19ce-524a-44a2-b8fe-950c379f1d71">
+<input checked="checked" id="038f7359-0ce9-4cd1-843b-6f1a106baa4d" name="6da814e3-d469-4da6-bf4d-382246670e90" type="radio">
+</input><label class="tabbed-label" for="038f7359-0ce9-4cd1-843b-6f1a106baa4d">
 Project Management</label><div class="tabbed-content docutils">
 <div class="attention dropdown admonition">
 <p class="admonition-title">Project Manager</p>
@@ -493,8 +496,8 @@ Project Management</label><div class="tabbed-content docutils">
 </ul>
 </div>
 </div>
-<input id="792c3fe2-4201-401e-bbe9-624c86d05d19" name="d7de83ef-bfa1-4de8-8117-af312ae8aff2" type="radio">
-</input><label class="tabbed-label" for="792c3fe2-4201-401e-bbe9-624c86d05d19">
+<input id="f03adbfe-5bcc-407e-85ef-15ae85637815" name="6da814e3-d469-4da6-bf4d-382246670e90" type="radio">
+</input><label class="tabbed-label" for="f03adbfe-5bcc-407e-85ef-15ae85637815">
 Implementation</label><div class="tabbed-content docutils">
 <div class="attention dropdown admonition">
 <p class="admonition-title">Application Developer</p>
@@ -537,8 +540,8 @@ Implementation</label><div class="tabbed-content docutils">
 </ul>
 </div>
 </div>
-<input id="f540e714-6eec-4f5d-a66d-939fa29352b5" name="d7de83ef-bfa1-4de8-8117-af312ae8aff2" type="radio">
-</input><label class="tabbed-label" for="f540e714-6eec-4f5d-a66d-939fa29352b5">
+<input id="41dc4383-3bef-48db-93e8-976513299800" name="6da814e3-d469-4da6-bf4d-382246670e90" type="radio">
+</input><label class="tabbed-label" for="41dc4383-3bef-48db-93e8-976513299800">
 Infrastructure Management</label><div class="tabbed-content docutils">
 <div class="attention dropdown admonition">
 <p class="admonition-title">Technician</p>
@@ -573,8 +576,8 @@ Infrastructure Management</label><div class="tabbed-content docutils">
 </ul>
 </div>
 </div>
-<input id="5eb0aec8-85a0-4904-8b91-250ff9be073c" name="d7de83ef-bfa1-4de8-8117-af312ae8aff2" type="radio">
-</input><label class="tabbed-label" for="5eb0aec8-85a0-4904-8b91-250ff9be073c">
+<input id="c9a4c064-faa7-484f-9ee8-1421913cc2c7" name="6da814e3-d469-4da6-bf4d-382246670e90" type="radio">
+</input><label class="tabbed-label" for="c9a4c064-faa7-484f-9ee8-1421913cc2c7">
 Solutioning</label><div class="tabbed-content docutils">
 <div class="attention dropdown admonition">
 <p class="admonition-title">Solution Architect</p>

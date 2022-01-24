@@ -47,4 +47,7 @@ sphinx:
       - customcolor.css
       - custombasic.css
       - customfontstyle.css
-
+      - tooltips.css
+    html_js_files:
+      - d3.min.js
+      - tooltips.js

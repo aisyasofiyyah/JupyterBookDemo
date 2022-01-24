@@ -3,7 +3,7 @@
 ## Reference Architecture
 
 ::::{tabbed} Infrastructure and Data Minder
-![architecture1](bigdata1.svg)
+![bigdata1](bigdata1.svg)
 
 :::{dropdown} **Infrastructure**
 :title: bg-jb-four text-light
